@@ -85,10 +85,10 @@ body {
 /* Lead photo now above title */
 .lead-art { margin: 0 0 12px; }
 .photo-placeholder {
-  width: 100%; aspect-ratio: 16/9;
-  background: repeating-linear-gradient(0deg, #cfcfcf 0 1px, #f2f2f2 1px 2px);
-  filter: grayscale(100%) contrast(115%) brightness(95%);
-  border: 1px solid #bfbfbf;
+  height: 300px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
 }
 .caption { font-size: .8rem; color: var(--muted); margin-top: 4px; }
 
