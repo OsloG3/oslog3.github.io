@@ -60,6 +60,7 @@ body {
   margin: 0;              /* ensure no extra margin */
 }
 
+
 .section {
   text-decoration: none;
   color: var(--ink);
@@ -70,8 +71,45 @@ body {
 
 .section:hover {
   border-bottom-color: var(--ink);      /* reveal underline without shifting */
+  transition: border-bottom-color .15s ease;
 }
 
+.ddown {
+  position: relative;
+  display: flex;         /* behave like other flex children */
+  align-items: center;   /* vertically center Bridge text */
+}
+
+.ddown ul {
+  display: none; /* hidden by default */
+  position: absolute;
+  top: 100%;      /* position directly below Bridge */
+  left: 0;
+  background-color: #fffef8;  /* match your page */
+  border: 1px solid #ccc;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  min-width: 160px;
+  z-index: 100; /* ensure on top */
+}
+
+.ddown:hover ul {
+  display: block; /* reveal submenu on hover */
+}
+
+.ddown ul li a {
+  display: block;
+  padding: 8px 12px;
+  text-decoration: none;
+  color: var(--ink);
+  font-size: .82rem;
+  text-transform: uppercase;
+}
+
+.ddown ul li a:hover {
+  background-color: var(--paper);
+}
 
 
 /* Typography */
@@ -121,4 +159,3 @@ body {
 /* Footer */
 .footer { margin-top: 12px; font-size: .85rem; color: var(--muted); }
 .footer-grid { display: grid; gap: 6px 16px; grid-template-columns: repeat(3, 1fr); }
-
