@@ -67,12 +67,12 @@ Standard suit preference in the trump suit and when it makes sense
 - 2:clubs: 5+:clubs: GF, can have 4M
   - 2:diamonds: balanced 12-14/14-16
   - Other: natural unbalanced
-- 2:diamonds: 6+M 4-9 ==How do we answer after the 2NT ask==
+- 2:diamonds: 6+M 4-9 ==—2NT ask: 3:clubs:/:diamonds:=min :hearts:/:spades:; 3M=6oM max==
 - 2:hearts: 5+:spades: 4:hearts: 6-9
 - 2:spades: 5+:spades: 4:hearts: 10-11
 - 2NT Natural 11-12?
 - 3:clubs: 6+:clubs: weak
-- ==3:diamonds:/M  preempt or splinter==
+- 3:diamonds:/M  preemptive 3-7 7+ card suit
 
 
 
@@ -121,7 +121,7 @@ After and similar auctions as well.1
 
 **1:clubs: - (DBL) - ?**
 
-- ReDBL :: 11+ any, forcing to 2NT (==do we play pen X after this XX?==)
+- ReDBL :: 11+ any, forcing to 2NT (==First X TO after XX==)
 - other :: system on
 
 
@@ -202,11 +202,11 @@ After and similar auctions as well.1
 - 1NT 4+:clubs: NF
 - 2:clubs: clubs or balanced(maybe Fit as well) GF— see below conts.
 - 2:diamonds: inverted minors— stoppers
-- 2M 4-9 6+M— ==2NT asks same as after 2M openings?==
+- 2M 4-9 6+M— 2NT feature ask
 - 2NT 11-12 balanced
 - 3:clubs: invitational 6+:clubs:
 - 3:diamonds: 5-9 raise?
-- 3M ==preempt or splinter???==
+- 3M preemptive 7+M 3-7
 
 
 
@@ -311,8 +311,6 @@ After and similar auctions as well.1
 
 ### Continuations after 1m-1M-2M
 
-==I don’t understand the difference between a max+short going via first step vs the direct 3:spades:. I strugle to understand the responses over 1:diamonds:==
-
 
 
 **1:clubs: - 1:diamonds:;​ 2:hearts: - 2:spades: asking, game try+**
@@ -377,8 +375,8 @@ After and similar auctions as well.1
   - 2:clubs: 6+:hearts: 12-15(14/15 vul/3rd/4th) or 16+ any
   - 2:hearts: 5:hearts: 4+:clubs: 11-15
   - 2NT 6:hearts:-4m 15+
-  - 3:clubs:  ==5-5 range?==
-  - 3:diamonds: ==5-5 ?==
+  - 3:clubs: 5-5 15-17
+  - 3:diamonds: 5-5 15-17
   - 3:hearts: 7+:hearts: 12-15
   
 - 1NT 5-11 NF
@@ -400,7 +398,7 @@ After and similar auctions as well.1
 - 3:clubs: mixed raise
 - 3:diamonds:  6+:diamonds: invitational
 - 3:hearts: 0-5 4:hearts:
-- 3:spades: any void splinter— ==How do we show the void over 3NT ask?==
+- 3:spades: any void splinter— ==3NT asks LMH short==
 - 3NT  singleton :spades: splinter
 - 4m singleton splinter
 - 4:hearts: 5+:hearts: weak
@@ -428,7 +426,7 @@ After and similar auctions as well.1
 -  3:clubs: mixed raise
 -  3:diamonds:/:hearts:  invitational 6+:diamonds:/:hearts: 
 -  3:spades: 4:spades: 0-5
--  3NT any void splinter ==How do we show the void after 4:clubs: ask?==
+-  3NT any void splinter ==4:clubs: LMH short==
 -  4x  sing x splinter
 -  4:spades: 5+:spades: weak
 
@@ -474,12 +472,19 @@ After and similar auctions as well.1
   - 2NT+ see G.R. below
 - 2:spades: a) single suiter b) balanced minimum c) min 5+​M​ 4:clubs:
 - 2NT a) balanced max b) 6M 4:clubs: max
-- 3:clubs: 5+​M​ 4:clubs: max
-- 3:diamonds: 5​M​ 5:clubs: max
+- 3:clubs: 5​M​ 4:clubs: max
+  - 3:diamonds: ask H/L/22 can have 3M
+  - 3M 4M
+  - 3oM punt
+
+- 3:diamonds: 5​M​ 5:clubs: max– 3oM punt
 - 3:hearts: 7+​​M (semi)solid any range
+  - 3:spades: xxx or H in M
+  - 3NT void
+  - 4x cue with x or xx
+
 - 3:spades: 5​M - ​5:clubs: min
 - 3NT 5​M - ​5:clubs: min (bad suit quality)
-- 
 
 **1M-2:diamonds:**
 
@@ -510,7 +515,7 @@ After and similar auctions as well.1
   - 3oM: Hx in M
   - 4x: ISL in :diamonds: 
 
-- 3:hearts: 7+​​M (semi)solid any range
+- 3:hearts: 7+​​M (semi)solid any range; same as over 2:clubs:
 - 3:spades: 5​M - ​5:clubs: min
 - 3NT 5​M - ​5:clubs: min (bad suit quality)
 - 4:diamonds: 5M-5:diamonds: very weak
@@ -898,7 +903,7 @@ Applies when we overcall 1M as well
 - 2X: s.o.
 - 2NT ?
 - 3X to play
-- 4:clubs:/:diamonds: ===== South African Texas?=
+- 4:clubs:/:diamonds: ==South African Texas==
 
 
 
@@ -959,8 +964,8 @@ Unusual over unusual after two know suit overcalls.
 - 2:hearts: pass or correct
 - 2:spades: pass or correct
 - 2NT inv+ ask
-- 3:clubs: ==I had this as 5​+:hearts: but not sure we ever actually agreed this==
-- 3:diamonds: ==I had this as 5+:spades: but not sure we ever actually agreed this==
+- 3:clubs: ==to play==
+- 3:diamonds: ==to play==
 - 3:hearts: P/C
 - 3:spades: P/C
   - 4:clubs: 22/23 balanced with 4/5:hearts:
@@ -1146,7 +1151,7 @@ Jumps to 4M by an unpassed hand are always natural
 
 Unusual over unusual after overcalls showing 2 known suits (lower cuebid shows support when partner has already shown a suit)
 
-==When UoU is on DBL sets penalty dbl or second DBL still TO?==
+==When UoU is on and we DBL, next DBL is  TO, subsequent DBLs penalty==
 
 Micheals cuebids (1m)-2:diamonds: :: Major; (1m)-3m :: :spades:+om
 
@@ -1202,7 +1207,9 @@ Examples:
 
 ==**General rules guidelines of what DBL is**==
 
+After showing strength with a DBL or ReDBL ( 1x-(1NT)-DBL;;; (1NT)-DBL;;; 1x-(DBL)-ReDBL;;; double in UoU…)
 
+Next DBL by our side is TO, later penalty
 
 ==**General rules for when Forcing pass is on**==
 
@@ -1230,12 +1237,12 @@ Transfer to a suit above the overcall is invitational or better, opener can acce
 
 ### Defence to 1NT
 
-- DBL: strength ==(how strong direct X vs weak/mini NT?)==
+- DBL: strength (14+ in direct seat vs wk/mini NT)
 
 - 2:clubs: landy
   - (DBL) — same after multi: pass to play, XX I have my suit, other system on
   
-- 2:diamonds: 6+M ==How do we respond to 2NT ask?==
+- 2:diamonds: 6+M ==—2NT asks same as 1:clubs:–2:diamonds:==
 - 2M 5M (4)5+m
 - 2NT minors
 
@@ -1259,8 +1266,10 @@ DBL 13-15 balanced or strong— later X still TO and delayed lebensohl (could al
 
 
 
-**Vs level preempts** 
+**Vs 3 level preempts** 
 
-==Do we play non-leaping==?
+Non leaping Micheals: Forcing in direct seat, NF in reopening seat.
 
-==If we overcall 3NT then 4:clubs: stayman, 4:diamonds:/:hearts:/:spades: game ordered transfer?​==
+
+
+==If we overcall 3NT then 4:clubs:  range ask, 4:diamonds:/:hearts:/:spades: game ordered transfer conts after range ask 4:clubs:==?
