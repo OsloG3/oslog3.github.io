@@ -1,161 +1,227 @@
-:root{
-  --paper:#f4efe6;
-  --ink:#111;
-  --muted:#6a6a6a;
-  --rule:#0f0f0f;
-  --max-width: 1100px;   /* wider page */
-  --gutter: 26px;
+:root {
+    --paper: #f4efe6;
+    --ink: #111;
+    --muted: #6a6a6a;
+    --rule: #0f0f0f;
+    --max-width: 1100px; /* wider page */
+    --gutter: 26px;
 }
 
 body {
-  margin: 0;
-  color: var(--ink);
-  background: radial-gradient(1500px 800px at 50% -200px, #fff 0%, var(--paper) 60%, #ece6d9 100%) fixed;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  line-height: 1.5;
+    margin: 0;
+    color: var(--ink);
+    background: radial-gradient(
+            1500px 800px at 50% -200px,
+            #fff 0%,
+            var(--paper) 60%,
+            #ece6d9 100%
+        )
+        fixed;
+    font-family: "EB Garamond";
+    line-height: 1.5;
 }
 
 .page {
-  max-width: var(--max-width);
-  margin: 24px auto;
-  padding: 32px;
-  background: #fffef8;
-  border: 1px solid #e1dbc9;
-  box-shadow: 0 12px 32px rgba(0,0,0,.08);
+    max-width: var(--max-width);
+    margin: 24px auto;
+    padding: 32px;
+    background: #fffef8;
+    border: 1px solid #e1dbc9;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
 }
 
 /* Rules */
-.rule{ border-top: 1px solid var(--rule); margin: 10px 0; }
-.rule.thick{ border-top: 3px double var(--rule); }
+.rule {
+    border-top: 1px solid var(--rule);
+    margin: 10px 0;
+}
+.rule.thick {
+    border-top: 3px double var(--rule);
+}
 
 /* Masthead */
 .masthead-top {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  font-size: .82rem;
-  color: var(--muted);
-  text-transform: uppercase;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    font-size: 0.82rem;
+    color: var(--muted);
+    text-transform: uppercase;
 }
-.masthead-top .edition { justify-self: start; }
-.masthead-top .dateline { justify-self: center; }
-.masthead-top .price { justify-self: end; }
+.masthead-top .edition {
+    justify-self: start;
+}
+.masthead-top .dateline {
+    justify-self: center;
+}
+.masthead-top .price {
+    justify-self: end;
+}
 
 .nameplate {
-  margin: 6px 0;
-  text-align: center;
-  font-size: clamp(2.2rem, 6vw, 3.5rem);
-  font-weight: 700;
-  color: var(--ink);
-  text-transform: uppercase;
+    margin: 6px 0;
+    text-align: center;
+    font-size: clamp(2.2rem, 6vw, 3.5rem);
+    font-weight: 700;
+    color: var(--ink);
+    text-transform: uppercase;
 }
-.orn { font-size: .9em; letter-spacing: .3em; }
+.orn {
+    font-size: 0.9em;
+    letter-spacing: 0.3em;
+}
 
 /* Nav */
 .sections {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 13px 17px;
-  padding: 0px 0;         /* tighter spacing */
-  margin: 0;              /* ensure no extra margin */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 13px 17px;
+    padding: 0px 0; /* tighter spacing */
+    margin: 0; /* ensure no extra margin */
 }
 
-
 .section {
-  text-decoration: none;
-  color: var(--ink);
-  font-size: .82rem;
-  text-transform: uppercase;
-  border-bottom: 1px solid transparent; /* reserve space for underline */
+    text-decoration: none;
+    color: var(--ink);
+    font-size: 0.82rem;
+    text-transform: uppercase;
+    border-bottom: 1px solid transparent; /* reserve space for underline */
 }
 
 .section:hover {
-  border-bottom-color: var(--ink);      /* reveal underline without shifting */
-  transition: border-bottom-color .15s ease;
+    border-bottom-color: var(--ink); /* reveal underline without shifting */
+    transition: border-bottom-color 0.15s ease;
 }
 
 .ddown {
-  position: relative;
-  display: flex;         /* behave like other flex children */
-  align-items: center;   /* vertically center Bridge text */
+    position: relative;
+    display: flex; /* behave like other flex children */
+    align-items: center; /* vertically center Bridge text */
 }
 
 .ddown ul {
-  display: none; /* hidden by default */
-  position: absolute;
-  top: 100%;      /* position directly below Bridge */
-  left: 0;
-  background-color: #fffef8;  /* match your page */
-  border: 1px solid #ccc;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  min-width: 160px;
-  z-index: 100; /* ensure on top */
+    display: none; /* hidden by default */
+    position: absolute;
+    top: 100%; /* position directly below Bridge */
+    left: 0;
+    background-color: #fffef8; /* match your page */
+    border: 1px solid #ccc;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    min-width: 160px;
+    z-index: 100; /* ensure on top */
 }
 
 .ddown:hover ul {
-  display: block; /* reveal submenu on hover */
+    display: block; /* reveal submenu on hover */
 }
 
 .ddown ul li a {
-  display: block;
-  padding: 8px 12px;
-  text-decoration: none;
-  color: var(--ink);
-  font-size: .82rem;
-  text-transform: uppercase;
+    display: block;
+    padding: 8px 12px;
+    text-decoration: none;
+    color: var(--ink);
+    font-size: 0.82rem;
+    text-transform: uppercase;
 }
 
 .ddown ul li a:hover {
-  background-color: var(--paper);
+    background-color: var(--paper);
 }
-
 
 /* Typography */
-.smcaps { font-variant-caps: small-caps; }
-.kicker { font-size: .85rem; letter-spacing: .14em; color: var(--muted); text-transform: uppercase; margin: 0; }
-.headline { font-weight: 700; line-height: 1.2; font-size: 1.4rem; margin: 6px 0; }
-.story-lead .headline { font-size: clamp(1.9rem, 3.5vw, 2.4rem); }
-.byline { font-size: .92rem; margin: 0 0 8px; color: #333; }
-.lede { font-size: 1.1rem; font-weight: 500; }
+.smcaps {
+    font-variant-caps: small-caps;
+}
+.kicker {
+    font-size: 0.85rem;
+    letter-spacing: 0.14em;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin: 0;
+}
+.headline {
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 1.4rem;
+    margin: 6px 0;
+}
+.story-lead .headline {
+    font-size: clamp(1.9rem, 3.5vw, 2.4rem);
+}
+.byline {
+    font-size: 0.92rem;
+    margin: 0 0 8px;
+    color: #333;
+}
+.lede {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
 
 /* Lead photo now above title */
-.lead-art { margin: 0 0 12px; }
-.photo-placeholder {
-  height: 300px;
-  width: 100%;
-  background-size: cover;
-  background-position: center;
+.lead-art {
+    margin: 0 0 12px;
 }
-.caption { font-size: .8rem; color: var(--muted); margin-top: 4px; }
+.photo-placeholder {
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.caption {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-top: 4px;
+}
 
 .lead-grid {
-  display: block;
+    display: block;
 }
 
 @media (min-width: 1000px) {
-  .lead-grid {
-    display: grid;
-    grid-template-areas: "left lead right";
-    grid-template-columns: 1fr 2.5fr 1fr;
-    gap: var(--gutter);
-    align-items: start;
-  }
-  .story-lead   { grid-area: lead; }
-  .side-left    { grid-area: left; }
-  .side-right   { grid-area: right; }
+    .lead-grid {
+        display: grid;
+        grid-template-areas: "left lead right";
+        grid-template-columns: 1fr 2.5fr 1fr;
+        gap: var(--gutter);
+        align-items: start;
+    }
+    .story-lead {
+        grid-area: lead;
+    }
+    .side-left {
+        grid-area: left;
+    }
+    .side-right {
+        grid-area: right;
+    }
 }
 
 /* Below the fold */
 .grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: var(--gutter);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: var(--gutter);
 }
-@media (min-width: 900px){ .grid .story { columns: 2; } }
-.grid .story p { break-inside: avoid; }
+@media (min-width: 900px) {
+    .grid .story {
+        columns: 1;
+    }
+}
+.grid .story p {
+    break-inside: avoid;
+}
 
 /* Footer */
-.footer { margin-top: 12px; font-size: .85rem; color: var(--muted); }
-.footer-grid { display: grid; gap: 6px 16px; grid-template-columns: repeat(3, 1fr); }
+.footer {
+    margin-top: 12px;
+    font-size: 0.85rem;
+    color: var(--muted);
+}
+.footer-grid {
+    display: grid;
+    gap: 6px 16px;
+    grid-template-columns: repeat(3, 1fr);
+}

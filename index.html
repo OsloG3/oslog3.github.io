@@ -1,144 +1,161 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>The Gardenghi Chronicle</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <div class="page">
+    <head>
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, viewport-fit=cover"
+        />
+        <title>The Gardenghi Chronicle</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="page">
+            <!-- Masthead -->
+            <header class="masthead" role="banner">
+                <div class="masthead-top">
+                    <div class="edition">Final Edition</div>
+                    <div class="dateline">Saturday, August 30, 1965</div>
+                    <div class="price">Ten Cents</div>
+                </div>
 
-    <!-- Masthead -->
-	<header class="masthead" role="banner">
-	  <div class="masthead-top">
-	    <div class="edition">Final Edition</div>
-	    <div class="dateline">Saturday, August 30, 1965</div>
-	    <div class="price">Ten Cents</div>
-	  </div>
+                <h1 class="nameplate">
+                    <span class="orn o-left">◆</span>
+                    The Gardenghi Chronicle
+                    <span class="orn o-right">◆</span>
+                </h1>
 
-	  <h1 class="nameplate">
-	    <span class="orn o-left">◆</span>
-	    The Gardenghi Chronicle
-	    <span class="orn o-right">◆</span>
-	  </h1>
+                <div class="rule" aria-hidden="true"></div>
+                <nav class="sections">
+                    <a href="/" class="section">World</a>
+                    <a href="/" class="section">National</a>
+                    <a href="/engineering.html" class="section">Engineering</a>
 
-	  <div class="rule" aria-hidden="true"></div>
-	<nav class="sections">
-	  <a href="/" class="section">World</a>
-	  <a href="/" class="section">National</a>
-	  <a href="/engineering.html" class="section">Engineering</a>
+                    <div class="ddown">
+                        <a class="section">Bridge</a>
+                        <ul>
+                            <li><a href="/conventions.html">Conventions</a></li>
+                            <li><a href="/defence.html">Defence</a></li>
+                            <li><a href="/dplay.html">Declarer-Play</a></li>
+                        </ul>
+                    </div>
+                </nav>
+                <div class="rule" aria-hidden="true"></div>
+            </header>
 
-	  <div class="ddown">
-	    <a class="section">Bridge</a>
-	    <ul>
-	      <li><a href="/conventions.html">Conventions</a></li>
-	      <li><a href="/defence.html">Defence</a></li>
-	      <li><a href="/dplay.html">Declarer-Play</a></li>
-	    </ul>
-	  </div>
-	</nav>
-	<div class="rule" aria-hidden="true"></div>
-	</header>
+            <!-- Lead Section -->
+            <main class="lead" role="main">
+                <div class="lead-grid">
+                    <!-- Lead story first in source -->
+                    <article class="story story-lead">
+                        <!--
+                        <figure class="lead-art">
+                            <div
+                                class="photo-placeholder"
+                                role="img"
+                                aria-label="Black-and-white"
+                                style="
+                                    background-image: url(&quot;/img0.png&quot;);
+                                "
+                            ></div>
+                            <figcaption class="caption">
+                                Boring Staff Photo
+                            </figcaption>
+                        </figure>
+                        -->
 
-    <!-- Lead Section -->
-	<main class="lead" role="main">
-	  <div class="lead-grid">
+                        <h2 class="kicker">Breaking:</h2>
+                        <h3 class="headline">The World is Still Turning</h3>
 
-	    <!-- Lead story first in source -->
-	    <article class="story story-lead">
-	      <figure class="lead-art">
-	        
-		<div 
-			class="photo-placeholder" 
-			role="img" 
-			aria-label="Black-and-white" 
-			style="background-image: url('/img0.png');">
-		</div>
-		<figcaption class="caption">
-		  Boring Staff Photo
-		</figcaption>
-	      </figure>
+                        <p class="lede"></p>
+                        <p>
+                            In a breaking turn of events the, often
+                            controversial, entity Oslo Gardenghi is now claiming
+                            the world is still turning.
+                        </p>
+                    </article>
 
-	      <h2 class="kicker">Breaking:</h2>
-	      <h3 class="headline">Bothering Me</h3>
+                    <!-- Left supporting article -->
+                    <article class="story side-story side-left">
+                        <h4 class="headline">whoami</h4>
+                        <p class="byline">
+                            By <span class="smcaps">Alter Ego</span>
+                        </p>
+                        <p>
+                            I'm someone interested in Theoretical Computer
+                            Science, Math and Electronics Engineering. I also
+                            happen play Bridge.
+                        </p>
+                    </article>
 
-	      <p class="lede">
-        If you feel the urge to bother me you can do so via my email: oslogardenghi3@gmail.com
-        </p>
-	      <p>
-		Traders spoke in tempered tones after a week of swift turns on the
-		exchange. Officials credited new guidance with calming speculation,
-		though some warned of undercurrents yet to surface.
-	      </p>
-	    </article>
+                    <!-- Right supporting article -->
+                    <article class="story side-story side-right">
+                        <h4 class="headline">What you can find</h4>
+                        <p class="byline">
+                            By <span class="smcaps">Design Council</span>
+                        </p>
+                        <p>
+                            In the Defence, Conventions and Declarer-Play
+                            sections you can find various resources on Bridge I
+                            wrote or selected. Under Engineering you might find
+                            my opinions on technological developments
+                        </p>
+                    </article>
+                </div>
+            </main>
 
-	    <!-- Left supporting article -->
-	    <article class="story side-story side-left">
-	      <h4 class="headline">whoami</h4>
-	      <p class="byline">By <span class="smcaps">Oslo Gardenghi</span></p>
-	      <p>
-		I study Electronics Engineering, Computer Science and Math. I also play Bridge.
-	      </p>
-	    </article>
+            <div class="rule" aria-hidden="true"></div>
 
-	    <!-- Right supporting article -->
-	    <article class="story side-story side-right">
-	      <h4 class="headline">What you can find</h4>
-	      <p class="byline">By <span class="smcaps">Cultural Desk</span></p>
-	      <p>
-		In the Defence, Conventions and Declarer-Play sections you can find various resources on Bridge I wrote or selected.
-		Under Engineering you find my opinions on technological developments
-	      </p>
-	    </article>
+            <!-- Below the Fold -->
+            <section class="grid">
+                <article class="story">
+                    <h4 class="headline">It's now possible to bother me</h4>
+                    <p class="byline">
+                        By <span class="smcaps">Friendly Talker</span>
+                    </p>
+                    <p class="dropcap">
+                        If you feel the urge to bother me you can do so via my
+                        email: <b>oslogardenghi3@gmail.com</b>
+                    </p>
+                </article>
 
-	  </div>
-	</main>
+                <article class="story">
+                    <h4 class="headline"></h4>
+                    <p class="byline">
+                        By <span class="smcaps">Oslo Gardenghi</span>
+                    </p>
+                    <p></p>
+                </article>
 
+                <article class="story">
+                    <h4 class="headline">Digital Weather Update</h4>
+                    <p class="byline">
+                        By <span class="smcaps">Futurological Desk</span>
+                    </p>
+                    <p>
+                        Slop is expected to keep falling for the forseable
+                        future. Authorities recommend staying indoors and
+                        disconnecting any electronics devices.
+                    </p>
+                </article>
+            </section>
 
-	<div class="rule" aria-hidden="true"></div>
+            <div class="rule" aria-hidden="true"></div>
 
-	<!-- Below the Fold -->
-	<section class="grid">
-	  <article class="story">
-	    <h4 class="headline">Harbor Traffic Eases as Crews Conclude Talks</h4>
-	    <p class="byline">By <span class="smcaps">James L. Porter</span></p>
-	    <p class="dropcap">
-	      Harbor pilots reported smoother passages at midday following the
-	      settlement of overnight negotiations.
-	    </p>
-	  </article>
-
-	  <article class="story">
-	    <h4 class="headline">Council Weighs Plan for Library Annex</h4>
-	    <p class="byline">By <span class="smcaps">Ruth Alvarez</span></p>
-	    <p>
-	      A proposal to expand the central library drew spirited remarks from
-	      citizens and scholars alike.
-	    </p>
-	  </article>
-
-	  <article class="story">
-	    <h4 class="headline">Ball Club Rallies in Ninth, Levels Series</h4>
-	    <p class="byline">By <span class="smcaps">Sports Desk</span></p>
-	    <p>
-	      Before a throng of faithful, the home nine stitched together a
-	      three-run answer in the closing frame.
-	    </p>
-	    <p class="pullquote">“A cool head and a patient bat can turn any day.” — Skipper Doyle</p>
-	  </article>
-	</section>
-
-	<div class="rule" aria-hidden="true"></div>
-
-	<!-- Footer -->
-	<footer class="footer" role="contentinfo">
-	  <div class="footer-grid">
-	    <p class="footnote">Published daily except Sundays. Founded 1868.</p>
-	    <p class="footnote">Weather: fair, light winds; barometer steady.</p>
-	    <p class="footnote">Circulation Office: 120 Fleet Street.</p>
-	  </div>
-	</footer>
-  </div>
-</body>
+            <!-- Footer -->
+            <footer class="footer" role="contentinfo">
+                <div class="footer-grid">
+                    <p class="footnote">
+                        Published daily except Sundays. Founded 1903.
+                    </p>
+                    <p class="footnote">
+                        Weather: fair, light winds; barometer steady.
+                    </p>
+                    <p class="footnote">
+                        Circulation Office: 120 Fleet Street.
+                    </p>
+                </div>
+            </footer>
+        </div>
+    </body>
 </html>
