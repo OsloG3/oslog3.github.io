@@ -1,0 +1,210 @@
+#+INCLUDE: bridgehtml.org
+
+#+TITLE: The shy spade
+
+* Openings
+Facts of life: 2-2-(54)  is balanced
+
+- 1!c :: 4+!s unbalanced 9+HP can have longer minor
+- 1!d :: 4+!h unbalanced 11+HP can have longer minor
+- 1!h :: 16+ unbalanced no 4+M or 17+bal
+- 1!s :: 11-13HP bal or 11-15 5+!d no 4M
+- 1NT :: 14-16HP bal
+- 2!c :: 5+!c no 4M 11-15
+- 2!d :: 5-10 4+/4+ majors( guarantees 5+!h V vs NV)
+- 2!h :: 4-10 (5)6!h
+- 2!s :: (0)4-8 5+!s
+- 2ST :: 20-21 balanced
+- 3x :: preemptive
+
+With 4=4=(41) or 4=4(5-0) we open 1!c
+
+
+[[System design][Why this system]]
+
+** System design
+The heart of the system is the 1!c opening showing 4+!s 9+HCP. With the boss suit we don't mind giving the opponents space to overcall as we are likely to buy the hands in spades and appreceate any information the opponents give us. The lower range (9+) for the opening is managable in most cases as having the boss suit means that we have more space to sort out ranges in competition, and at the same time we are starting at 1!c in constructive auctions.\\
+The 1!h is undoubtedly high for a strong opening, but if opponents have an overcall of our strong opening it doesn't matter if we oppened 1!c or 1!h, but it does matter that we have restricted our shapes. If opponents don't overcall then we might be behind something like a strong club. \\
+The 1!s opening is in between ea wak no trump opening and a precision 1!d. It suffers from some of the same problems as the precision 1!d not promising any suit, but, similarly to 1!h, we have fewer possible shapes and if opponents overcall it doesn't matter that we started the bidding higher.\\
+The 2!c opening is just a very good opening. Denying a 4 card major it removes most of the problems of the precision 2!c(both the 5+ and the 6+!c versions).\\
+The 2!h opening was choosen to provide an opening bid to 4!s-5!h 9-10 HCP hands that are otherwise the only unbalanced hand with 4+!s 9+HCP to not have an opening bid, but this is not required and 3 weak twos or any other preemptive schema is fine
+
+* 1m Openings
+Most of the responses to the 1!c and 1!d openings are the same:
+
+- 1M :: any 0-7
+- 1oM :: is a forcing NT 8+ could have GF balanced hands
+- 2!c :: 5+!c GF or invitational with 3M → 2D waiting other isl opposite 3M inv
+- 2!d :: 5+!d GF
+- 2M :: 7-10(11) 3M
+- 2oM :: 8-11(12) 5+oM 3M
+- 2N :: inv+ 4M
+- 3!c :: inv+ 5+M
+- 3!d :: 0-6 4+M
+- 3M :: 6-9 4M
+
+1NT by opener always shows a canape unless otherwise specified\\
+2NT by opener always shows a canape (GF if with a jump)\\
+
+
+After: 1m - 1oM 
+- 1!s :: (after 1!c-1!h)9-11 any
+- 1N :: canape (includes the non-canape 5!h 4!s after 1!d-1!s)
+- 2X :: 11-15 5+M natural
+- 2N :: 16+ GF canape
+- 3X :: 16+ GF 5+M natural
+Over all rebids responder can use 2oM to set a GF \\
+
+Special responses to 1m openings:\\
+1!c - 1!d: 4+!h 7+ --> 1!h 3!h F1 other same as 1!c - 1!h\\ 
+1!c - 1N: balanced with 2!s 11-13 natural → 2m tends to have 5+m;2N+ as usuall\\
+1!d - 1N: 5+!s 7+ --> 2m ambiguous length other as usual\\
+
+When opener uses 1N to show canape: 2!c is p/c \\
+
+When opener shows a canape with 2N: 3!c asks and we respond:\\
+ !c canape/!d canape/3 suiter L/M/H short\\
+If we opened 1!d 4441 can only be short !s \\
+
+1!c - 1!h - 1N - 2!h asks with the same step responses\\
+1!c - 1!d - 1N - 2!d asks with the same step responses\\
+
+1!d - 1!s - 1N - 2!s asks but the steps are:\\
+!c canapé/!d canapé/5!h-4!s/4441!s\\
+
+After 1m-1M opener passes without reasonable hope for game and bids naturally(NTs for canape) with more. Jumps are GF.\\
+* 1!c continuations in detail
+- 1!d :: 4+!h 7+
+  - 1!h :: 3!h 9+ F1
+    - 1!s :: 2!s NF
+    - XYZ
+  - 1!s+ :: same as over 1!h response but 0-2 or 4+!h
+- 1!h :: 8+ forcing NT, can be balanced GF
+  - 1!s :: 9-11 any
+  - 1N :: 12-15 canape or 4(441)
+    - 2!c :: pass or correct \\
+      with a 4(41)4 pass, with 4441 correct to 2!d
+    - 2!h :: GF ask in steps \\
+
+      step 1: !c canape \\
+      step 2: !d canape \\
+      step 3: 4=4=4=1 \\
+      step 4: 4=4=1=4 \\
+      step 5: 4=1=4=4 \\
+
+  - 2!c :: 12-15 5+!s 4+!c
+  - 2!d :: 12-15 5+!s 4+!d
+  - 2!h :: 12-15 5+!s 4+!h
+  - 2!s :: 12-14(15) 6+!s
+  - 2NT :: GF canape or 4441 \\
+    3!c asking with steps: !c/!d/ 4441 LMH short
+  - 3m :: GF 5+!s 4+m
+  - 3!h :: GF 5+!s 5+!h
+  - 3!s :: GF 6+!s
+- 1!s :: 0-7 any distribution
+
+* Competitive bidding after 1m
+Overcalls up to 2M-1
+2M :: 3M less than inv
+- cue :: inv+ 3M
+- 2N :: inv+ 4M
+- j-cue :: if available 5+M inv+
+- 3M :: less than inv 4+M
+- 3N :: if no j-cue GF 5+M
+- 4cue :: splinter 4+M
+- jumps :: 5+X 3M constructive/inv
+
+
+* 1!h opening
+- 1!s :: 0-7 any
+- 1N :: 5+!s 8+HP
+- 2m/!h :: 5+m/!h 8+HP
+- 2!s :: 8-11 or 14+ bal
+- 2N :: 12-13 bal → 3m nat/3M 4/5M balanced
+
+
+After: 1!h - 1!s 
+- 1N :: 17-19 balanced sys on
+- 2m :: 5+m no 4M 16-19
+- 2!h :: GF any → 2S waiting, other 6+X
+- 2!s :: 5+/4+ minors 19-22
+- 2N :: 22-23 balanced
+- 3m :: 6+m 19-22HP
+- 3M :: splinter 5+/5+ minors GF
+
+* Competitive bidding after 1!h
+- Pass :: trap or 0-6HP;
+- suits :: GF natural 7+HP;
+- DBL :: GF Take-Out 7+HP;
+If opponents bid to the 4 level before opener’s second bid we are in a FP situation
+
+* 1!s opening
+- pass :: to play
+- 1ST :: pass or correct
+- 2!c :: 5+!h
+- 2!d :: 5+!s 
+- 2!h :: asking no 5+M
+- 2!s :: 6+!c --> 2N super accept
+- 2N :: minors wk or GF
+- 3!c :: 6+!d wk or GF
+- 3!d :: 6+!d inv
+- 3M :: splinter
+
+
+After  1!s - 2m :
+- step :: 0-1M unbal
+- 3!c :: 3+!c weak
+- 2M :: 11-13 2-3M bal or unbal
+- 2NT :: shows a balanced hand with 4M
+- 3m :: nat 14-15
+- oM :: 13-15 splinter with 3M
+- 3M :: 13-15 unbal 3M
+
+After 1!s - 2!h 
+- 2!s :: balanced 11-13 or min unbal 
+	- 2N :: s.o
+	- 3!c :: staymanish
+		3!d :: unbal
+		3M :: 4M bal
+		3N :: no 4M bal
+- 2N  :: semibal 6!d max
+- 3!c :: 5/5 max
+- 3!d :: 6+!d max
+- 3M :: 1M 3oM 5 4 max
+
+* Competition after 1!s
+Overcall --> 1NT system
+if they dbl
+- pass :: 4+!s
+- XX :: inv+
+- 1NT :: to play or 2 suiter w/o !s
+- other :: natural s.o.
+
+* 1ST opening
+UBH + Swedish Rubensohl
+
+* 2C opening
+
+- 2!d :: 5+!h, constructive+
+- 2!h :: 5+!s, constructive+
+- 2!s :: artificial asking bid
+- 2NT :: NF invitational
+- 3!c :: to play
+- 3X :: 6+X GF |
+- 3NT :: to play
+
+After: 2!c - 2!s 
+- 2NT ::  min 5+!c 4!d --> 3!h ask LH short
+- 3!c :: minimum, 6+!c
+- 3!d :: max 5+!c 4!d --> 3!h ask LH splinter|
+- 3!h :: 6+!c 0-1!h, maximum
+- 3!s :: 6+!c 0-1!s, maximum
+- 3NT :: 6+!c no short M, max. 
+
+* Other openings
+UBH
+
+
+
+
+Many ideas for the system are taken from the "Groove is in the heart" system.
