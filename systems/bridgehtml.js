@@ -151,5 +151,64 @@ $(function() {
     return $(this).closest('div').hide(300);
   });
   content = "<br><div class='indent-spacer'></div>";
-  return $('dd > br').replaceWith(content);
+
+    /* =========================
+     Sidebar TOC (h2 → h3)
+     ========================= */
+
+  var $sidebar = $("<div id='bridge-sidebar'><h2>Sections</h2><ul></ul></div>");
+  var $toggle = $("<div id='bridge-sidebar-toggle'><i class='fa fa-bars'></i></div>");
+  $("body").append($sidebar).append($toggle);
+
+  var $tocRoot = $("#bridge-sidebar ul");
+  var currentChildren = null;
+  var secCounter = 0;
+
+  $("h2, h3, h4").each(function () {
+    var $h = $(this);
+    var tag = this.tagName;
+
+    var id = $h.attr("id");
+    if (!id) {
+      id = "sec-" + (++secCounter);
+      $h.attr("id", id);
+    }
+
+    if (tag === "H2") {
+      var $li = $("<li></li>");
+      var $row = $("<div class='bridge-toc-h2'></div>");
+      var $icon = $("<span class='bridge-toggle'><i class='fa fa-caret-right'></i></span>");
+      var $link = $("<a></a>").attr("href", "#" + id).text($h.text());
+      var $children = $("<ul class='bridge-children'></ul>");
+
+      $icon.on("click", function (e) {
+        e.stopPropagation();
+        $children.slideToggle(150);
+        $(this).find("i").toggleClass("fa-caret-right fa-caret-down");
+      });
+
+      $row.append($icon, $link);
+      $li.append($row, $children);
+      $tocRoot.append($li);
+
+      currentChildren = $children;
+    }
+
+    if ((tag === "H3" || tag === "H4") && currentChildren) {
+      currentChildren.append(
+        $("<li></li>").append(
+          $("<a></a>").attr("href", "#" + id).text($h.text())
+        )
+      );
+    }
+  });
+
+  $toggle.on("click", function () {
+    $("#bridge-sidebar").toggleClass("open");
+  });
+
+  $("#bridge-sidebar").on("click", "a", function () {
+    $("#bridge-sidebar").removeClass("open");
+  });
+
 });

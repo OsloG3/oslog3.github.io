@@ -209,3 +209,75 @@ dd .indent-spacer {
 .outline-2 {
   border-top: solid;
 }
+
+/* ===== Sidebar TOC ===== */
+
+#bridge-sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 18em;
+  height: 100%;
+  background: #fafafa;
+  border-left: 1px solid #ccc;
+  padding: 1em;
+  overflow-y: auto;
+  transform: translateX(100%);   /* fully hidden */
+  transition: transform 0.3s ease;
+  z-index: 100;
+  font-family: 'Alegreya SC';
+}
+
+#bridge-sidebar.open {
+  transform: translateX(0);      /* slide in */
+}
+
+/* Toggle button */
+#bridge-sidebar-toggle {
+  position: fixed;
+  top: 40%;
+  right: 0;
+  width: 2.2em;
+  height: 2.2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fafafa;
+  border: 1px solid #ccc;
+  border-right: none;
+  cursor: pointer;
+  z-index: 101;
+}
+
+#bridge-sidebar-toggle:hover {
+  background-color: #eee;
+}
+
+/* TOC structure */
+#bridge-sidebar h2 {
+  margin-top: 0;
+  font-size: 1.1em;
+  border-bottom: 1px solid #aaa;
+}
+
+#bridge-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.bridge-toc-h2 {
+  display: flex;
+  align-items: center;
+}
+
+.bridge-toggle {
+  cursor: pointer;
+  margin-right: 0.4em;
+  color: #666;
+}
+
+.bridge-children {
+  display: none;
+  margin-left: 1.2em;
+}
+
