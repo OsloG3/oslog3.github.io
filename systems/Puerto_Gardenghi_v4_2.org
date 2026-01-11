@@ -598,47 +598,90 @@ Natural bidding
 - 3!c :: muppet
   - 3!d :: 1 or both 4M
     - 3M :: 4oM
+      - 3NT :: no fit
+	- 4!c/!d :: 4!c/!d ISL
+	- 4!h/!s :: 5!c/!d ISL (same as direct 4M)
+    - 3NT :: no 4M
+    - 4!c :: 4+/4+ MM ISL
+      - 4!d :: min --> 4!h p/c?
+      - 4M :: 4M max
+    - 4!d :: 4+/4+ MM para manga
+    - 4M :: 5!c/!d ISL, same as direct 4M
   - 3!h :: no 4+M
     - 3!s :: no 5+!s
       - 3N :: forced
         - 4m :: 4m ISL
         - 4!h/!s :: 5+!c/!d ISL— same as direct 4M
     - 3N :: 5!s - 4!h for game
-    - 4!c :: 6!s-4!h game+
+    - 4!c :: 6!s-4!h any range
+      - 4!d :: max
+	- 4!h :: retransfer
+      - 4!s :: min
     - 4!d :: 5!s-5!h ISL
+      - 4M :: min
       - 5!c/!d :: good !h/!s support
     - 4!h :: 5!s-5!h game
-    - 4N :: 5!s-4!h quant
-    - 5M :: 5!s-4!h choice of slam
+    - 4NT :: 5!s-4!h quant
+    - 5NT :: 5!s-4!h choice of slam
   - 3!s :: 5!s
     - 4m :: 5+m ISL
     - 4!h :: !s ISL
   - 3N :: 5!h
     - 4!c :: ISL !h
     - 4!d :: xfer
-    - 4!h/!s :: 5+!c/!d– same as direct 4M 
+    - 4!h/!s :: ISL 5+!c/!d– same as direct 4M 
 - 3!d :: 5+!h
   - 3!h :: 2-3!h
     - 3!s :: 5!h no 4!s
       - 3N :: 2!h
         - 4m :: 5!h 4m ISL
-        - 4M :: 5!h 5m ISL==same as direct 4M? check==
-      - 4!c :: 3!h
-      - 4!h :: 3!h
+        - 4M :: 5!h 5!c/!d ISL, same as direct 4M
+      - 4!c :: 3!h 4+!c --> 4!s sets !c, other for !h
+      - 4!d :: 3!h 4+!d --> 5!c sets !d, other for !h
+      - 4!h :: 3!h 4+!s, we are playing hearts
     - 3N  :: 5!h 4!s game
-    - 4!c ::  6!h - 4!s slam– 4!d !h==???==
-    - 4!d ::  6!h - 4!s game
-    - 4!h ::  to play only hand w/o 4!s
-    - 4N  :: 5!h - 4!s quant
-    - 5N  :: 5!h - 4!s pick a slam
+    - 4!c ::  6!h - 4!s any range
+      - 4!d :: min
+      - 4M :: max
+    - 4!h ::  s.o. to play only hand w/o 4!s
+    - 4NT  :: 5!h - 4!s quant
+    - 5NT  :: 5!h - 4!s pick a slam
   - 3!s :: 5!s 2!h– ==4M to play, 4m cue with !s support?==
-  - 4!c :: 4!h max ==retransfer???==
+  - 4NT :: 3433: 4!c ISL, 4!d xfer =retransfer o cuebid?=
+  - 4!c :: 4!h max =4!d cuebid o transfer???=
   - 4!h :: 4!h min
 - 3!h :: 5+!s
+  - 3!s :: 2-3!s
+    - 4!c :: 4+!c\\
+      - 4!d fit, could be double fit
+        - 4!s weak 5/5 CoG
+      - 4!h !s fit
+      - 4!s min, no fit
+    - 4!d :: 4+!d\\
+      - 4!h: !s fit(could be double fit)
+      - 4!s: min (generally no fit)
+      - 5!c: !d fit
+    - 4!s :: to play
+    - 4NT :: quant
+    - 5NT :: pick a slam
+  - 3NT :: 4!s 333
+    - 4m :: cue
+    - 4!h :: retransfer
+  - 4m :: 4!s max, cue
+  - 4!s :: 4!s min
 - 3!s :: 4+/4+ minors
+  - 3NT :: no 4+m
+    - 4m :: sets suit
+    - 4M :: splinter 5+/5+ minors
+    - 4NT :: pick a minor weak
+  - 4m :: 4m
 - 3NT :: to play
 - 4!c/!d :: 6+!h/!s ISL
+  - step :: positive
+  - 4M :: negative
 - 4!h/4!s :: 6+!c/!d
+  - 4NT :: negative
+  - Ot :: steps 14/30/2/2 + Q
 - 4/5NT :: quant
 
 
@@ -804,9 +847,9 @@ RKCB with suit X set:
 - step-5: even KC + a void
 - step-6+: odd KC + a void in bid suit/ in a suit above if bidding the trump suit
 
-After step 1 and 2 the first next available step that isn’t 5X asks for the Q of trumps.
+After step 1 and 2 the first next available step that isn’t 5X asks for the Q of trumps.\\
 
-If the Q ask is below 5X then: 5X = no Q; 6X = Q + new kings to bid, bid in between Q + the king in the suit bid.
+If the Q ask is below 5X then: 5X = no Q; 6X = Q + new kings to bid, bid in between Q + the king in the suit bid.\\
 
 If the Q ask is above 5X it promises all KC then: 
 
@@ -815,17 +858,17 @@ If the Q ask is above 5X it promises all KC then:
 - new suit = Q + King in the suit bid
 - the cheapest bid is ambiguos a) the meaning given by the rules above b) Q + a king that cant be bid below 6X and no other Kings.
 
-After steps 1 to 4 the first available step that isn’ the trump suit, or the Q ask, is a specific king ask and promises all KC.
+After steps 1 to 4 the first available step that isn’ the trump suit, or the Q ask, is a specific king ask and promises all KC.\\
 
-We bid the the cheapest suit we have a King and if available can use 5NT to show a king above 6X.
+We bid the the cheapest suit we have a King and if available can use 5NT to show a king above 6X.\\
 
-After a positive response to the King or Q ask bidding a suit where partner could  still have a king ask for that specific king.
+After a positive response to the King or Q ask bidding a suit where partner could  still have a king ask for that specific king.\\
 
-Bidding a suit where partner cannot have a King asks for 3rd round control in that suit.
+Bidding a suit where partner cannot have a King asks for 3rd round control in that suit.\\
 
-Bidding 5NT, either directly after RKCB(if it is not a Q or K ask) or after a positive Q or K ask response asks for specific Queens: we bid the first Q we have available to bid.
+Bidding 5NT, either directly after RKCB(if it is not a Q or K ask) or after a positive Q or K ask response asks for specific Queens: we bid the first Q we have available to bid.\\
 
-If we have denied a King in suit(either we skipped the cubdbid, or partner cuebid the suit and is known to not have shortness in said suit and we have the A in that suit) we treat the Q in that suit as a King in response to the Q or K ask (but still a Q if partner makes a 5NT specific Q ask)
+If we have denied a King in suit(either we skipped the cubdbid, or partner cuebid the suit and is known to not have shortness in said suit and we have the A in that suit) we treat the Q in that suit as a King in response to the Q or K ask (but still a Q if partner makes a 5NT specific Q ask)\\
 
 
 
@@ -875,7 +918,7 @@ In 2/1 GF auctions(including the 2-way 1M-[2M-2]) we use 2NT as just waiting whi
 
 *** Despues de intervencion nuestra
 
-(1X) - 1Y - (PASS) - ?
+(1X) - 1Y - (PASS) - ?\\
 
 - 1M 4+M F1
 - 1ST 8-11 con parada
@@ -894,7 +937,7 @@ In 2/1 GF auctions(including the 2-way 1M-[2M-2]) we use 2NT as just waiting whi
 - 2Z(sin slato) 5+Z 8-11 NF
 - 2X apoyo 11+ o mano GF sin otra voz
 - 2ST 12-14 con parada
-- 3Z(sin slato) 
+- 3Z(sin slato) 5+Z GF
 - 3Y apoyo constructivo
 - 3X splinter
 - saltos fit showing 8-12 4X 5+Z(buen palo)
@@ -911,9 +954,9 @@ Despues de (1X) - 1Y - (2X/2Z) - ? o (1X) - 2Y - (2X/3Z)
 
 *** defence to strong 1/2!c
 
-Vul: natural, 2NT minors(DBL of 2!c clubs, of 1!c majors 55)
+Vul: natural, 2NT minors(DBL of 2!c clubs, of 1!c majors 55)\\
 
-No Vul: psychosuction palos natural o los dos palos por encima, NTs: !c-!h o !d-!s hasta 7!d , DBL de 1!c fuerte 15+ o interes a manga distribucional. DBL de 2!c = !c
+No Vul: psychosuction palos natural o los dos palos por encima, NTs: !c-!h o !d-!s hasta 7!d , DBL de 1!c fuerte 15+ o interes a manga distribucional. DBL de 2!c = !c\\
 
 *** Lebensohl++
 
@@ -977,9 +1020,9 @@ Over spades(regular lebensohl:
 
 
 
-The GF transfer show 5+cards in the above suit except after (2m)-DBL-(pass)-? where 2m was a weak two or a natural precision opening. In that case the transfer only promise 4 or more cards in the suit.
+The GF transfer show 5+cards in the above suit except after (2m)-DBL-(pass)-? where 2m was a weak two or a natural precision opening. In that case the transfer only promise 4 or more cards in the suit.\\
 
-Accepting the GF transfer ==denies== a fit and ==denies== a stop.
+Accepting the GF transfer ==denies== a fit and ==denies== a stop.\\
 
 
 
@@ -1001,30 +1044,34 @@ After we found a fit, but we have not had a chance to describe our hand and oppo
 
 and similar auctions DBL could be from a strong hand, but it could also be from a more distributional hand interested in competing.
 
+- 4
+
+  - 1X - (3Y) - DBL - (4Y) si su palo es major que el nuestro (Y > X) estamon en FP
+  - 1ST - (2ST+) - DBL - (4X) estamos en FP
+
+- 5
+
+  
+( 4!s ) — DBL — ( pass ) — ? and comparable auctions:
+
+  - 4NT two placees to play or to play 5!h
+  - 5!h slam invitational
+
 
 
 *** Random competitive sequences with special meanings
 
-( 4!s ) — DBL — ( pass ) — ? and comparable auctions:
+**1x — ( 2Y ) — pass — ( pass )**\\
 
-- 4NT two placees to play or to play 5!h
-- 5!h slam invitational
+DBL - ( pass ) - ?\\
 
-
-
-
-
-**1x — ( 2Y ) — pass — ( pass )**
-
-DBL - ( pass ) - ?
-
-Lebensohl donde positivo es interes a manga frente 17-18
+Lebensohl donde positivo es interes a manga frente 17-18\\
 
 
 
 - 2/1 competition
 
-On 2/1 auctions if the overcall at the two or four+ level DBL is penalties. If they overcall at the 3 level DBL(only by opener) is shortness(0-1) in the suit ovecalled.
+On 2/1 auctions if the overcall at the two or four+ level DBL is penalties. If they overcall at the 3 level DBL(only by opener) is shortness(0-1) in the suit ovecalled.\\
 
 
 
@@ -1040,10 +1087,12 @@ On 2/1 auctions if the overcall at the two or four+ level DBL is penalties. If t
   - ReDBL pide partner que castige si tiene 3+ cartas en el palo donde van a correr
 
 
+**(1X) - pass - (1Y) - ?** 1NT sandwitch\\
 
-- 1X - (3Y) - DBL - (4Y) si su palo es major que el nuestro (Y > X) estamon en FP
-- 1ST - (2ST+) - DBL - (4X) estamos en FP
-- 
+1NT promete 5-4 en los dos palos no subastados. \\
+Si un palo se puede subastar a nivel de 1 y el otro no: 1NT promete 5 cartas en el palo que no se puede subastar a nivel de 1.\\
+Si los dos o ninguno de los dos palos se pueden subastar a nivel de 1, 1NT promete 5 cartas en el palo de rango mas alto.\\
+
 
 
 

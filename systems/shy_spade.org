@@ -1,3 +1,4 @@
+
 #+INCLUDE: bridgehtml.org
 
 #+TITLE: The shy spade
