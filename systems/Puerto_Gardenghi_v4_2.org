@@ -40,12 +40,6 @@ vs NT:\\
 
 reverse smith (low I like the lead suit) only at trick 2 after declarer won the opening lead. Smith is off ONLY if declarer plays a suit where we might need to cutoff dummy( dummy has no side entry or only 1 and the suit requires 2 to setup). In all other cases Smith is on. If the lead suit has a clear layout giving encoureging smith shows that we don’t like the switch to new suit.\\
 
-
-
-
-
-
-
 * 1!c Opening
 
 This continuations assume 1NT is 10-13. if 1NT is 12-14 adjust ranges 14-16 to 15-17 and 17-19 to 18-19
@@ -216,12 +210,6 @@ No jugamos transfer, pero si jugamos XYZ
 - 3!c :: 4+!d inv
 - 3!d :: 4​+!d 6-9
 
-
-
-
-
-
-
 ** 1!d-1!h
 
 - 1!s :: natural, NF but rarely passed​— XYZ
@@ -237,10 +225,6 @@ No jugamos transfer, pero si jugamos XYZ
 - 3NT :: !d solid
 - 4!d :: 6!d 4!h solid !d
 - O :: splinters
-
-
-
-
 
 ** 1!d-1!s
 
