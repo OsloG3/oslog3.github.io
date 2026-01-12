@@ -1143,10 +1143,8 @@ On 2/1 auctions if the overcall at the two or four+ level DBL is penalties. If t
 
 **(1X) - pass - (1Y) - ?** 1NT sandwitch\\
 
-1NT promete 5-4 en los dos palos no subastados. \\
-Si un palo se puede subastar a nivel de 1 y el otro no: 1NT promete 5 cartas en el palo que no se puede subastar a nivel de 1.\\
-Si los dos o ninguno de los dos palos se pueden subastar a nivel de 1, 1NT promete 5 cartas en el palo de rango mas alto.\\
-
+1NT promete almenos una 5-4, con 5 cartas en el palo donde la intervencion seria mas alta y almenos 4 cartas eon el otro.\\
+Si los dos palos son los menores solo promete una 5-4 y no que palo es 4rto y cual es quinto.\\
 
 
 
