@@ -260,7 +260,77 @@ No jugamos transfer, pero si jugamos XYZ
 * 1!h Opening
 
 - 1!s :: 0-4 !s F1, can be balanced/fit GF
+  - 1NT :: 5+!h 4!s 11-15 or any 16+
+    - 2!c :: 8+ any
+      - 2!d :: 16+ 4+m
+	- 2!h :: pregunta\\
+	  - 2!s 4+!c --> 2NT rele de bicolores, otro nat
+	  - 2NT+ 4+!d siguiendo 2!s rele de bicolores
+        - 2!s :: nada?
+	- 2NT :: nada?
+	- 3m :: 6+m
+      - 2!h :: 5+!h 4!s 11-15
+	- 2!s :: s.o.
+	- 2NT :: inv
+	- 3!c :: rele de bicolores
+	- 3!d :: s.o.
+	- 3M :: INV
+      - 2!s :: 5+!h 4!s 16+ --> 2NT rele de bicolores
+      - 2NT+ :: 6+!h siguiendo 2!s rele de monocolor
+    - 2!d :: 4!s 4-7
+    - 2!h :: 2!h 0-3!s 4-7
+    - 2!s :: 3!s 0-1!h 4-7
+    - 2NT :: 5+/5+ minors 4-7
+    - 3m :: 6+m 4-7
+    - 3!h :: 3!h INV
+  - 2!c :: 3+!c 11-15 --> 2!s GF rele de bicolores
+  - 2!d :: 3+!d 11-15 --> 2!s GF rele de bicolores
+  - 2!h :: 6+!h 13-15 --> 2!s GF rele de monocolor
+  - 2!s :: 6!h 5!s 11+ F1
+  - 2NT :: 6+!h 4m 15-17
+    - 3!c :: p/c
+    - 3!d :: ask !c/!d
+    - 3!h :: s.o.
+    - 3!s :: unused?
+  - 3!c :: 5!h - 5!c 15-17
+  - 3!d :: 5!h - 5!d 15-17
+  - 3!h :: 7+!h 12-15
+  - 3!s :: self splinter?
 - 1NT :: 5+!s F1
+  - 2!c :: 5!h 4!c 11-15 or 16+ any
+    - 2!d :: 8+
+      - 2!h :: 11-15 4+!c
+      - 2!s :: 16+ 2!s
+	- 2NT :: ask shape
+	  - 3m   16+ 5+!h 4+m 2!s --> reabrimos sobre 3ST si no tenemos 5422
+	  - 3!h  16+ 6!h 2!s
+	  - 3!s  18+ 2=5=3=3
+	  - 3NT  16-17 2=5=3=3 
+	- Ot :: nat
+      - 2NT :: 3!s 15+, steenberg
+      - 3m/!h :: 16+ nat 0-1!s
+      - 3!s :: 5!h-4!s-2-2 (17)18+
+    - 2!h :: 2!h 4-7
+    - 2!s :: 4-7 s.o.
+    - 2NT :: 5!s - 5m 0-1!h weak
+    - 3m :: 5!s 6m weak
+    - 3!h :: 3!h INV
+  - 2!d :: 5!h 4!d or 2=5=3=3 11-15
+  - 2!h :: 6+!h 13-15
+  - 2!s :: 3!s less than inv
+  - 2NT :: 6+!h 4m 15-17
+    - 3!c :: p/c
+    - 3!d :: ask !c/!d
+    - 3!h :: s.o.
+    - 3!s :: GF 6+!s
+  - 3!c :: 5!h - 5!c 15-17
+    - 3!h :: s.o.???
+    - 3!s :: 6+!s???
+  - 3!d :: 5!h - 5!d 15-17
+  - 3!h :: 7+!h 12-15
+  - 3!s :: usually 4!s, invitational
+  - 3NT :: ???
+  - 4m :: 4!s splinter
 - 2!c :: a) 5+!c GF b) 3(4)!h 8-11
   - 2!d :: asking 13+
     - 2!h :: 8-9 3+!h
