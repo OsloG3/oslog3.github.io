@@ -78,7 +78,12 @@ This continuations assume 1NT is 10-13. if 1NT is 12-14 adjust ranges 14-16 to 1
   - 3m  :: 5!h-5m inv
   - 3!s/4m :: self splinter 6+!h
 - 1!s :: 4+!c 4+!s unbalanced NF— XYZ (2!s waiting over the 2!d GF ask)
-- 1NT :: 17-19 balanced 2-3!h --> XYZ
+- 1NT :: 17-19 balanced 2-3!h
+  - 2!c :: XYZ
+    - 2!h :: inv 5!h
+    - 2!s :: inv to 3NT
+    - 2NT :: 5!h 4!s inv
+  - 2!s :: inv 4!h-4!s
 - 2!c :: 11-16 5+!c, 3!h possible only if minimum— 2!d GF ask
 - 2!d :: a) 6+!c 18+ b) 5+!c 4!d 16+
   - 2!h :: 5+!h 4-7
@@ -117,6 +122,7 @@ This continuations assume 1NT is 10-13. if 1NT is 12-14 adjust ranges 14-16 to 1
     - 2!s :: single suiter— 2NT two suiter ask
     - 2NT+ :: two suiter scheme
   - 2!s/3!c :: NF
+  - 3!h :: 4SF
 - 2!h :: 16+ 5+!c 4+!h
   - 2NT :: two stuiter ask scheme
   - 3!d :: 4SF or 5/5
@@ -384,7 +390,7 @@ No jugamos transfer, pero si jugamos XYZ
       - Ot :: nat
     - 2!s :: 11-15 5!s 4+!c
     - 2NT :: 4+!h 16+
-    - 3x+ :: single suiter relay 16+
+    - 3x+ :: como 2ST rele de monocolores
   - 2!h ::  5+!h 0-7
   - 2!s ::  2!s 0-7(could have 5+!h)
   - 2NT ::  0-1!s minors 4-7
@@ -399,12 +405,6 @@ No jugamos transfer, pero si jugamos XYZ
 - 3!s :: 7+!s just too strong for 3NT opening(raise to 4 on almost anything)
 - 4m/!h  :: self splinter
 - 4!s :: to play: THERE IS NO SLAM
-
-
-
-** 1!s-1NT-2!c-2!d 
-
-
 
 
 ** 1!s - 2!c
@@ -486,13 +486,66 @@ No jugamos transfer, pero si jugamos XYZ
 - 4!d ::  6+!s
 - 4M  :: to play
 
-*** 1NT-(DBL)-?
-- pass :: to play --> first DBL TO
+** Competicion sobre 1NT
+
+**1NT-(DBL)-?**
+- pass :: to play --> first DBL TO, and Lebensohl++ is on
 - ReDBL :: forces 2!c: !c or two suiter w/o clubs
 - 2!c :: !c + an other
 - 2!d/M :: to play
 - 2NT/3x :: xfer, preemptive or distributional GF hand
+
+
+
+| Opener |   | Op1    |   | Resp |   | Op2   |   |
+|--------+---+--------+---+------+---+-------+---|
+| 1NT    | - | (PASS) | - | PASS | - | (DBL) |   |
+|  ?     |   |        |   |      |   |       |   |
+
+- PASS :: usually no 5 card suit
+- DBL :: 5 card suit max
+- 2x :: 5+x min
+
+| Opener |   | Op1    |   | Resp |   | Op2   |   |
+|--------+---+--------+---+------+---+-------+---|
+| 1NT    | - | (2M)   | - | DBL  | - | PASS |   |
+|  ?     |   |        |   |      |   |       |   |
+
+- 2NT :: scrambling
+
   
+| Opener |   | Op1    |   | Resp |   | Op2   |   |
+|--------+---+--------+---+------+---+-------+---|
+| 1NT    | - | (PASS)  | - | PASS | - | (DBL) |   |
+|  PASS  |   | (PASS)  |   | ?    |   |       |   |
+
+Same as direct DBL
+
+| Opener |   | Op1    |   | Resp |   | Op2   |   |
+|--------+---+--------+---+------+---+-------+---|
+| 1NT    | - | (PASS)  | - | 2!c  | - | (DBL) |   |
+|  ?     |   |         |   |      |   |       |   |
+
+- PASS :: no stop
+  - (PASS) :: ok
+    - XX :: reStayman
+- XX :: interes a jugar
+- 2x :: system-on + parada
+
+| Opener |   | Op1    |   | Resp |   | Op2   |   |
+|--------+---+--------+---+------+---+-------+---|
+| 1NT    | - | (PASS)  | - | 2!c  | - | (2x)  |   |
+|  ?     |   |         |   |      |   |       |   |
+
+- PASS :: no 4M
+  - (PASS) :: ok
+    - X :: 
+- X :: 4oM sin parada
+- 2/3M :: 4M + parada
+
+
+
+
 ** Stayman 
 
 - 2!d :: no 4M
@@ -891,8 +944,16 @@ If the 6+suit minimum step is 3!d then there is no relay, but if the suit shown 
   - 3!s :: min 6/4— 4m coded major ISL
   - 3N :: max 5/5— 4m coded major ISL
   - 4m :: 6/5 + void— 6KC blackwood
-  - 4!h :: 6-5-1-1 — 6KC blackwood
+  - 4!h :: 6-5-1-1 — 6KC
 
+1m-2!s
+
+- 3!h/m :: s.o.
+- 3om :: GF 6+m
+- 3!s :: ISL
+- 2NT :: rele de bicolores
+
+  
 * Slam bidding
 
 *** Key card asking
