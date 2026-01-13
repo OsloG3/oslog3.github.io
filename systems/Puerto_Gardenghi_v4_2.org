@@ -334,18 +334,18 @@ No jugamos transfer, pero si jugamos XYZ
 - 2!c :: a) 5+!c GF b) 3(4)!h 8-11
   - 2!d :: asking 13+
     - 2!h :: 8-9 3+!h
-    - 2!s :: GF 5+!d 4+!s
-    - 2NT :: GF 5+!d no 4!s no better bid
-    - 3!c :: 5+!d 5+!c GF
-    - 3!d :: 6+!d, distributional or extras, doesn’t mind if partner bids 4!d
+    - 2!s :: GF 5+!c 4+!s
+    - 2NT :: GF 5+!c no 4!s no better bid
+    - 3!c :: 6+!d GF
+    - 3!d :: 6+!c 4+!d, distributional or extras, doesn’t mind if partner bids 4!d
     - 3!h :: 3+!h GF
     - 3NT :: 10/11 3!h no short
     - 3!s/4m :: 10/11 + short + 3!h
-  - 2!h :: 11-12(13)– anything other than pass = 5+!d GF, same as above
+  - 2!h :: 11-12(13)– anything other than pass = 5+!c GF, same as above
   - 2!s ::  natural 15+
   - 2NT ::  idk
   - 3!c ::  5!s - 5!c 15+
-  - 3!d ::  5!s - 5!d 15+
+  - 3!d ::  5!s - 5!d 17+
 - 2!d  :: 5+!d GF
 - 2!h ::  0-7 3+!h
 - 2!s ::  less than GF generic splinter
@@ -431,8 +431,8 @@ No jugamos transfer, pero si jugamos XYZ
   - 3!s :: 5+!d - 3!s GF
   - 3NT/4x :: 10-11 3!s no short, short in bid suit
 - 2!s :: 11-12(13)— not pass = GF 5+!d similar to above
-- 2NT :: 4+!h 15+
-- 3!c :: 5+!c 15+
+- 2NT :: 4+!h 16+
+- 3!c :: 5+!c 16+
 - 3!d :: 4+!d 15+
 
 
@@ -486,8 +486,13 @@ No jugamos transfer, pero si jugamos XYZ
 - 4!d ::  6+!s
 - 4M  :: to play
 
-
-
+*** 1NT-(DBL)-?
+- pass :: to play --> first DBL TO
+- ReDBL :: forces 2!c: !c or two suiter w/o clubs
+- 2!c :: !c + an other
+- 2!d/M :: to play
+- 2NT/3x :: xfer, preemptive or distributional GF hand
+  
 ** Stayman 
 
 - 2!d :: no 4M
@@ -1021,7 +1026,7 @@ Over clubs:
 - 2x to play
 - 2NT 4-4 majors GF or inv 5+ suit
   - 3!c ask
-    - 3!d/M 5+!d/M inv
+    - 3!d/M 4+!d/M inv
     - 3NT 4-4 Majors
 - 3!c !d GF transfer
 - 3!d GF transfer
@@ -1037,7 +1042,7 @@ Over diamonds:
   - 3!c NF
     - pass: wk !c
     - 3!d 4-4 majors no stop GF
-    - 3M 5+M inv
+    - 3M 4+M inv
     - 3NT 4-4 majors + stop
 - 3!c natural (invitational after a wk 2!d, GF when we opened 1NT)
 - 3!d GF transfer
@@ -1052,9 +1057,8 @@ Over hearts:
   - 3!c NF
     - pass/3!d to play
     - 3!h 4!s no stop
-    - 3!s 5+!s inv
+    - 3!s 4+!s inv
     - 3NT 4!s + stop
-
 - 3m natural (inv over a wk 2!h opening, GF over 1NT-2!h)
 - 3!h GF transfer
 - 3!s ask stop
@@ -1070,13 +1074,9 @@ Over spades(regular lebensohl:
 - 3m/!h natural (inv over a wk 2!h opening, GF over 1NT-2!h)
 - 3!s stop ask
 
-
-
-
-
 The GF transfer show 5+cards in the above suit except after (2m)-DBL-(pass)-? where 2m was a weak two or a natural precision opening. In that case the transfer only promise 4 or more cards in the suit.\\
 
-Accepting the GF transfer ==denies== a fit and ==denies== a stop.\\
+Accepting the GF transfer =denies= a fit and =denies= a stop.\\
 
 
 
@@ -1084,7 +1084,7 @@ Accepting the GF transfer ==denies== a fit and ==denies== a stop.\\
 
 - 1
 
-If we showed invitational+ values and opponents compete above our game(4 level if it’s unclear which one is our game) we are in forcing pass.
+If we show invitational+ values and opponents compete above our game(4 level if it’s unclear which one is our game) we are in forcing pass.
 
 - 2
 
@@ -1111,7 +1111,10 @@ and similar auctions DBL could be from a strong hand, but it could also be from 
   - 4NT two placees to play or to play 5!h
   - 5!h slam invitational
 
+- 6
 
+1x - (DBL) - ReDBL - (something) \\
+TO DBLs: at 1 and 2 level, penalty at 3+ level
 
 *** Random competitive sequences with special meanings
 
