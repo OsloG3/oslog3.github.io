@@ -50,6 +50,9 @@ This continuations assume 1NT is 10-13. if 1NT is 12-14 adjust ranges 14-16 to 1
 - 1NT :: 5+!c 0-7(8) or GF(can have 4M only if GF)
 - 2!c :: 5+!d GF, can have 4M
 - 2!d :: 5+!c (8)9-11 (<GF, but at least inv opposite min balanced)
+  - 2M :: stopper, could be 4/5!c 11-14
+  - 2NT :: 14/15 balanced 2/3!c
+  - 3!c :: 14/15 balanced 3-5!c
 - 2!h :: 5​+ !s 4+ !h 6-9 (with 4-5points start with 1!h)— ver secion reverse flannery
 - 2!s :: 5+!s 4+!h 10-11— 2ST rele de bicolores
 - 2NT :: natural 11
@@ -145,8 +148,17 @@ This continuations assume 1NT is 10-13. if 1NT is 12-14 adjust ranges 14-16 to 1
 - 1NT :: 14-16 balanced XYZ
 - 2!c :: 5+!c 11-15
 - 2!d :: 14-16/15-17 5!d332 or 4!d-4+!c
-- 2M  :: semi natural 16+ – 3m NF
-- 2NT ::  17-19 balanced— 3m s.o., 3M splinter(ambiguos minor suit length)
+- 2M  :: semi natural 16+ – 3m NF, Ot: nat
+- 2NT ::  17-19 balanced
+  - 3!c :: minor suit puppet
+    - 3!d 1 or both 4om
+      - 3!h 4!c, possible 4!d
+      - 3!s 4!d
+    - 3!h 5!c
+    - 3!s 5!d
+    - 3NT no 4M
+  - 3!d :: s.o.
+  - 3M :: splinter, minors or !d     
 - 3!c ::  6+!c good sut 15-17
 - 3!d ::  5!d332 18-19
 - 3x  :: self splinter 6+!c
@@ -208,6 +220,10 @@ No jugamos transfer, pero si jugamos XYZ
 - 1!h :: [[1!d-1!h][4+!h F1]]
 - 1!s :: [[1!d-1!s][4+!s F1]]
 - 1NT :: 5+!c 5-11
+  - PASS :: short clubs
+  - 2!c :: 3/4!c 11-14(15)
+  - 2!d :: (5)6+!d
+  - 2M :: values --> 3m NF
 - 2!c :: [[1!d-2!c][GF, bal, club or fit]]
 - 2!d :: 3+!d no 4M, 5-9
 - 2!h :: 5+!s 4+!h 6-9— ver secion reverse flannery
@@ -220,11 +236,22 @@ No jugamos transfer, pero si jugamos XYZ
 
 - 1!s :: natural, NF but rarely passed​— XYZ
 - 1NT :: 4+!c F1
-- 2!c :: 6+!d— 2!s generic GF ask
+- 2!c :: 6+!d
+  - 2!d :: s.o.
+    - 2!h :: 14-17 3!h
+    - 2NT :: 15-17 good for NT
+    - 3!d :: 15-17 more unball (probably should have bid direct 3!d)
+    - 3!h :: 3!h GF
+    - 2!s/3!c :: semi natural 18+
+    - 3NT :: to play  
+  - 2!s :: generic GF ask
 - 2!d :: 11-15 ​​3!h 
-- 2!h :: 4!h
-- 2!s :: nat GF— 2NT rele de bicolores
-- 2NT :: apoyo fuerte
+- 2!h :: 11-14 4!h
+- 2!s :: nat GF
+  - 2NT :: rele de bicolores
+  - 3!c/!h/!s :: s.o.
+  - 3!d :: 4SF, or 5/5 GF
+- 2NT :: apoyo fuerte, steenberg
 - 3!c :: 5-5 menores GF
 - 3!d :: 15-17 unbalnced, good suit doesn’t want to declare 3NT
 - 3!h :: 4!h inv
@@ -239,7 +266,6 @@ No jugamos transfer, pero si jugamos XYZ
 - 2!d :: 11-15 ​4!h over 
 - 2!h :: 4!h 16+— 2!s/3!d/3!h NF, 2NT rele de bicolores
 - 2!s :: 3+!s 11-13
-
 - 2NT :: apoyo fuerte— steenberg
 - 3!c :: 5-5 menores GF
 - 3!d :: 15-17 unbalnced, good suit doesn’t want to declare 3NT
@@ -363,6 +389,17 @@ No jugamos transfer, pero si jugamos XYZ
 - 4m :: void splinter
 - 4!h :: preemptive
 
+*** 1!h passed hand bidding
+
+- 2!c :: 3!h 9-11
+  - 2!d :: ART 13+
+  - 2!h :: 9-12
+  - 2!s :: 13+!s
+- 2!d :: 4!h 8-11
+  - 2!h :: s.o
+- 2NT :: 5/5 minors 7+-10
+- 3m :: Fit showing
+
 * 1!s Opening
 
 - 1NT  :: 5-11 0-2!s
@@ -376,8 +413,6 @@ No jugamos transfer, pero si jugamos XYZ
 - 3!s ::  4!s 6-9
 - 3NT ::  any singleton splinter— 4!c ask LMH
 - 4x  :: void  splinter
-
-
 
 *** 1!s -  1NT
 
@@ -418,8 +453,6 @@ No jugamos transfer, pero si jugamos XYZ
 - 2!s :: single suiter (5332 or 6+!s)– 2NT sing suiter relay(can still play 5-3 !c fit) other nat 5+!c
 - 2NT+ :: 4+!c following 2!s relay structure
 
-
-
 ** 1!s - 2!d
 
 - 2!h :: asking 13+
@@ -435,7 +468,17 @@ No jugamos transfer, pero si jugamos XYZ
 - 3!c :: 5+!c 16+
 - 3!d :: 4+!d 15+
 
+*** 1!s passed hand bidding
 
+- 2!c :: 3!s 9-11
+  - 2!d :: ART 13+
+  - 2!h :: 4+!h NF
+  - 2!s :: 9-12
+  - 3!h :: 4+!h F1  
+- 2!d :: 4!h 8-11
+  - 2!s :: s.o
+- 2NT :: 5/5 minors 7+-10
+- 3m :: Fit showing???
 
 * 1NT Opening
 
@@ -495,8 +538,6 @@ No jugamos transfer, pero si jugamos XYZ
 - 2!d/M :: to play
 - 2NT/3x :: xfer, preemptive or distributional GF hand
 
-
-
 | Opener |   | Op1    |   | Resp |   | Op2   |   |
 |--------+---+--------+---+------+---+-------+---|
 | 1NT    | - | (PASS) | - | PASS | - | (DBL) |   |
@@ -512,7 +553,6 @@ No jugamos transfer, pero si jugamos XYZ
 |  ?     |   |        |   |      |   |       |   |
 
 - 2NT :: scrambling
-
   
 | Opener |   | Op1    |   | Resp |   | Op2   |   |
 |--------+---+--------+---+------+---+-------+---|
@@ -543,9 +583,6 @@ Same as direct DBL
 - X :: 4oM sin parada
 - 2/3M :: 4M + parada
 
-
-
-
 ** Stayman 
 
 - 2!d :: no 4M
@@ -569,6 +606,8 @@ Same as direct DBL
   - 3m :: 5+m 4!h GF
   - 3!h :: 4!s ISL no short
   - 3!s :: inv
+
+
 
 * 2!c Opening
 
@@ -796,9 +835,6 @@ Natural bidding
   - Ot :: steps 14/30/2/2 + Q
 - 4/5NT :: quant
 
-
-* 3x Opening
-
 * 3!c 1/2 NV vs VUL
 
 - 3!d puppet to 3!h, to sign off in 3M or to offer 3NT opposite a good suit
@@ -809,14 +845,18 @@ Natural bidding
 
 - 3!h puppet to 3!s to play or offer 3NT opposite good suit
 
-
-
 Other natural
 
 
 
 * 3NT Opening
 
+- VUL vs NV: 8.5 tricks
+- VUL vs VUL:t 8 tricks
+- NV vs NV: 7.5 tricks  
+- NV vs VUL: 7 tricks
+
+Responses
 - 4!c :: xfer to your major
 - 4!d :: slam try in your major
   - 4M :: s.o.
@@ -990,8 +1030,6 @@ Bidding 5NT, either directly after RKCB(if it is not a Q or K ask) or after a po
 
 If we have denied a King in suit(either we skipped the cubdbid, or partner cuebid the suit and is known to not have shortness in said suit and we have the A in that suit) we treat the Q in that suit as a King in response to the Q or K ask (but still a Q if partner makes a 5NT specific Q ask)\\
 
-
-
 *** Exclusion
 
 - step-1 0
@@ -1014,8 +1052,6 @@ If they DBL/overcall after our RKCB/exclusion we play DEPO/REPO (DBL/ReDBL odd K
 
 over 5!c/5!d first available step queen ask 0/1/ 2+Ks, second step K ask.
 
-
-
 *** Setting suits at the 4 level
 
 If we showed a major two suiter ending at 4!c with 8+ card fit possible in both suits (2!c-2!d-4!c or after some relay)
@@ -1023,10 +1059,6 @@ If we showed a major two suiter ending at 4!c with 8+ card fit possible in both 
 - 4!d sets !h
 - 4M to play
 - 4NT RKCB in !s
-
-
-
-
 
 *** 2/1 Auctions 
 
@@ -1038,7 +1070,7 @@ In 2/1 GF auctions(including the 2-way 1M-[2M-2]) we use 2NT as just waiting whi
 
 *** Despues de intervencion nuestra
 
-(1X) - 1Y - (PASS) - ?\\
+(1X) - 1Y - (PASS) - ?
 
 - 1M 4+M F1
 - 1ST 8-11 con parada
@@ -1050,8 +1082,6 @@ In 2/1 GF auctions(including the 2-way 1M-[2M-2]) we use 2NT as just waiting whi
 - saltos fit showing 8-12 4X 5+Z(buen palo)
 - doble saltos splinter
 
-
-
 (1X) - 2Y - (PASS) - ?
 
 - 2Z(sin slato) 5+Z 8-11 NF
@@ -1062,15 +1092,11 @@ In 2/1 GF auctions(including the 2-way 1M-[2M-2]) we use 2NT as just waiting whi
 - 3X splinter
 - saltos fit showing 8-12 4X 5+Z(buen palo)
 
-
-
 Despues de (1X) - 1Y - (2X/2Z) - ? o (1X) - 2Y - (2X/3Z)
 
 - Nuevo palos sin salto a nivel de 2 o 3 son naturales NF
 - Saltos fit showing
 - DBL/ReDBL: TO, pero pueden tener palo quinto o mas GF
-
-
 
 *** defence to strong 1/2!c
 
@@ -1095,8 +1121,6 @@ Over clubs:
 - 3!s stopper ask
 - 3NT to play
 
-
-
 Over diamonds:
 
 - 2NT lebensohl: wk !c or GF 4-4 majors or inv 5+M
@@ -1110,8 +1134,6 @@ Over diamonds:
 - 3!h GF transfer
 - 3!s stop ask
 
-
-
 Over hearts:
 
 - 2NT lebensohl
@@ -1123,8 +1145,6 @@ Over hearts:
 - 3m natural (inv over a wk 2!h opening, GF over 1NT-2!h)
 - 3!h GF transfer
 - 3!s ask stop
-
-
 
 Over spades(regular lebensohl:
 - 2NT lebensohl
@@ -1138,8 +1158,6 @@ Over spades(regular lebensohl:
 The GF transfer show 5+cards in the above suit except after (2m)-DBL-(pass)-? where 2m was a weak two or a natural precision opening. In that case the transfer only promise 4 or more cards in the suit.\\
 
 Accepting the GF transfer =denies= a fit and =denies= a stop.\\
-
-
 
 *** High level competitive agreements
 
@@ -1185,13 +1203,9 @@ DBL - ( pass ) - ?\\
 
 Lebensohl donde positivo es interes a manga frente 17-18\\
 
-
-
 - 2/1 competition
 
 On 2/1 auctions if the overcall at the two or four+ level DBL is penalties. If they overcall at the 3 level DBL(only by opener) is shortness(0-1) in the suit ovecalled.\\
-
-
 
 - If they open a weak two in a Major
   - 2NT 15-18 con parada –> transfer y transfer al palo de ellos es styamn normal
@@ -1199,11 +1213,8 @@ On 2/1 auctions if the overcall at the two or four+ level DBL is penalties. If t
   - 4M menores fuerte– 4ST 6KC?
   - 4NT menores no tan fuerte
 
-
-
 - Abrimos de barrage y nos doblan
   - ReDBL pide partner que castige si tiene 3+ cartas en el palo donde van a correr
-
 
 **(1X) - pass - (1Y) - ?** 1NT sandwitch\\
 
