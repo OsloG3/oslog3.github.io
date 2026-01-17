@@ -368,17 +368,51 @@ No jugamos transfer, pero si jugamos XYZ
     - 2!h :: 8-9 3+!h
     - 2!s :: GF 5+!c 4+!s
     - 2NT :: GF 5+!c no 4!s no better bid
-    - 3!c :: 6+!d GF
+    - 3!c :: 6+!c GF
     - 3!d :: 6+!c 4+!d, distributional or extras, doesn’t mind if partner bids 4!d
     - 3!h :: 3+!h GF
     - 3NT :: 10/11 3!h no short
     - 3!s/4m :: 10/11 + short + 3!h
-  - 2!h :: 11-12(13)– anything other than pass = 5+!c GF, same as above
-  - 2!s ::  natural 15+
-  - 2NT ::  idk
+  - 2!h :: 11-13– anything other than pass = 5+!c GF, same as above
+  - 2!s ::  natural GF 15+
+    - 2NT :: 12+ rele de bicolores, incluye apoyo para slam
+    - 3!c :: 12+ 6+!c
+    - 3!d :: 12+, 4SF o 6-5
+    - 3M :: 8-11 buena para slam  
+    - 4M :: 8-11 mala para slam   
+  - 2NT ::  =ALERT= 5+!s - 5+!d 15+
+    - 3!c :: 12+ 6+!c
+    - 3!d :: 12+ apoyo  
+    - 3!h :: 4SF, puede ser 3!s - 5!c 12+  
+    - 3!s :: 3!s 8-11 para slam
+    - 4!s :: 3!s 8-11 mala para slam  
   - 3!c ::  5!s - 5!c 15+
-  - 3!d ::  5!s - 5!d 17+
+  - 3!d ::  ?
+  - 3!h ::  impone el palo?    
 - 2!d  :: 5+!d GF
+  - 2!h :: waiting, no 4!s, cualquier minima o 6+!h max
+    - 2!s :: =asking en transfer= 
+      - 2NT :: 4+!c\\
+	- 3!c - rele de bicolores
+	- 3!d - 6+!d  
+      - 3!c :: 3!d min
+      - 3!d :: 6+!h max
+      - 3!h :: 6+!h min
+      - 3NT :: 3523 minima		
+    - 2NT :: ???
+    - 3!c :: ???
+    - 3!d :: ???
+  - 2!s :: 4+!s 11+
+    - 2NT :: rele de bicolores.
+    - 3!c :: 4SF o 5+!d - 5+!c
+    - 3!d :: 6+!d
+  - 2NT :: 15+ equilibrada, puede tener 3!d?
+  - 3!c :: 4+!c 15+, puede ser 5-5 buena de 13/14
+  - 3!d :: 4+!d 12-14 o 3!d 15+?
+  - 3!h :: 6/7!h imposicion de palo, no minima
+  - 3!s :: splinter 4+!d 14/15+
+  - 3NT :: nada?
+  - 4!c :: splinter 4+!d 14/15+
 - 2!h ::  0-7 3+!h
 - 2!s ::  less than GF generic splinter
 - 2NT ::  4+!h inv+
@@ -406,6 +440,23 @@ No jugamos transfer, pero si jugamos XYZ
 - 2!c :: [[1!s - 2!c][GF, bal, clubs, or fit]]
 - 2!d :: [[1!s - 2!d][3(4)!h 8-11 or 5+!d GF]]
 - 2!h ::  5+!h GF
+  - 2!s :: waiting, minimum or 6+!s
+    - 2NT :: pregunta, puede tener 6!h
+      - 3m - 5+!s - 4+m minima
+      - 3!h - 6+!s max
+      - 3!s - 6+!s min
+      - 3NT - 5233
+    - 3!c :: 5-5
+    - 3!d :: 5-5
+    - 3!h :: 6+!h
+    - 3!s :: apoyo
+  - 2NT :: 15+ equilibrada, puede tener 3!h?
+  - 3!c :: 4+!c 15+, puede ser 13/14 buena 5/5
+  - 3!d :: 4+!d, 15+, puede ser 13/14 buena 5/5
+  - 3!h :: 3!h 12+
+  - 3!s :: impone palo
+  - 3NT :: algo?
+  - 4m :: 4!h splinter 12+      
 - 2!s ::  0-7 3+!s
 - 2NT ::  4+!s inv+ steenberg
 - 3m  :: 6+m inv
@@ -445,11 +496,13 @@ No jugamos transfer, pero si jugamos XYZ
 ** 1!s - 2!c
 
 - 2!d :: 4+!d
+  - 2!h :: 4SF
   - 2!s :: two suited relay, doesnt show or deny support
   - O :: nat 5+!c
 - 2!h :: 4+!h
   - 2!s :: two suited relay, doesn’t show or deny support
-  - O :: nat 5+!c
+  - 3!d :: 4SF
+  - O :: 5+!c
 - 2!s :: single suiter (5332 or 6+!s)– 2NT sing suiter relay(can still play 5-3 !c fit) other nat 5+!c
 - 2NT+ :: 4+!c following 2!s relay structure
 
@@ -465,9 +518,28 @@ No jugamos transfer, pero si jugamos XYZ
   - 3NT/4x :: 10-11 3!s no short, short in bid suit
 - 2!s :: 11-12(13)— not pass = GF 5+!d similar to above
 - 2NT :: 4+!h 16+
+  - 3!c :: 12+ 5+!d: rele de bicolores, incluye apoyo en los dos mayores
+  - 3!d :: 6+!d 12+
+  - 3!h :: 4!h 3!s 8-11, not absolute minimum
+  - 3!s :: 3!s 8-11, not absolute minimum
+  - 3NT :: 5+!d to play
+  - 4!c :: ???
+  - 4!d :: ???
+  - 4M :: to play, bad 8-10      
 - 3!c :: 5+!c 16+
-- 3!d :: 4+!d 15+
-
+  - 3!d :: 6+!d GF
+  - 3!h :: 5+!d, 4SF, could be 5+!d - 3!s
+  - 3!s :: 8-11 good for slam
+  - 4!c :: sets !c is it 12+ or 8-11?  
+  - 4!s :: 8-11 bad for slam  
+- 3!d :: 5+!d 16+
+  - 3!s :: 3!s 8-11 good for slam
+  - 4!d :: is 8-11 3!s-4!d good for slam, or 5+!d 12+?  
+  - 4!s :: 3!s 8-11 bad for slam
+  - Ot :: 5+!d 12+
+- 3!h :: ???
+- 3!s :: ???
+  
 *** 1!s passed hand bidding
 
 - 2!c :: 3!s 9-11
@@ -579,7 +651,7 @@ Same as direct DBL
 
 - PASS :: no 4M
   - (PASS) :: ok
-    - X :: 
+    - X :: penalty
 - X :: 4oM sin parada
 - 2/3M :: 4M + parada
 
