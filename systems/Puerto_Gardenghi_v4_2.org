@@ -529,7 +529,7 @@ No jugamos transfer, pero si jugamos XYZ
 - 4!d ::  6+!s
 - 4M  :: to play
 
-** Competicion sobre 1NT
+*** Competicion sobre 1NT
 
 **1NT-(DBL)-?**
 - pass :: to play --> first DBL TO, and Lebensohl++ is on
