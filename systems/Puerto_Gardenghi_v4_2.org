@@ -1081,14 +1081,14 @@ RKCB with suit X set:
 
 After step 1 and 2 the first next available step that isn’t 5X asks for the Q of trumps.\\
 
-If the Q ask is below 5X then: 5X = no Q; 6X = Q + new kings to bid, bid in between Q + the king in the suit bid.\\
+If the Q ask is below 5X then: 5X = no Q; 6X = Q + no kings to bid, bid in between Q + the king in the suit bid.\\
 
 If the Q ask is above 5X it promises all KC then: 
 
 - 6X = no Q;
 - 5NT = Q no King
 - new suit = Q + King in the suit bid
-- the cheapest bid is ambiguos a) the meaning given by the rules above b) Q + a king that cant be bid below 6X and no other Kings.
+- the cheapest bid is ambiguos a) the meaning given by the rules above b) Q + a king that cant be bid below 6X and no other Kings.\\
 
 After steps 1 to 4 the first available step that isn’ the trump suit, or the Q ask, is a specific king ask and promises all KC.\\
 
@@ -1110,7 +1110,7 @@ If we have denied a King in suit(either we skipped the cubdbid, or partner cuebi
 - step-4 2 but no Q
 - step-5 2 + Q
 
-If they DBL/overcall after our RKCB/exclusion we play DEPO/REPO (DBL/ReDBL odd KC, Pass even KC)
+If they DBL/overcall after our RKCB/exclusion we play DEPO/REPO (DBL/ReDBL even KC, Pass odd KC)
 
 *** 6KC blackwood
 
