@@ -1,0 +1,1154 @@
+#+INCLUDE: bridgehtml.org
+
+#+TITLE: Two Over One
+
+* Openings
+
+- 1!c :: 11+ 4+!c unbal or 12-14 balanced (14-16 when 1NT is 10-13)\\
+  Could be GF strength with 5+!c, but the opening is not forcing
+- 1!d :: 11+ 4+!d unbal 
+- 1!h :: 5+!h 11+
+- 1!s :: 5+!s 11+
+- 1NT :: balanced: 10-13 1st NV or 2nd/3rd Fav
+- 2!c :: balanced 18-19(17-19 when 1NT is 10-13) or 22-23 balanced, or any GF (not primary !c)
+- 2!d :: Trahs Multi: 5+M less than 2M strength
+- 2M  :: 6+M 1st-2nd NV 8-11, 10-13 other
+- 2NT :: 20-21 balanced
+- 3x :: preemptive
+- 3NT :: Good 4M preempt
+- 4/5x :: nat preempt
+
+
+
+Opening choice: with (14)44 open 1!c with 12-14(only when 1NT is storng), open 1!d or 1NT otherwise
+
+1NT can be rather off-shape
+
+
+
+* Carding
+
+UDCA
+
+vs NT :: 2/4 leads(2nd from any 3 or from 4+ weak suit), attitude on A/Q lead from partner, count on other leads (K ask for unblock as well).
+
+Reverse smith at trick 2(never delayed smith) from both players, unless count is needed to stop a long suit in dummy with no entries. When the position of the lead suit is clear, negative smith implies interest in the obvious switch.
+
+vs Suit :: 3/5 leads, K ask for count, attitude on other leads
+
+Standard suit preference in the trump suit and when it makes sense
+
+
+
+*  1!c Opening
+
+- 1!d :: 4+!h 0+HP
+  - 1!h :: 3!h  11-16 -> XYZ
+  - 1!s :: unbalanced 4+!s -> XYZ
+    - 2!d :: GF
+      - 2!s :: default rebid with
+  - 1NT :: 12-14/14-16 1-2!h can have 4!s -> XYZ
+  - 2NT :: 6+!c 15+, no 3!h unless 18+
+  - 3!c :: 6+!c 3!h 15-17
+- 1!h :: 4+!s 0+HP— same as above
+- 1!s :: no 4M, less than GF
+- 1NT :: GF balanced or 5+!d (can have 4M in either option)
+  - 2!c :: balanced 12-14/14-16
+    - 2!d :: stayman(doesn't promise 4M), usually balanced
+    - Ot :: natural with 5+!d 
+  - 2!d+ :: as per GF relay after 1m Openings
+- 2!c :: 5+!c GF, can have 4M
+  - 2!d :: balanced 12-14/14-16
+  - Ot :: natural unbalanced
+- 2!d :: 6+M 4-9 -—2NT ask: 3!c/!d=min !h/!s; 3M=6oM max
+- 2!h :: 5+!s 4!h 6-9
+- 2!s :: 5+!s 4!h 10-11
+- 2NT :: Natural 11-12?
+- 3!c :: 6+!c weak
+- 3!d/M :: preemptive 3-7 7+ card suit
+
+
+
+1x-1M\\
+2x-3M GF 6+M (semi)solid suit\\
+Applies after 1!d or 1!h openings as well\\
+
+
+**1!c-2!h continuations**
+- pass: s.o.
+- 2!s s.o.
+- 2NT ask, see below
+- 3!c s.o.
+- 3!d GF 6+!c
+- 3M invitational
+
+
+
+**1!c-2!s continuations:**
++ pass: s.o.
++ 2NT ask, see below
++ 3!c s.o.
++ 3!d GF 6+!c
++ 3!h s.o.
++ 3!s natural ISL
+
+**1!c-2M-2NT ask continuations:**
+- 3!c min 5/4— 3M s.o. while 3!d ask (usuall H/L/22 responses)
+- 3!d max 54 (31)— 3!h ask H/L short
+- 3!h 5/5 min
+- 3!s 6/4 min
+- 3NT max 54 22
+- 4!c 5/5 max
+- 4!d 6/4 max
+
+
+
+*** Competitive bidding after 1!c 
+
+**1!c - (DBL) - ?**
+- ReDBL :: 11+ any, forcing to 2NT (==First X TO after XX==)
+- other :: system on
+
+
+
+**1!c - (1!d) - ?**
+
+- DBL :: 4/5!h
+- 1!h :: 4​/​5!s
+- 1!s :: transfer to NT or !c
+- 1NT :: natural 8-10
+- 2!c :: 4/4 Majors 8+, 5/5 Majors 5+, 5/4 Majors less than inv
+- 2!d :: 6+!h wk or GF
+- 2!h :: 6+!s wk or GF
+- 2!s :: 6+!c wk or GF
+- 2NT :: natural inv
+- 3!c :: 6+!c inv
+- 3!d :: 6+!h inv
+- 3!h :: 6+!s 
+- 3!s :: stop ask
+
+
+
+**1!c - (1!h) - ?**
+
+- DBL :: 4​/​5!s
+- 1!s :: transfer to NT or !c
+- 1NT :: natural 8-10
+- 2!c :: 5+!d light invite+
+- 2!d :: GF no better bid
+- 2!h :: 6+!s wk or GF
+- 2!s :: 6+!c wk or GF
+- 2NT :: natural inv
+- 3!c :: 6+!c inv
+- 3!d :: 6+!d inve
+- 3!h :: 6+!s inv
+- 3!s :: stop ask
+
+
+
+**1!c - (1!s) - ?**
+
+- DBL :: 4​+!h
+
+- 1NT :: natural 8-10
+- 2!c :: 5+!d 9+
+- 2!d :: 5+!h 9+
+- 2!h :: GF no better bid
+- 2!s :: 6+!c wk or GF
+- 2NT :: natural inv
+- 3!c :: 6+!c inv
+- 3!d :: 6+!d inv
+- 3!h :: 6+!h ​inv
+- 3!s :: stop ask
+
+
+
+**1!c-2X  (that doesn’t promise two known suits)**: Rubensohl (see competitive bidding section)
+
+
+
+**1!c - (3!c natural​)**
+
+- Transfers same as after 1!d-(3!c)
+
+
+
+*  1!d Opening 
+
+- 1M :: 4+M F1
+  - 1NT ::  4+!c
+  - 2!c ::  6+!d
+  - 2!d ::  !h(3 over !h, 4 over 1!s)​ 11-15
+  - 3!d ::  6+!d 3M 15-17
+- 1NT :: 4+!c NF
+- 2!c :: clubs or balanced(maybe Fit as well) GF— see below conts.
+- 2!d :: inverted minors— stoppers
+- 2M :: 4-9 6+M— 2NT feature ask
+- 2NT :: 11-12 balanced
+- 3!c :: invitational 6+!c
+- 3!d :: 5-9 raise?
+- 3M :: preemptive 7+M 3-7
+
+
+
+*** Competitive bidding after 1!d opening
+
+**1!d - (1!h) - ?**
+- DBL :: 4​/​5!s
+- 1!s :: transfer to NT or !c
+- 1NT :: natural 8-10
+- 2!c :: 4+!d 4-8 or GF
+- 2!d :: 4+!d 9-11
+- 2!h :: 6+!s wk or GF
+- 2!s :: 6+!c wk or GF
+- 2NT :: natural inv
+- 3!c :: 6+!c inv
+- 3!d :: preemptive
+- 3!h :: 6+!s inv
+- 3!s :: !h splinter
+
+
+
+**1!d - (1!s) - ?**
+- DBL :: 4​+!h
+- 1NT :: natural 8-10
+- 2!c :: 5+!h 8+
+- 2!d :: 4+!d less than inv
+- 2!h :: 5+!c inv+ (exactly 5 if inv)
+- 2!s :: !d raise inv+
+- 2NT :: natural inv
+- 3!c :: 6+!c inv
+- 3!d :: preemptive
+- 3!h :: 6+!h inv
+- 3!s :: ​​splinter
+
+
+
+**1!d - (2!c) - ?**
+- DBL :: TO
+- 2!d :: 5+!h 9+
+- 2!h :: 5+!s
+- 2!s :: !d raise inv+
+- 2NT :: natural inv
+- 3!c :: 5/5 Majors inv+
+- 3!d :: preemptive
+- 3!h :: Fit showing
+- 3!s :: ​​Fit showing
+
+
+
+**1!d - (3!c) - ?**
+- DBL :: TO
+- 3!d :: 5+!h inv+
+- 3!h :: 5+!s inv+
+- 3!s :: !d raise inv+
+- 3NT :: to play
+- 4!c :: 5/5 Majors inv+
+- 4!d :: less than invitational raise
+- 4M :: to play
+
+
+
+*** GF relay after 1m opening
+
+- 2!d :: 11-15 not both minors
+  - 2!h :: ask: see max
+- 2!h :: both minors any range
+  - 2!s :: ask
+    - 2NT :: 5-5 minors (undiscussed after 1!c, maybe 6-5)
+    - 3!c :: 11-15 5m-4om -> 3!d ask H/L/22
+    - 3!d :: 6m-4om -> 3!h ask: H min/L min/H max/L max
+    - 3!h :: 5m-4om high short 16+
+    - 3!s :: 5m-4om low short 16+
+    - 3NT :: 5m-4om 22 16+
+- 2!s :: 5+m 4!s 16+​ 
+  - 2NT :: ask
+    - 3!c :: 5m-4!s 16-17 -> 3!d ask H/L/22
+    - 3!d :: 6m-4!s 16+ -> 3!h asks H/L short
+    - 3!h :: 5431 high short 18+
+    - 3!s :: 5431 low short 18+
+    - 3NT :: 5422 18+
+- 2NT :: 5+m 4!h 16+
+  - 3!c :: ask
+    - 3!d :: 6m 4!h -> 3!h ask High/Low short
+    - 3!h :: 5431 High short -> 3!s set  !h
+    - 3!s :: 5431 Low short
+    - 3NT :: 5422
+- 3!c :: 6+m + short 16+
+  - 3!d :: ask -> High/Middle/low
+- 3!d :: 6+m no short 16+
+- 3M/NT :: 4441 or 5440 16+ with High/Middle/Low short
+
+
+
+*  1!h Opening
+
+- 1!s :: 4+!s F1
+  - 1NT :: 12-14/14-16 balanced -> XYZ
+  - 2!c :: 6+!h 12-15(14/15 vul/3rd/4th) or 16+ any
+  - 2!h :: 5!h 4+!c 11-15
+  - 2NT :: 6!h-4m 15+
+  - 3!c :: 5-5 15-17
+  - 3!d :: 5-5 15-17
+  - 3!h :: 7+!h 12-15
+- 1NT :: 5-11 NF
+  - 2!c :: 6+!h 12-15(14/15 vul/3rd/4th) or 16+ any
+  - 2!h :: 5!h 4+!c 11-15
+  - 2!s :: 6!h 5!s or GF 5!h-5m
+    - 2NT :: ask
+      - 3m :: 5-5 GF
+      - 3!h :: 6!h 5!s 12-15
+      - 3!s :: 6-5 16-17
+  - 2NT :: 6!h-4m 15+
+  - 3m :: 5-5 15-17
+- 2!c ::  clubs bal or fit GF (see other file, but using reverse shortness showing)
+- 2!d ::  5+!d GF (see other file)
+- 2!h ::  less than invitational raise
+- 2!s ::  6+!s 4-9
+- 2NT ::  10-14 3/4!h Mass
+- 3!c ::  mixed raise
+- 3!d ::   6+!d invitational
+- 3!h ::  0-5 4!h
+- 3!s ::  any void splinter— 3NT asks LMH short
+- 3NT ::  singleton !s splinter
+- 4m  :: singleton splinter
+- 4!h ::  5+!h weak
+
+
+*  1!s Opening
+
+-  1NT ::  5-11 NF
+   -  2!c :: 6+!s 12-15(14/15 Vul/3rd/4th) or 16+ any
+   -  2!s :: 5!s 4+!c 11-15
+   -  2NT :: 6+!s 4m 15+
+   -  3!c :: 5!s 5X GF-— 3:diamonds; ask
+      -  3!h :: 5-5!h
+      -  3!s :: 5-5!c
+      -  3NT :: 5-5!d
+   -  3!d/!h :: 5-5 15-17
+   -  3!s :: 7+!s 12-15
+-  2!c :: clubs bal or fit GF (see other file)
+-  2!d :: 5+!d GF (see other file)
+-  2!h :: 5+!h GF (see other file)
+-  2!s :: less than invitational raise
+-  2NT :: 10-14 3/4!s Mass
+-  3!c :: mixed raise
+-  3!d/!h :: invitational 6+!d/!h 
+-  3!s :: 4!s 0-5
+-  3NT :: any void splinter-- 4!c LMH short
+-  4x  :: sing x splinter
+-  4!s :: 5+!s weak
+
+
+
+*** Kokish game tries after 1M-2M
+
+**1!h -2!h**
+
+- 2!s :: generic invite or slam try\\
+  Asks first suit we would accept a game try in.
+  - 2NT :: !s values
+  - 3m :: m values
+  - 3!h :: dead minimum
+- 2NT :: !s shortness game try
+- 3m :: m shortness game try
+
+**1!s-2!s**
+
+- 2NT​ :: generic invite or slam try
+  - 3m :: m values
+  - 3!h :: !h values
+  - 3!s :: dead minimum
+- 3m :: m shortness game try
+- 3!h :: !h shortness game try
+
+
+
+*** 2/1 after 1M openings
+
+**1M-2!c**
+- 2!d :: 4+!d any range
+  - 2M :: sets M and asking
+  - 2oM :: 4SF
+  - 2NT+ :: see G.R. below
+- 2!h :: 4+oM ​any range
+  - 2!s :: ​sets opening major and asking
+  - 2NT+ :: see G.R. below
+- 2!s :: a) single suiter b) balanced minimum c) min 5+​M​ 4!c
+- 2NT :: a) balanced max b) 6M 4!c max
+- 3!c :: 5​M​ 4!c max
+  - 3!d :: ask H/L/22 can have 3M
+  - 3M :: 4M
+  - 3oM :: punt
+- 3!d :: 5​M​ 5!c max– 3oM punt
+- 3!h :: 7+​​M (semi)solid any range
+  - 3!s :: xxx or H in M
+  - 3NT :: void
+  - 4x :: cue with x or xx
+- 3!s :: 5​M - ​5!c min
+- 3NT :: 5​M - ​5!c min (bad suit quality)
+
+**1M-2!d**
+- 2!h :: oM ​any range
+  - 2!s ​:: sets opening major and asking
+  - 2NT+ :: see G.R. below
+- 2!s :: a) single suiter b) balanced minimum c) min 4!c d) min 4!d
+- 2NT :: a) balanced max b) 6M 4!c max
+- 3!c :: 5​M​ 4+!c max
+  - 3!d :: asking
+    - 3!h :: 5-5--- 3!s ask stop oM; 4!c set !c
+    - 3!s :: 5/4, doesn't want to declare 3NT
+    - 3NT :: 5/4
+    - 4!d :: 3 card support 3!d 
+  - 3oM :: 6+!d--- 
+    - 3!s :: (if available) asks for stop
+    - 3NT :: nat or min
+    - 4!c :: 5-5
+    - 4!d :: dubleton or stiff H
+    - 4M :: 6-5
+    - 4oM :: short + 3!d
+  - 3M :: Fit​ 
+- 3!d :: 5​+ M​ 4+!d 15+ or 5-5!d 12-14
+  - 3M :: Fit M
+  - 3oM :: Hx in M
+  - 4x :: ISL in !d 
+- 3!h :: 7+​​M (semi)solid any range; same as over 2!c
+- 3!s :: 5​M - ​5!c min
+- 3NT :: 5​M - ​5!c min (bad suit quality)
+- 4!d :: 5M-5!d very weak
+
+
+**1M-2m-2R General Rules**
+- 2NT :: denies the major suit fit, but could have a fit in the second suit.
+- 3m :: natural 6+m
+- 3(4th suit) ::  2way 4SF
+  - a) natural 5/5 (6/5 when 5/5 is impossible)
+  - b) if no 4SF available at the 2level: 4SF stopper asking 
+- 3R/M :: show 4+R support with low and high shortness respectively
+
+After the 2N relay the bidding continues:
+
+- 3!c :: min 5+M-4+R, not 3m unless 6430 or 5530
+  - 3!d :: ask(no 4R): use same scheme as with max
+  - 3!h :: Fit 4R (no shortness or very strong)
+    - 3!s :: 5/5
+    - 3NT :: 5/4
+    - 4m :: 6/4 cue –> 4M s.o.
+- 3!d :: 5M 4R 3m or 5M 4R 4m any range
+  - 3!h :: ask
+    - 3!s :: 5431 max
+    - 3!s :: 5431 min
+    - 4!c :: 5M 4R 4m min —cues are for m
+    - 4!d :: 5M 4R 4m max —cues are for m
+  - 3!s :: 4R —3NT min, 4x cue max
+- 3!h :: max 5M 5R (6M-4R when 5/5 is impossible)  
+- 3!s :: max 6M 4R (6M 5R when 5/5 is impossible)
+- 3NT :: max 5M 4R 1-2m –> 4m cue with R fit
+- 4!c :: max 5M 5R 3m (6430 when 5530 is impossible) —Must add rules for setting suits
+- 4!d :: max 6M 4R 3m — Must add rules for setting suits
+
+
+
+**1M-2!c-2!s General Rules**
+- 2NT :: asking, could have a fit
+  - 3!c :: 5+M​ 4!c — 3!d ask
+    - 3!h :: high short
+    - 3!s :: low short
+    - 3NT :: 22
+    - 4!c :: 6/4
+  - 3!d :: 3!c — 4!c sets !c while 3!h ask
+    - 3!s :: 6​M ​min —4!c set !c, 4!d sets !h
+    - 3NT :: blanaced min—same
+    - 4m :: cue 6!h max
+  - 3!h :: 6+M 0-2!c min
+  - 3!s :: 6+M 0-2!c max
+  - 3NT :: 5M 2!c 33 min—cue sets !c
+- 3!c :: 6+!c
+- 3!d :: a) 3SF b) 6/5 —4!c reopening to show 6/5
+- 3oM :: natural 6!c 5oM
+- 3M :: 3SF with oM (aka, looking for a !d stop)
+- 4!c :: nice 6+!c + Hxx​ support​
+
+
+
+**1M-2!d-2!s**
+- 2NT :: asking, includes M fit
+  - 3!c :: 4!c min— 3!d ask
+    - 3!h :: High short(3!d)—3!s sets M; 4m sets m
+    - 3!s :: Low short(sing !d)
+    - 3NT :: 5M-4!c-2-2
+    - 4!c :: 6M-4!c
+  - 3!d :: 3+!d (not 4+!c)
+    - 3!h :: ask
+      - 3!s :: 6M min
+      - 3NT :: 5M min (balanced or 4!d)
+      - 4x :: cue with 6M
+    - 4!d :: sets !d
+  - 3!h :: 6+M min 0-2!d
+  - 3!s :: 6+M max 0-2!d
+  - 3NT :: 5M 2!d 3=3 min— cue sets M
+- 3!c :: a) 3SF b) nat 5/5
+- 3!d :: natural 6+!d
+- 3oM :: natural 6/5
+- 3M :: ALERT 3SF in oM(aka !d stop ask)
+- 4!c/!d :: nice 6+!d + Hxx support: with and with out !c cue
+
+
+**1M-2m-2NT General Rules**
+- 3!c :: asking, no 4M but can have 3M
+  - 3!d :: bal with Hxx in m—3M sets M
+  - 3!h :: 6M-4!c strong
+  - 3!s :: bal with Hx in m
+  - 3NT :: bal with xx or xxx ​in m​— 4m sets m; 4om set M
+- 3!d :: natural (6/5 after 2!c, 6+!d after 2!d)
+- 3oM :: nat 6/5
+- 3M :: Fit 4M
+
+
+**1!h - 2!c; 2!d - 2!h **
+- 2!s :: min— 2NT asks: same responses just that 5422 max bids 3NT
+- 2NT :: 5422 18+
+- 3!c :: 5/4 16-17— 3!d asks H/L/22 short
+- 3!d :: 5/4 (31) 18+— 3!h asks H/L short
+- 3!h :: 5-5 16+
+- 3!s :: 6-4 16+
+- 4!c :: 0=5=4=4 18+
+
+
+**Other 1M-2m; 2R-2S sequences**
+- 2NT :: min– 3!c ask
+  - 3!d :: 54 (31)– 3!h ask
+  - 3!h :: 5-5 (6/4 when 5/5 not possible)
+  - 3!s :: 6/4 (6/5 when 5-5 not possible)
+  - 3NT :: 5422
+  - 4m :: 54 4m
+- 3!c :: 5/4 16-17— 3!d asks H/L/22 short
+- 3!d :: 5/4 (31) 18+— 3!h asks H/L short
+- 3!h :: 5-5 16+ (6/4 when 5/5 is not possible)
+- 3!s :: 6-4 16+ (6/5 when 5/5 is not possible)
+- 3NT :: 5/4 22 18+
+- 4​m :: 54 4m​ 18+
+
+
+
+**1!s-2!h**
+
+- 2!s :: waiting
+  - 2NT :: ask
+    - 3!c 5+!s 4+!c —3!d ask 5/5; 6/4; 5/4
+    - 3!d 5+!s 4+!d—3!h asks 5/5; 5/4; 6/4
+    - 3!h 6+!s max
+    - 3!s 6!s min
+    - 3NT 5=2=3=3 min
+    - 4m 6!s !hxxx + short m
+    - 4!h same but no shortness​
+- 2NT :: 3!h fit or balanced max
+  - 3!c :: ask
+    - 3!d 3!h bal 15+
+    - 3!h 3!h min —3!s ask if any shortness
+    - 3!s Hx !h bal 15+
+    - 3NT xx!h bal 15+
+    - 4m 3!h + shortness  15+
+  - 3!d :: nat 5/5
+  - 3!h :: 5!h - 5!c
+  - 3!s :: sets !s— 3NT min
+- 3!c :: 4+!c max
+  - 3!d :: ask 
+    - 3!h 5/5
+    - 3!s 6/4
+    - 3NT 5/4
+  - 3!h :: nat
+  - 3!s :: solid !h sets !h
+- 3!d :: 4+!d max
+  - 3!h :: ask
+    - 3!s 5/5
+    - 3NT 5/4
+    - 4!c 6/4
+  - 3!s :: 6+!h
+  - 4m :: cuebids auto setting !h
+- 3!h :: 4!h min— 3!s ask short
+- 3!s :: (semi)solid 7+!s
+- 3NT :: 4!h max no short
+- 4m :: 4!h max + short
+
+When responder asks for shortness with 3!s we can bid 4!h to show dead min
+
+*** Mass 1M-2NT raise
+
+**1M-2NT 10-14 3/4M**
+- 3!c :: generic slam try
+  - 3!d :: 4M max
+  - 3!h :: 3M max
+  - 3!s :: 4M min
+  - 3NT :: 3M min
+  - 4x :: splinter with 3M
+- 3!d :: generic counter game invite
+- 3M :: dead min
+- 3oM :: natural F1/GF dpending the major
+- 3NT :: offer to play
+- 4x :: splinter
+- 4M :: to play
+
+*** Gazzilli
+
+**1M-1x-2NT**
+- 3!c :: asking
+  - 3!d :: 4!d 15-17 NF
+  - 3!h :: 4!c 15-17 NF
+  - 3!s :: 4!d GF
+  - 3NT :: 4!c GF
+- 3!d :: Natural 6+!d GF
+- 3M :: s.o.
+- 3oM :: natural GF 
+
+
+
+**1!h-1!s-2!c**
+2!d any 8+
+  - 2!h 6+!h 12-15/14-15
+    - 2!s 5+!s F1
+    - 3m natural GF
+  - 2!s 3+!s 16+
+    - 2N ask
+      - 3m 16+ Natural 4+m 3!s 5​+ !h
+      - 3!h 16+ 6!h 3!s
+  - 3!s 18+ 4!s likely (22)
+      - 3NT 16+ 3=5=(32)
+      - 4m 4!s + splinter
+    - 3m natural 6+m
+    - 3M natural ISL
+  - 2NT 0-2!s 18+
+    - 3!c ask
+      - 3!d/!h/NT: natural
+  - 3!s 5!h - 4!c 
+  - 3m 16-17 5!h 4m 0-2!s
+  - 3!h 16-17 6+!h 0-2!s
+  - 3!s 4!s 16-17 (only hand with 3+!s)
+  - 3NT 16-17 2!s533
+- 2!h 1-2!h 4-7
+  - 2!s 3+!s 18+ F1
+  - 3!s 4!s 16-17
+- 2!s 6+!s 4-7​ 
+- 2NT minors 4-7
+- 3m 6+m 4!s 
+- 3!h *Fit* ISL
+
+
+
+**1!h-1NT-2!c**
+- 2!d any 8+
+  - 2!h 6+!h 12-15/14-15
+  - 2!s 4+!s 16+ — 2NT ask, then:
+    - 3!c 5/4 16-17— 3!d ask H/L/22 short
+    - 3!d 5/4 (31) 18+— 3!h ask H/L short
+    - 3!h 6/4 16-17
+    - 3!s 6/4 18+
+    - 3NT 4=5=2=2 18+
+  - 2NT ​18+
+    - 3!c ask
+      - 3!d/!s/NT natural
+      - 3!s 5!h - 4+!c 
+  - 3m 5!h 4m 
+  - 3!h 6+!h 16-17
+  - 3!s 6-5 18+
+  - 3NT 16-17 bal
+- 2!h/3m s.o. 4-7
+- 2!s 6+m inv— 2NT s.o. 3m P/C
+- 2NT minors 4-7
+
+
+**​1!s-1NT-2!c**
+- 2!d any 8+
+  - 2!h 3+!h 16+ (see below)
+  - 2!s 6+!s 12-15/14-15
+  - 2NT 18+ 0-2!h
+    - 3!c ask
+      - 3!d/!h/NT natural
+      - 3!h  5!s - 4+!c 
+  - 3m natural 15-17 0-2!h
+  - 3!h 5!s 4!h 16-17
+  - 3!s 6+!s 0-2!h 16-17 
+  - 3NT 5=2=3=3 16-17
+- 2NT minors 4-7
+- 2M/3m s.o. 4-7
+- 3!h 6+!h 9-10
+
+**1!s - 1NT; 2!c - 2!d; 2:heart: - **
+- 2!s asking	
+  - 2NT 4!h 5/6!s— 3!c ask
+    - 3!d 5/4 min
+    - 3!h 6/4 min
+    - 3!s 5/4 max
+    - 3NT 6/4 max
+- 2NT minors
+- 3m 6+m
+- 3!h sets !h
+
+
+
+
+
+*** Competitive bidding after 1M
+
+**1M - (DBL) - ?**
+
+- 1NT to 2M-2 transfer
+- 2M-1 constructive+ raise
+
+Applies when we overcall 1M as well
+
+
+**1M - overcall below 2M**
+
+- 2NT :: 4M inv+
+- cueibd :: 3M inv+
+- other :: natural stuff
+
+
+
+* 1NT Opening
+
+- 2!c :: Garbage stayman
+  - 2!d :: no 4M
+    - 2!h :: 4+!h 4+!s weak 
+    - 2!s :: inv 5!s
+    - 2NT :: inv
+    - 3m :: 5+m GF
+    - 3M :: smolen
+  - 2!h :: 4!h possible 4!s 
+    - 2!s :: 5!s inv
+    - 2NT :: inv with 4!s
+    - 3m :: 5+m 4!s GF
+    - 3!h :: inv raise
+    - 3NT :: GF with 4!s
+  - 2!s :: 4!s
+    - 3!h :: ISL !s raise
+- 2!d :: 5+!h
+  - 2!h :: 2-3!h 
+    - 2!s :: 5!h inv
+    - 2N/3!c :: GF transfer
+      - 3m :: support
+      - 3!h :: support
+      - NS :: no fit, problem in bid suit
+    - 3!d :: 6+!h inv or GF bad suit
+      - 3!h :: rejecting the invite
+      - 3!s :: accepting the invite
+    - 3!h :: 6+!h GF good suit
+      - 3N :: offer to play
+      - Ot :: cue and s.o.
+  - 2NT :: 4!h max
+    - 3!d :: retransfer
+  - 3!h :: 4!h min
+- 2!h :: 5+!s
+  - 2!s :: 2-3 !s
+    - 2NT/3!c :: GF transfer (see above)
+    - 3!d :: 5-5 MM GF
+    - 3!h :: 6+!s inv or GF bad suit
+      - 3!s :: min
+      - 3N :: accepting the invite
+    - 3!s :: 6+!s GF good suit
+      - 3N :: offer to play
+- 2!s :: range ask or 6+!c --> new suit = shortness
+- 2NT :: 6+!d or 5+/5+ minors(weak) --> new suit = shortness
+- 3!c :: 5 card Major stayman
+- 3!d :: 5-5 minors GF
+- 3M :: 1M 3oM (54)
+- 4m :: South African Texas
+- 4M :: to play
+- 4/5NT :: quant invite
+
+
+
+*** Defence to 1NT - (DBL) - ?
+
+- pass :: to play (less than inv I guess)— if they run: DBL TO and Rubensohl
+- ReDBL :: to play— same as above (or is DBL pen?)
+- 2X :: s.o.
+- 2NT :: minors
+- 3X to play
+- 4!c/!d ==South African Texas==
+
+
+
+* 2!c Opening
+
+- 2!d :: 4+!h or waiting
+  - 2!h :: 18-19 balanced
+    - pass :: 4+!h
+    - 2!s :: xfer to 2NT, no 4M (unless very weak)
+      - 2NT :: 18-19 balanced 
+        - 3!c :: o
+        - 3!d ::  GF transfer
+    - 2NT :: 4+!h - 4+!c (at least 5/4) GF
+    - 3!c :: 4+!h - 4+!d (at least 5/4) GF
+    - 3!d :: 5!h CoG, 5332 ISL or 6+!h ISL
+      - 3!h :: 3!h
+      - 3NT :: 2!h
+      - Ot :: 4!h + cue	
+    - 3!h :: 5!h 4!s CoG
+    - 3!s :: 4!h CoG
+      - 3NT :: 2/3!h
+	- 4m :: 4!h - 4m ISL
+	- 4!h :: 1=4=4=4 ISL
+    - 4m :: splinter
+    - 4!h :: to play  	   
+  - 2!s :: 4+!s unbalanced
+    - 2NT :: asking
+      - 3!c :: 5!s-4x-- 3!d asking, same order as below
+      - 3!d :: 6+!s
+      - 3!h :: 5!h-4!s	
+      - 3!s :: 5!c-4!s
+      - 3NT :: 5!d-4!s		
+    - 3!c :: 5!h - 5m  
+    - 3!d :: 6+!h
+  - 2NT :: 22-23 balanced-- system on
+  - 3!c :: 24+ balanced
+    - 3!d :: 4+!h
+      - 3!h: 3!h
+      - 3NT: 2!h
+      - Ot: cue 4+!h	
+    - 3!h :: 4!h-4!s
+    - 3!s :: xfer to 3NT
+  - 3!d :: 5+!d GF (no 4!s)
+  - 3!h :: 6+!h GF
+  - 3!s :: 5!h-4!c GF
+  - 3NT :: 5!h-4!d GF               
+- 2!h :: 4+!s
+  - 2!s :: 2/3!s 18-19 balanced
+    - 2NT :: 4+!s-4+!c (at least 5/4)
+    - 3!c :: 4+!s-4+!d (at least 5/4)
+    - 3!d :: 5+!s-4+!h
+    - 3!h :: 5!s CoG, 5!s332 ISL, 6+!s ISL(no splitner)
+      - 3!s :: 3!s
+      - 3NT :: 2!s
+    - 3!s :: 4!s xfer to 3NT
+      - 3NT :: 2/3!s
+	- 4m :: 4!s-4m ISL
+	- 4!h :: 4=1=4=4 ISL
+   - 4x :: splinter	  
+  - 2NT :: 22-23 balanced
+  - 3!c :: 24+ balanced (no 4!s)
+  - 3!d :: 5+!d, no 4!s
+  - 3!h :: 5+!h, no 4!s
+  - 3!s :: 4!s 18-19 balanced
+  - 3NT :: 4!s GF, no shortness
+  - 4x :: 4!s, splinter             
+- 2!s :: 6+!c
+  - 2NT 22-23 balanced
+    - 3!c :: 6+!d, weak or GF
+    - 3!d :: 6+!d short !c
+    - 3M :: minors, short said minor
+    - 3NT :: to play    
+  - 3m :: beter minor 18/19 balanced
+    - 3!d :: to play
+    - 3M :: splinter ()  
+- 2NT :: 
+- 3!c :: 4+/5+ Majors 
+- 3!d :: 4-4 Majors GF
+- 3!h :: 1M 3oM (54)
+- 3!s :: 1M 3oM (54)
+
+
+
+
+*** Competitive auctions after 1NT or 2!c opening
+
+After a 2X overcall that doesn’t promise two known suits we play Rubensohl(see below)
+
+
+
+After a 3!c overcall
+
+- X :: TO
+- 3!d/!h :: transfer to M inv+
+- 3!s :: xfer to !d?
+
+
+
+Unusual over unusual after two know suit overcalls.
+
+
+
+
+
+* 2!d Opening
+
+- 2!h pass or correct
+- 2!s pass or correct
+- 2NT inv+ ask
+- 3!c =to play=
+- 3!d =to play=
+- 3!h P/C
+- 3!s P/C
+- 3NT to play probably
+- 4!c bid your M in transfer in competition as well
+- 4!d bid your M  in competition as well
+- 4!h pass or correct
+- 4!s to play
+
+**2!d - 2NT ask**
+
+-  3!c 5M
+  - 3!d bid the major you don’t have
+  - 3M p/c
+- 3!d 6!h min
+- 3!h 6!s min
+- 3!s 6!h max
+- 3NT 6!s max
+
+
+
+**2!d - (DBL) - ?**
+
+- pass :: offer to play(pass with 2+!d)
+- XX :: puppet to 2!h I have my own suit
+- other :: system on
+
+
+
+**2!d - (2M)  - ?**
+
+- DBL :: P/C
+- system on
+
+Over higher over-calls  pen X and system on
+
+
+* 2!h Opening
+
+- 2!s natural F1
+- 2NT asking, delayed 3NT is just an offer
+- 3m nat GF
+- 3/4!h to play
+- 3!s natural invitational
+- 3NT unilateral decision to play 3NT.
+- 4m splinter
+
+* 2!s Opening
+
+- 2NT ask, later 3NT is just an offer
+- 3x GF to play
+- 3NT unilateral decision to play 3NT
+
+
+
+* 2M-2NT ask
+
+- 3!c side 4 card suit
+  - 3!d ask : !c/!d/oM
+- 3!d minor suit splinter
+- 3M no short min
+- 3oM shortnes
+- 3NT no short max
+- 4m void
+- 4!h void oM
+
+
+
+* 2NT Opening
+
+- 3!c :: muppet stayman
+  - 3!d :: 1/2 4M
+    - 3!h :: 4+!s
+      - 3!s :: 3!s 
+        - 4!c :: ISL !s
+        - 4!d :: ISL !d
+        - 4!h :: ISL !c
+      - 3NT :: 2!s
+      - 4!c :: 4!s max
+        - 4!h or 5/6!h after ISL are transfers
+      - 4!s :: 4!s min
+    - 3!s :: 4!h
+    - 3NT :: no 4+M
+    - 4!c :: 4+/4+ Majors ISL
+      - 4M  s.o.
+      - 4!d  RKCB !h
+      - 4NT  RKCB !s
+    - 4!d :: Majors for game
+    - 4M :: !c/!d ISL (see direct 4M responses)
+  - 3!h :: no 4/5M
+    - 3!s :: xfer to 3NT
+    - 3NT :: 5!s 3/4!h
+    - 4!c :: 5-5 Majors ISL
+    - 4!d :: 5-5 Majors Game
+    - 4M :: 5+!c/!d (see direct 4M)
+  - 3!s :: 5!s
+    - same as above
+  - 3NT :: 5!h
+    - 4!c :: ISL !h
+    - 4!d :: xfer to 4!h
+    - 4M :: same as direct 4M
+- 3!d :: xfer
+  - 3!h :: 2-3!h
+    - 3!s :: xfer to 3NT
+    - 3NT :: 5!h 4!s
+    - 4!h to play
+  - 3!s :: 5!s-2!h
+- 3!h :: xfer
+- 3!s :: MSS
+  - 3NT :: no 4m
+    - 4m :: 4m 5om
+    - 4M :: shortness 5/5mm
+    - 4NT :: quant
+  - 4m :: 4/5m
+- 3NT :: to play
+- 4!c/!d :: ISL 6+!h/!s --> 4M min
+- 4!h :: ISL 6+!c
+  - 4!s :: RKCB 1430
+  - 4NT :: discouraging
+  - 5!c :: Fit encouraging but Few KC
+- 4!s :: ISL 6+!d
+  - 4NT :: discouraging
+  - 5!c :: RKCB 1430
+  - 5!d :: ancouraging with Fit but few KC
+- 4/5NT :: quant invite
+
+
+
+
+
+
+* 3X Openings
+
+- 3Y natural GF
+- 4!c(4!d over 3!c) baby blackwood(01122)
+
+* 3NT Opening
+
+- 4!c xfer to your Major --> 4NT RKCB
+- 4!d generic ISL
+  - 4M min
+  - 4NT cue other M
+  - 5m cue --> 5/6!h p/c
+- 4!h pass or correct
+- 4!s To play(I know you have !s)
+
+
+
+* Competitive agreements
+
+After 1 or 2 level overcall new suits at the 1 or  3 level are forcing, new suits at the 2 level are NF, and jump are fit showing.\\
+
+Jumps in new suits are fit jumps (unless agreed otherwise for that spot)\\
+
+Jumps to 4M by an unpassed hand are always natural\\
+
+Unusual over unusual after overcalls showing 2 known suits (lower cuebid shows support when partner has already shown a suit)\\
+
+==When UoU is on and we DBL, next DBL is  TO, subsequent DBLs penalty==\\
+
+Micheals cuebids (1m)-2!d :: Major; (1m)-3m :: !s+om\\
+
+
+
+(1x) - DBL - (pass) - 2x(cue-bid) is forcing to 2NT or suit repetition\\
+
+(1x) - DBL - (1M) - DBL=4+M constructive+\\
+
+
+
+**Grue switch**\\
+
+When opponents show !s and partner bids a natural 3!h and no other suits have been bid. Like: (2!s) - 3!h - (pass) - ? now 3!s is a stopper ask or a strong natural 4!c bid, while 4!c shows a !h raise with stronger than 4!h\\
+
+**Other switch:**\\
+
+When we have shown a major and opponents compete at the 3 level or partner has just competed to 3M and we don't have a 3level cuebid we use 4!c as the strong raise, and the cuebid as the natural 4!c bid\\
+
+Examples: \\
+
+1M-(3!d/3oM)- ? 4!c=stronger raise; 4cue = strong !c.\\
+
+(3!d)-3M-(pass)-? \\
+
+(2!s) - 3!h  - (pass) - ?\\
+
+(1!h) - 1!s - (3!h) - ?\\
+
+ 
+
+|  (1R)  |                     DBL                     | (3R) | 3!s |
+| :----: | :-----------------------------------------: | :--: | :-------: |
+| (pass) | 4!c !s ISL; 4R=!c power DBL |  -   |     -     |
+
+
+
+**1M - (DBL) - 2M **
+
+- DBL no 4oM (can be 5!h inv)
+  - (pass)
+    - 2!s(over 2:hearts) min, probably 4!s 333
+    - 2NT, generic minimum
+    - 3m natural some extras
+    - 3oM reverse with 5+oM
+- 2NT ask for better minor, can be 4oM inv+
+- 3m to play
+- 3M(cuebid) 5oM GF
+- 3!h(over 2!s) to play
+- 3!s(over 2!h) 5!s invitational
+
+
+
+=General rules guidelines of what DBL is=\\
+
+After showing strength with a DBL or ReDBL ( 1x-(1NT)-DBL;;; (1NT)-DBL;;; 1x-(DBL)-ReDBL;;; double in UoU…)\\
+
+Next DBL by our side is TO, later penalty\\
+
+=General rules for when Forcing pass is on=\\
+
+*** Rubensohl after 2 level overcalls of 1!c, 1NT and 2!c
+
+After a 2 level over call  of any of the above openings (unless it shows two know suits then we play UoU) we play:\\
+
+- DBL:     TO, (generic streangth vs no achor suit overcalls)
+- 2Y:        natural NF
+- 2NT:     lowest unbid suit
+- 3!c :    middle unbid suit
+- 3!d:     highest unbid suit (!h when no anchor suit)
+- 3!h:    GF TO with short X and 3 or 4 in unbid majors(5+!s when no anchor suit)
+- 3!s:    xfer to 3NT after 1/2!c; minors or majors the one that makes sense after 1NT
+
+
+
+Transfer to a suit below the overcall is constructive or better, opener can supper accept or just accept the xfer with any normal hand.\\
+
+Transfer to a suit above the overcall is invitational or better, opener can accept the transfer with a minimum with support, bid 3NT/4M with a max or bid the step with no better bid (usually: no Fit min, or max no supp + no stop)\\
+
+
+
+*** Defence to 1NT
+
+- DBL: strength (14+ in direct seat vs wk/mini NT)
+- 2!c landy
+  - (DBL) — same after multi: pass to play, XX I have my suit, other system on
+- 2!d 6+M —2NT asks same as 1!c–2!d
+- 2M 5M (4)5+m
+- 2NT minors
+
+
+
+*** Defence vs preempts:
+
+**Vs weak two openings: **\\
+
+3 level cue bid asks for stoper\\\
+
+leaping micheals\\
+
+Lebensohl, Fast denies.\\
+
+
+
+**** Vs multi
+
+DBL 13-15 balanced or strong— later X still TO and delayed lebensohl (could also do Rubensohl as DBL is available)\\
+
+
+
+**** Vs 3 level preempts 
+
+Non leaping Micheals: Forcing in direct seat, NF in reopening seat.\\
+
+
+

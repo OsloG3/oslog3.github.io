@@ -1,0 +1,187 @@
+#+INCLUDE: bridgehtml.org
+
+#+TITLE: A Precision
+
+* Openings
+
+- 1!c :: 16+ unbalanced or 17+ balanced any distribution
+- 1!d :: 11-13 balanced or 11-15:  any 4441 or 5+m - 4M
+- 1!h :: 5+!h 11-15
+- 1!s :: 5+!s 11-15 
+- 1NT :: 14-16 balanced, includes 5M332 and 22(54)
+- 2!c :: 11-15, 5+!c - 4!d or 6+!c no 4M
+- 2!d :: 11-15, 5+!d - 4!c or 6+!d no 4M
+- 2M :: weak 5+M
+- 2NT :: 11-15 5+/5+ minors
+- 3x :: 6+x 5-9
+- 3NT :: good 4M preempt
+
+* 1!d Opening
+
+- 1!h :: 4+!h F1
+  - 1!s :: 4!s balanced, or unbalanced --> XYZ
+  - 1NT :: 11-13 balanced, no 4M  --> XYZ
+  - 2m :: 5+m 4!s 3!h 11-15
+  - 2!h :: 4!h    
+- 1!s :: 4+!s F1
+  - 1NT :: 11-13 balanced --> XYZ
+  - 2m :: 5+m - 4!h
+  - 2!h :: 3!s 4!h (51) or (60)
+    - 2NT :: inv+ asking minor min/min/max/max
+    - 3!c :: pass or correct
+  - 2!s :: 4!s            
+- 1N :: 8-11, no 4M
+- 2!c :: 4+!c GF
+- 2!d :: 4+!d GF
+- 2!h :: (semi)balanced invite, no 4M  
+- 2!s :: 5/4+ minors INV
+- 2NT :: 5+/4+ minors, less than invitational.
+- 3m :: 6+m inv
+
+
+* 1M Openings
+2/1
+
+* 1NT Opening
+UBH
+
+* 2!c Opening
+
+- 2!d :: 5+!h constructive+
+  - 2!h :: 0-2!h generic misfit
+  - 2NT :: 1-2!h 14/15
+  - 3!c :: (6)7+!c 0-1 !h min  
+  - 3!h :: 3!h min
+  - 3!s/4!c :: splinter  
+- 2!h :: 5+!s constructive+, same as above
+- 2!s :: inv+ ask
+  - 2NT :: 5!c/4!d min
+  - 3!c :: 6+!c min
+  - 3!d :: 5+!c/4!d max
+  - 3M  :: 6+!c 0-1M max
+  - 3NT :: 6+!c max
+- 2NT :: natural invite
+- 3!c :: to play
+- 3!d/M :: 6+!d/M GF
+- 4x :: to play
+
+* 2!d Opening
+
+- 2!h :: 5+!s constructive+
+  - 2!s :: 1-2!s 11-13
+    - 2NT :: strong invite
+    - 3!d :: s.o.
+    - 3!s :: 6+!s inv
+    - 3!c/!h :: GF, natural or asking     
+- 2!s :: inv+ ask
+  - 2NT :: 5!d/4!c min
+  - 3!c :: 5+!d/4!c max
+  - 3!d :: 6+!d min
+  - 3M  :: 6+!d 0-1M max
+  - 3NT :: 6+!d max
+- 2NT :: 5+!h GT+
+  - 3!c :: 5!d - 4!c 0-2!h 11-13
+  - 3!d :: 6+!d 0-2!h 11-13
+  - 3!h :: 3!h 11-12
+  - 3!s :: 2!h 14-15=!!!=
+  - 3NT :: 0-1!h 14-15
+  - 4!c :: 0-1!c 3!h 13-15
+  - 4!d :: 6!d 3!h 2 2 13-15
+  - 4!h :: 0-1!s 3!h 13-15    
+- 3!c :: 6+!c GF
+- 3!d :: to play  
+- 3M :: 6+M GF
+- 4x :: to play
+
+
+* 1!c Opening
+
+- 1!d :: any 0-7
+- 1!h :: any 8-11 w/o 5+!s (balanced 8-10 by PH)
+  - 1!s/2x :: natural 5+ suit
+  - 1NT :: 17-20 or 23+ balanced
+    - 2!c Stayman
+    - 2!s 5+!c
+    - other natural
+  - 2NT :: 21-22 balanced
+- 1!s :: 5+!s 8+
+- 1NT :: 5+!h 12+​ (8-10 by PH)
+- 2!c :: 5+!c 12+ (8-10 by PH)
+- 2!d :: 5+!d 12+ (8-10 by PH)
+- 2!h :: balanced 12+
+
+
+
+*** 1!c-1!d
+
+- 1!h :: natural or balanced\\
+    a) 4+!h unbalanced not suitable for 2!h\\
+    b) 19-20/24+ balanced F1
+  - 1!s :: 4+!s 0-7
+    - 1NT 19-20 balanced
+      - 2x s.o.
+      - 2N GF check-back
+      - 3x natural GF
+    - 2m 5+m 4!h 16-21
+    - 2!h 6+!h 16-19
+    - 2!s 4!s (19-20 bal or 16-19 5+!h)
+    - 2NT 24+balanced any -> 3!c check-back
+    - 3m GF 4+m 4+!h
+    - 3!h less than GF 6+!h 
+    - 3!s less than GF raise
+  - 1NT :: 0-4, no better bid
+    - 3!h less than GF 6+!h 
+  - 2!c :: 5-7 0-2!h
+  - 2!d :: 5-7 3!h
+  - 2!h :: 0-4 4+!h
+  - 2NT :: 5-7 4!h
+  - 3!h :: 5-7 5!h 
+- 1!s :: 4+!s unbalanced not suitable for 2!s F1
+  - 1NT :: 0-4, no better bid
+    - pass 19-20 balanced or 5!h 4!s 
+    - 2m 5+m 4!s 16-21
+    - 2!s 6+!s16-19
+    - 2NT GF 5!s - 4+ other
+    - 3m 5+m 4!s GF
+    - 3!h 5-5 GF
+    - 3!s 6+!sless than GF
+  - 2!c :: 5-7 0-2!s
+  - 2!d :: 5-7 3!s
+  - 2!h ::  5-7 5+!h
+  - 2!s :: 0-4 4!s 
+  - 2NT :: 5-7 4+!s
+- 1NT :: 17-18 balanced
+- 2m :: 5+m 16-21 no 4M NF
+  - pass :: 0-4
+  - bid :: natural 5-7
+- 2M :: 5M 4+m 16-21 NF
+  - 2N :: natural invite
+  - 3!c :: p/c 0-4
+  - 3!d ::  invitational support
+  - 3M :: very mild invite
+  - oM :: natural 5-7
+- 2NT :: 21-23 balanced: stayman and transfers
+- 3m :: GF 5+m, no 4+M
+- 3M :: GF 6+M
+
+*** Competition over 1!c 
+
+Over overcalls up to 2!h that don't promise any known suits(e.g 2!d or 2!h multi, (psycho)suction...) 
+
+- pass: no bettter bid
+- DBL: GF, usually not a 6+suit
+- non jump 1/2 level suit, natural 5-8
+- 3x :: 6+x GF
+
+Over any overcall that promise at least one known suit
+
+- pass: weak (or trap pass if the overcall shows the bid suit)
+- DBL: GF, usually TO, but could be penalty oriented if the suit shown is not the one bid
+- new suit natural GF
+- 2cue-bid(if available) GF stopper ask
+- 3cue-bid: perfect TO 1444 or 0445
+
+If they overcall directly at the 4+ level [1!c - (4!c+)] pass is forcing
+
+!s, !h, !d !c ​
+

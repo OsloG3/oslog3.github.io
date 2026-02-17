@@ -122,7 +122,7 @@ This continuations assume 1NT is 10-13. if 1NT is 12-14 adjust ranges 14-16 to 1
 - 2!c :: 5+!c 11-16– 2!d GF ask
 - 2!d :: a) 18+ 6+!c b) 5+!c 4!d 16+
   - 2!h :: GF ask
-    - 2!s :: single suiter— 2NT two suiter ask
+    - 2!s :: single suiter— 2NT shortness ask
     - 2NT+ :: two suiter scheme
   - 2!s/3!c :: NF
   - 3!h :: 4SF
@@ -215,6 +215,12 @@ No jugamos transfer, pero si jugamos XYZ
   - 1!s :: 3!s 11-17
 - 1!s :: 0-3!s 8+HCP no better bid
 
+
+1m - (1!s) - DBL - (2!s)
+- DBL :: fuerza sin 4!h, tendencia a tener 3!h
+- 2NT :: 4!h debil o GF
+- 3!h :: 4!h 14-16
+
 * 1!d Opening
 
 - 1!h :: [[1!d-1!h][4+!h F1]]
@@ -287,6 +293,11 @@ No jugamos transfer, pero si jugamos XYZ
 - 2!s :: 4+!s— 2NT two suited relay(doesn’t deny support) other nat 5+!c
 - 2NT+ ::  4+!c following 2!s two suiter relay
 
+Con intervencion: \\
+1m - (1!s) - DBL - (2!s) \\
+- DBL :: fuerza sin 4!h, tendencia a tener 3!h
+- 2NT :: 4!h debil o GF
+- 3!h :: 4!h 14-16
 
 
 * 1!h Opening
@@ -406,12 +417,19 @@ No jugamos transfer, pero si jugamos XYZ
     - 2NT :: rele de bicolores.
     - 3!c :: 4SF o 5+!d - 5+!c
     - 3!d :: 6+!d
-  - 2NT :: 15+ equilibrada, puede tener 3!d?
+  - 2NT :: 15+ equilibrada o 3!d 15+
+    - 3!c :: pegunta, podria ser 5!d - 5!c
+      - 3!d :: 3!d 15+ sin cortas
+      - 3!h :: 3=5=2=3 18+
+      - 3!s :: 3!d 15+ corta pic
+      - 3ST :: 3=5=2=3 15-17	
+		
+    - 3!d :: 6+!d    
   - 3!c :: 4+!c 15+, puede ser 5-5 buena de 13/14
-  - 3!d :: 4+!d 12-14 o 3!d 15+?
+  - 3!d :: 4+!d 12-16 
   - 3!h :: 6/7!h imposicion de palo, no minima
   - 3!s :: splinter 4+!d 14/15+
-  - 3NT :: nada?
+  - 3NT :: 5!h 4!d sin cortas F1
   - 4!c :: splinter 4+!d 14/15+
 - 2!h ::  0-7 3+!h
 - 2!s ::  less than GF generic splinter
@@ -450,12 +468,18 @@ No jugamos transfer, pero si jugamos XYZ
     - 3!d :: 5-5
     - 3!h :: 6+!h
     - 3!s :: apoyo
-  - 2NT :: 15+ equilibrada, puede tener 3!h?
+  - 2NT :: 15+: equilibrada o 3!h
+    - 3!c :: pregunta
+      - 3!d :: 
+      - 3!h :: 3!h 
+      - 3!s :: 5=2=3=3 18+
+      - 3ST :: 5=2=3=3 15-17	
+      - 4m :: 3!h splinter		
   - 3!c :: 4+!c 15+, puede ser 13/14 buena 5/5
   - 3!d :: 4+!d, 15+, puede ser 13/14 buena 5/5
-  - 3!h :: 3!h 12+
+  - 3!h :: apoyo minimo 3+!h (puede ser apoyo cuarto 5422 o honor en semifallo)
   - 3!s :: impone palo
-  - 3NT :: algo?
+  - 3NT :: 5=4=2=2 15+
   - 4m :: 4!h splinter 12+      
 - 2!s ::  0-7 3+!s
 - 2NT ::  4+!s inv+ steenberg
@@ -640,7 +664,13 @@ Same as direct DBL
 
 - PASS :: no stop
   - (PASS) :: ok
-    - XX :: reStayman
+    - XX reStayman
+      - (PASS)
+	- 2!d no 4M
+	- 2M 4oM 
+    - 2!d trash stayman (would pass 2!d)
+    - 2!h trash stayman (would bid 2!h over 2!d)
+    - 2!s 5!s inv   
 - XX :: interes a jugar
 - 2x :: system-on + parada
 
