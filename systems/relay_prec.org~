@@ -1,0 +1,332 @@
+#+INCLUDE: bridgehtml.org
+
+#+TITLE: Relay Precision
+
+* Openings
+- 1!c :: 16+ any (Vul: 16+ unbal or 17+ bal)
+- 1!d :: 2+!d 11-15
+- 1!h :: 5+!h 9-15
+- 1!s :: 5+!s 9-15
+- 1NT :: 1/2 NV 9-12
+- 1NT :: 3rd NV 9-14 
+- 1NT :: Other 14-16
+- 2!c :: 6+!c 11-15
+- 2!d :: multi 5+M 4-9
+- 2!h :: 11-15 4415 minus 1 card
+- 2!s :: NV: 4!s - 5+m, VUL/4th: 5!s - 5m
+  
+1M must be 11+ outside 1NT range if balanced, if unbalanced can be as weak as rule of 18, but can choose to pass rule of 18 or 19 hands with bad honors.
+1!d/2!c are any 11+ or equivalent strength.
+This file only includes the 1!c, 1!h and 1!s openings, the other openings are only a suggestion and other schemes may be used.
+
+* 1!c Openng
+- 1!d :: any 0-7 or 12-14 no 5 card suit
+- 1!h :: 5+!s or 5+!h step-2 or 5+!d step-1 \\
+  a) 5+!s \\
+  b) 5+!h single suiter\\
+  c) unball 4+!c - 4+!h
+  - 1!s :: ask
+    - 1N :: 4+!h, <5!s 
+      - 2!c :: ask
+	- 2!d :: 5+!c step-2 (5+!c - 4!h)
+	- 2!h+ :: 5+!h step-1 zooming (single suiter or 4+!c)
+    - 2!c+ :: 5+!s 5-CS
+- 1!s :: 5+!c(not step-2 5-CS) or 8-11/15+ no 5+suit
+  - 1N :: ask
+    - 2!c :: 5+!c step-1 5-CS
+    - 2!d :: 8-11/15+ no 5+suit
+    - 2!h :: 5+!c step-3 5-CS
+    - 2!s+ :: 5+!c step-4 5-CS
+ - 2!c :: short 1!c 4441/5431/5440
+  - 2!h :: 4441/5440
+  - 2!s+ :: 5431
+ - 2!d :: short !d 4441/5431/5440
+   - 2!s :: 4441/5440
+   - 2NT+ :: 5431
+ - 2!h :: shprt !h any 5431
+ - 2!s :: short !s any 5431
+ - 2NT :: short !s 4441 or 5440
+ - 3!c :: 4144
+ - 3!d :: 4045
+ - 3!h :: 4054
+ - 3!s :: 5044
+- 1N :: 5+!c step-1 or 5+!d step-2
+- 2!c+ :: 5+!d 5-CS
+
+*** 1!c - 1!d
+- 1!h :: 4+!h unbal or 19-23+ balanced F1
+  - 1!s :: 0-4(5) any
+    - 1NT :: 19-20 balanced, 2x s.o. 3x inv
+    - 2m :: can be canape <GF
+    - 2!h :: 6+!h <GF
+    - 2!s :: 5!h GF
+    - 2NT :: 21-23+ balanced-- System on
+    - 3m :: GF canape
+    - 3!h :: GF
+  - 1N :: 5+!s (5)6-7
+  - 2!c :: 5+-7 <2!h <4!s
+    - 2!d :: 5!h waiting
+    - 2!h :: 6+!h minimum
+    - 2N :: 19-23 balanced
+    - Ot :: 5+!h nat GF
+  - 2!d :: 5-7 3 or 5+!h
+    - 2!h :: NF
+    - 2!s :: 5+!h GF
+    - 2NT :: balanced 19-23
+    - 3m :: GF canape
+  - 2!h :: 4!h 5-7
+  - 2!s+ :: 12-14 no 5 card suit following, No5R
+- 1!s :: 4+!s F1
+  - 1NT :: double negative
+    2m :: can be canape <GF
+    2M :: nat <GF
+    2NT :: ART GF 5!s
+    3m :: canape GF
+  - 2!c :: (5)6-7 <3!s
+  - 2!d :: 5-7 3!s
+  - 2!h :: 5+!h 0-2!s 5-7
+  - 2!s :: 4+!s 0-4
+  - 2NT :: 12-14 2-4!s
+  - 3!c :: 4!s 5-7, any short
+  - 3!d :: 4!s 5-7 no short
+  - 3!h :: 6+!h - 3!s 5-7
+  - 3!s :: 5!s 0-4 no short
+  - 3NT :: 1444 12-14
+  - 4x :: 5+!s 5-7 splinter
+- 1NT :: 17-18 (16-18 when mini NT)
+- 2!c :: 5+!c no 4M, not 2245
+  - 3!d :: 12-14 2+!c
+    - 3!h :: minors HS
+    - 3!s :: minors LS
+    - 3NT+ :: 6+!c N/H/M/L short (!c are set)
+  - 3NT :: 12-14 4441
+- 2!d :: 5+!d no 4M, not 2254
+  - 3!h :: 12-14 2+!d
+    - 3!s :: minors HS
+    - 3NT :: minors LS
+    - 4x :: 6+!c N/H/M/L short (!d are set)
+  - 3NT :: 12-14 4414
+- 2!h :: 5+!h - 4!s <GF
+  - pass/2!s :: 0-4
+  - 2NT/3x :: nat 5-7
+  - 3NT :: 12-14 3244
+  - 4m :: 12-14 coded major
+  - 4M :: 5-7 and extra length
+- 2!s :: 5+!s GF
+- 2NT :: 24+ balanced
+- 3!c :: 5+!c GF, no 4+M
+- 3!d :: 5+!d GF, no 4+M
+
+
+With a two suiter start with the longer, and the  higher ranking suit with a 55 as usual.
+
+* Relays and Denaila cuebidding
+*** 5 Card scheme (5-CS)
+This is used when we have shown 5 card or longer suit. and partner relays with 1NT.\\
+Over a 1!s opening all the responses will be one step higher. In all other cases they are as below\\
+With 2 suiter, 5332 and 5440 shapes we only start by showing the exact shape, while with single suiters we show min/max before showing the exact shape. This is done to increase the symmetry of the relay structure.\\
+The sequences only include the bids of the player showing steps assuming his partner keeps relaying\\
+In general we use the phone number rule, if writing our shape in order SHDC higher numbers will bid higher. Exceptions are done for 55s, 7411.
+- 2!c :: 4+Lower or 5332 or 6+X min (step-1)
+  - 2!h :: 5332 or 6+X min (even number of side suits)
+  - 2!s+ :: 4+Lower
+- 2!d :: 4+Middle (step-2)
+- 2!h :: 5X(440) or max 6+X (even number of side suits) (step-3)
+- 2!s+ :: 4+Higher (step-4)
+
+*** Even number of side suits relay (ESSR):
+- 2N :: HS or 62(32)
+  - 3!d :: 62(32)
+    - 3!s 6223
+    - 3N 6232
+  - 3!h :: 5440 high void/ 5332 LD
+  - 3!s :: 6331 HS
+  - 3!N :: 7(32)1 HS
+  - 4!c+ :: 7330
+- 3!c :: MS
+- 3!d :: 7222/6322
+  - 3!s :: 6322
+  - 3N :: 7222
+- 3!h :: 5440 low void \\
+  5332 low doubleton when delayed
+- 3!s :: 6331
+- 3N :: 7(32)1
+- 4!c+ :: 7330
+
+
+*** Two suiter relay if 5-5 shape is possible (TS55R):
+- 2!s :: HS or 6511
+  - 2N ask
+    - 4!c :: 7411
+    - Ot :: same as below, but with HS
+- 2N :: 5422
+- 3!c :: 5431 LS
+- 3!d :: 6421 LS
+- 3!h :: 5521 LS
+- 3!s :: 5530 LS
+- 3N :: 6430 LS
+- 4!c :: 7411 
+- 4!d :: 6520 LS
+- 4!h :: 7420 LS
+
+*** Two suiter relay if 5-5 shape is not possible (TSR).
+- 2!s :: HS or 7411
+  - 2N ask
+    - 3N 7411
+    - Ot same as below, but with HS
+- 2N :: 5422
+- 3!c :: 5431 LS
+- 3!d :: 6421 LS
+- 3!h :: 6430 LS
+- 3N :: 6511 
+- 4!c :: 6520 LS
+- 4!d :: 7420 LS
+
+Note that this is the same as the two suiter relay when 55 are possible simply with 55s removed
+
+
+*** No 5+suit relay (No5R)
+It might look a bit messy at first glance. But we actually only need to remeber tha\\
+1) bid 2NT iff 4441 \\
+2) bid 3!d iff 4333 \\
+
+Than the phone book rule forces how the entire structure has to be.
+
+- 2!s :: 2-3!, not 3=4=3=3
+  - 3!c :: 2!s
+    - 3!h :: 2=3=4=4
+    - 3!s :: 2=4=3=4
+    - 3NT :: 2=4=4=3
+  - 3!d :: 4m333
+    - 3!h :: shape ask
+      - 3!s :: 3=3=3=4
+      - 3N :: 3=3=4=3
+    - 3!s :: strength ask, I don’t care about shape
+  - 3!h :: 3=2=4=4
+  - 3!s :: 3=4=2=4
+  - 3N :: 3=4=4=2
+- 2N :: any 4441 → S/H/D/C short
+- 3!c :: 4!s first 3 steps
+  - 3!h :: 4=2=3=4
+  - 3!s :: 4=2=4=3
+  - 3NT :: 4=3=2=4
+- 3!d ::  4M333
+  - 3!h :: shape ask
+    - 3!s :: 3=4=3=3
+    - 3N :: 4=3=3=3
+  - 3!s :: strength ask, I don’t care about shape
+- 3!h :: 4=3=4=2 (4!s, 4th shape)
+- 3!s :: 4=4=2=3 (4!s 5th shape)
+- 3N :: 4=4=3=2 (4!s 6th shape)
+
+ Shapes ending at 3NT will bid 4!c+ if with the 15+ option. Other shapes will bid as normal and later reopen
+
+*** Reverse Relays
+When opener doesn't relay but rather shows a 3 suiter by breaking the relay with 1!c-1!s-2!c+\\
+ After showing his shortness, if he shows 4441/5440 he then specifies shape with:
+ - S1 :: 4441
+ - S2 :: 4450
+ - S3 :: 4540
+ - S4 :: 5440
+
+ If he instead shows a 5431 he uses pure phone book ordering with first step showing two possible shapes, therefore is showing a singleton !s:
+ - S1 :: 13(54)
+   - S3 1345
+   - S4 1354
+ - S2 :: 1435
+ - S3 :: 1453
+ - S4 :: 1534
+ - S5 :: 1543
+
+* 1!h Opening
+- 1!s :: light invite or will pass your response, any number of !s
+- 1NT :: GF any or strong invite with 5+!s
+  - 2!c :: step-1 5-CS
+    - 2!d :: GF relay
+    - 2!h :: strong invite 5!s-2!h
+    - 2!s :: stron invite 6+!s
+    - 2N :: strong invite 5!s 0-1!h
+  - 2!d :: step-2 5-CS
+    - 2!h :: GF relay
+    - 2!s :: 6+!s stron inv
+    - 2N :: 5!s strong inv
+  - 2!h :: step-3 5-CS
+    - 2!s :: GF ask
+    - 2N :: 5+!s strong inv (will only pass with 0=5=4=4)
+  - 2!s+ :: as per 5-CS, we are in a GF 
+- 2!c :: strong invite with <5!s <3!h
+  - 2!d :: 0-3!s waiting
+    - 2!h :: 2!h
+    - 2!s :: 5-5 minors
+    - 2N :: usually 31(54) or 41(53)
+    - 3m :: 6+m
+  - 2!h :: 4!s min
+  - 2!s :: 4!s max
+  - 2N :: 6!h max
+  - 3m :: 5-5 max
+  - 3!h :: 7!h max
+- 2!d :: 3!h 9+
+- 2!h :: 3!h 0-8
+- 2!s :: 6+!s 0-8
+
+
+*** 1!h - 1!s
+- 1NT :: 3-4!s
+  - 2!c :: 4+!s checkback 
+    - 2!d :: 5!h-3!s, will reopen if 14-15
+    - 2!h :: 6!h-3!s, less than 14-15
+    - 2!s :: 4!s, less than 14-15
+    - 3m :: shortness 4!s, 13-15
+    - 3!h :: 6!h-3!s 14-15
+    - 3!s :: 4=5=2=2 14-15
+  - 2!d :: light inv, usually 3154
+  - 2!h :: 2!h light inv
+  - 2!s :: to play, could be just 4!s weak hand
+  - 2N :: light inv usually 3145
+  - 3m :: 6+m light inv
+- 2!c :: 4+!c or 2=5=3=3
+  - 2!h :: mild invite
+  - 2!s :: 6+!s mild invite
+- 2!d :: 4+!d → same
+- 2!h :: 6+!h <14, could have 3!s with a good !h suit,
+  - 2!s :: 6+!s mild invite
+- 2!s :: 6!h-5!s any range
+- 3m :: 5-5 14-15
+
+
+* 1!s Opening
+The responses to 1!s  are preety much the same as 1!h just 1 step higher
+- 1NT :: weak invite or will pass any response, NF
+  - 2m :: NV could be 13-15 balanced
+  - 2!h :: 4+!h
+  - 2!s :: 6+!s
+  - 2NT :: 6!s max
+  - 3m :: 5-5 max
+  - 3!h :: 5-5 max
+  - 3!s :: 7+!s max  
+- 2!c :: GF any or 5+!h strong invite, CEARFULL: relays are all 1 step higher
+  - 2!d :: step-1 5-CS (4+!c or single suiter)
+  - 2!h :: GF ask usual+1
+  - 2!s :: 2!s 5!h strong inv
+- 2N :: 0-1! 5!h strong inv
+- 3!x :: natural 6+!h strong inv
+- 2!h :: step-2 5-CS (4+!d)
+- 2!s :: GF ask as usual
+- 2N :: 5!h strong inv 0-3!d
+- 3!c :: 6+!h strong inv
+- 3!d :: 5!h-4!d strong inv
+- 2!s :: step-3 5-CS (6+!s max or 5440)
+- 2N :: GF relay\\
+  Must bid 2N with strong inv w/o 4+m hoping \\
+  Opener doesn’t have exactly 5=0=4=4
+- 3!c :: 5!h 4!c strong inv
+- 3!d :: 5!h 4!d strong inv
+- 2!d :: strong invite <5!h <3!s
+- 2!h :: <4!h, will reopen with 12+
+- 2!s :: 4!h min
+- 2NT :: 4!h 12-15
+- 3m :: 5-5 12-15
+- 3!h :: 5-5 12-15
+- 3!s :: 6+!s 12-15
+- 2!h :: 9-13 3!s
+- 2!s :: 0-8 3!s
