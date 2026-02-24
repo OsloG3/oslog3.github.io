@@ -21,30 +21,19 @@ This file only includes the 1!c, 1!h and 1!s openings, the other openings are on
 
 * 1!c Openng
 - 1!d :: any 0-7 or 12-14 no 5 card suit
-- 1!h :: 5+!s or 5+!h step-1 or 5+!c step-2 \\
-
-  a) 5+!s \\
-  b) 5+!h single suiter\\
-  c) unball 4+!c - 4+!h
-
+- 1!h :: 5+!s or 5+!h step-1 or 5+!c step-2
   - 1!s :: ask
-    - 1N :: 4+!h, <5!s 
-      - 2!c :: ask
-	- 2!d :: 5+!c step-2 (5+!c - 4!h)
-	- 2!h+ :: 5+!h step-1 zooming (single suiter or 4+!c)
-    - 2!c+ :: 5+!s 5-CS
-- 1!s :: 5+!c(not step-2 5-CS) or 8-11/15+ no 5+suit
+    - 1N :: 5+!s steps-2+ 
+    - 2!c :: 5+!s 5-CS step-1
+    - 2!d :: 5+!c step-2 (5+!c - 4!d)
+    - 2!h+ :: 5+!d step-1 zooming (single suiter or 4+!c)
+- 1!s :: 4+!h semipositive or GF balanced or ...
   - 1N :: ask
-    - 2!c :: 5+!c step-1 5-CS
-    - 2!d :: 8-11/15+ no 5+suit
-    - 2!h :: 5+!c step-3 5-CS
-    - 2!s+ :: 5+!c step-4 5-CS
-  - 2!c :: short 1!c 4441/5431/5440 16-19
-  - 2!d :: short !d 4441/5431/5440 16-19
-  - 2!h :: short !h 4441/5431/5440 16-19
-  - 2!s+ :: short !s 4441/5431/5440 16-19
-- 1N :: 5+!h, not step-1 of 5-CS
-- 2!c+ :: 5+!d 5-CS
+    - 2!c :: 4+!h semipositive
+    - 2!d+ :: 5+!h GF
+- 1N :: 5+!h, GF
+- 2!c :: 5+!s
+- 2!d+ :: 5+!d GF
 
 *** 1!c - 1!d
 - 1!h :: 4+!h unbal or 19-23 balanced F1
@@ -120,12 +109,12 @@ Over a 1!s opening all the responses will be one step higher. In all other cases
 With 2 suiter, 5332 and 5440 shapes we only start by showing the exact shape, while with single suiters we show min/max before showing the exact shape. This is done to increase the symmetry of the relay structure.\\
 The sequences only include the bids of the player showing steps assuming his partner keeps relaying\\
 In general we use the phone number rule, if writing our shape in order SHDC higher numbers will bid higher. This doesn't apply to 55s/7411/5440 shapes
-- 2!c :: 4+Lower or 5332 or 6+X min (step-1)
-  - 2!h :: 5332 or 6+X min (even number of side suits)
-  - 2!s+ :: 4+Lower
-- 2!d :: 4+Middle (step-2)
-- 2!h :: 5X(440) or max 6+X (even number of side suits) (step-3)
-- 2!s+ :: 4+Higher (step-4)
+- step-1 :: 4+Lower or 5332 or 6+X min (step-1)
+  - step-3 :: 5332 or 6+X min (even number of side suits)
+  - step-4+ :: 4+Lower
+- step-2 :: 4+Middle (step-2)
+- step-3 :: 5X(440) or max 6+X (even number of side suits) (step-3)
+- step-4+ :: 4+Higher (step-4)
 
 *** Even number of side suits relay (ESSR):
 - 2N :: HS or 62(32)
