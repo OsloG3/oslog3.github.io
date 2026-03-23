@@ -1,0 +1,229 @@
+#+TITLE: The OG System
+
+* Openings
+- 1!c :: 12-14/18-20/24+ balanced, 12+ clubs, 17+ spades
+- 1!d :: 12+
+- 1!h :: 12+
+- 1!s :: 10-16
+- 1NT :: 15-17, includes 5M332 and semibalanced hands
+- 2x :: NV 5+x, 7-10
+- 2x :: VUL 6+x 5-10
+- 2NT :: 21-23 balanced
+
+* 1!c Openings
+Responses:
+- 1!d :: 0-6(7 if unbal w/o 4cM) any 12+ balanced or 4+!d, no 4cM
+- 1!h :: 4+!h 7+, can have longer minor even if GF
+  - 1!s :: 4/5!s 12+ F1
+  - 1NT :: 12-14 balanced 2-3!h, 2-3!s
+  - 2!c :: 12-16 5+!c 0-2!h
+  - 2!d :: 0-2!h, GF, balanced or clubs
+    - 2!h :: 4/5!h waiting
+    - 2NT :: 6+!h
+  - 2!h :: 4!h, balanced or 3(4)!h with clubs
+  - 2!s :: 3!h GF balanced or clubs
+    - 2NT :: 5+!h
+    - 3!c :: 4!h, waiting
+  - 2NT :: 6+!s GF
+  - 3!c :: NF, Good suit
+  - 3!d :: GF, 4!h no shortness
+  - 3!h :: 4!h, 13-15 (must be unbalanced with clubs)
+- 1!s :: 4+!s 7+, can have longer minor even if GF
+  - 1NT :: 12-14, no 4!s
+  - 2!c :: 12-16, 5+!c 0-2!s
+  - 2!d :: 0-2!s GF balanced or clubs
+  - 2!h :: 3!s GF
+  - 2!s :: 3/4!s NF
+  - 2NT ::
+  - 3!c :: NF good clubs
+  - 3!d :: 4+!s GF, no shortness
+  - 3!s :: 4!s 13-15, (must be unbalanced with clubs)
+- 1NT :: 7-10 balanced, no 4cM
+ - 2!c :: 5+!c NF
+ - 2!d :: GF, balanced or clubs
+ - 2!h ::
+ - 2!s :: 5+!s GF
+ - 2NT :: NF, invitational from an unbalanced hand with clubs
+ - 3!c :: natural NF, but strongly invitational
+- 2!c :: 8-11 at least 5-4 in the minors
+ - 2!d :: NF
+ - 2!h :: GF, clubs
+ - 2!s :: GF 5+!s
+ - 2NT :: 18-20/24+ balanced
+ - 3m :: invitational
+- 2!d :: 8-11 6+!d (same as above)
+- 2!h :: 5+!s - 4+!h 7-10
+- 2!s :: 6+!c, 11+
+ - 2NT :: GF, balanced or clubs
+ - 3!c :: NF
+ - 3x :: GF 5+!s and natural
+- 2NT :: balanced invite
+- 3!c :: 6+!c 8-10
+
+** Competition after 1!c:
+
+
+* 1!d Openings
+ - pass :: 0-4, 0-2!d, usually no 5+M
+ - 1!h :: 4+!h, (0)5+
+  - 1NT :: 16+ any or 12-15 6+!d
+   - 2!c :: 8+ any
+  - 2!c :: minors 12-15
+  - 2!d :: 5+!d 3!h 12-15
+ - 1!s :: 4+!s, (0)5+
+  - 1NT :: 16+ any or 12-15 6+!d/5!d-4!h
+   - 2!c :: 8+ any
+  - 2!c :: minors 12-15
+  - 2!d :: 5+!d-3!s 12-15
+ - 1NT :: 5-10, no 4M
+ - 2!c :: GF, balanced or clubs
+ - 2!d :: 0-6 3+!d (can have 4+M if 0-4)
+ - 2!h :: 5+!s - 4+!h 7-10
+ - 2!s :: 4+!d, no 4M 10+
+ - 2NT :: balanced invite
+ - 3!c :: 6+!c invite
+ - 3!d :: (6)7-9(10) 4+!d
+
+* 1!h Openings
+- 1!s :: 0-4!s F1, includes balanced GF (rebids 2!s to set up the GF)
+ - 1NT :: 16+ any distribution or 12-15 5+!h-4!s
+    2!c :: any 8+
+    2!d :: 4!s 0-7
+    2!h :: 0-3!s 0-7
+    2!s :: 31(54) 0-7
+    2NT :: 5+/5+ minors 0-7
+    3m :: 6+m 0-7
+ - 2!c :: 3+!c 12-15
+ - 2!d :: 3+!d 12-15
+ - 2!h :: 6+!h 12-14
+ - 2!s :: 6!h-5!s 12+
+- 1NT :: 5+!s F1
+ - 2!c :: 4+!c 12-15 or any 16+
+ - 2!d :: 4+!d 12-15 or 2=5=3=3
+ - 2!h :: 6+!h 12-14
+ - 2!s :: 3+!s
+- 2!c :: 5+!c GF
+- 2!d :: 5+!d GF
+- 2!h :: 5-9 3!h
+- 2NT :: 3/4!h 10-14
+ - 3!h :: NF
+ - 3NT :: offer to play
+ - 4!h :: no hope for slam
+- 3!c/!d 6+!c/!d invitational
+- 3!h :: mixed raise
+
+* 1!s Opening
+- 1NT :: NF, could have 3!s 0-6
+ - 2!c :: 4+!h 10-14, or any 15-16
+  - 2!d :: any 9+
+   - 2!h :: 10-14 4+!h
+   - Ot :: 15-16 nat GF
+  - 2!h :: 4+!h 0-8
+  - 2!s :: 0-3!h 0-8
+ - 2!d :: 3+!d 10-14
+ - 2!h :: 6+!s 10-14
+ - 2!s :: 5!s-4!c 10-14
+- 2!c :: clubs or balanced GF
+- 2!d :: 5+!d GF
+- 2!h :: 5+!h GF
+- 2!s :: 7-11 3!s
+- 2NT :: 3/4!s 12-15
+- 3x :: 6+!x invitational
+- 3!s :: mixed raise
+
+* 2x Openings
+*Description* In third seat the opening are wide ranging (both in shape and range)\\
+First and second seat vulnerable the opening are fairlly standard weak two, agressive but tend to always have a 6 card suit\\
+First and second seat not vulnerable the openings show 7 to 10 points and a five card or longer suit. We tend to almost never upgrade 5/6 counts into this opening.\\
+With a 6 card suit with no side suit honors we prefer to open at the 3 level, so that that a not vulnerable 2 level opening is either from a 5 card suit or has at least a side suit Q\\
+This is important as the style is to for partner to agressively look to penalize oppenents (so do not be tempeted to open xx KQJxxx xxx xx at the two level)\\
+They tend to deny 4 card majors (unless in a 6/4 with a good primary suit and bad major).\\
+Not vulnerable the is no further requirment on the opening, the suit could be Jxxxx, and it could be from a 5332 distribution\\
+If don't feel comftable opening this hands, don't play the system in the first place.\\
+
+2NT Ogust:
+- 3!c :: 5x min
+- 3!d :: 6x min
+- 3!h :: 5x max
+- 3!s :: 6x max
+
+When vulnerable 3!c/3!d show a bad 6 card suit and 3!d/!s good 6 card suits\\
+
+Over 2!c opening the ask is 2!d with the same min/min/max/max responses.\\
+
+Two level new suits are NF but expect to be raise with 3 card support (2NT with 3 card support and a max)\\
+3 level suit (with or with out jump) are natural GF (generally 6+suits)\\
+
+** Competition
+If the overcall doubles are penalties\\
+If they double new suits are NF and XX is strong looking for penalties (opener is expected to double if he has 3 cards in the suit they run to)\\
+
+2NT is always kept as Ogust (Over a 2!c opening 2NT becomes the Ogust ask as well)
+
+* 2NT Opening
+- 3!c :: 4 card stayman and smolen
+- 3!d :: 5+!h
+- 3!h :: 5+!s
+- 3!s :: minor suit stayman
+- 4!c :: 6+!h ISL
+- 4!c :: 6+!s ISL
+- 4!h :: 6+!c ISL
+- 4!s :: 6+!d ISL
+
+
+* Part 2
+** XYZ
+
+** XY2Z
+After 1m - 1M if opener rebids a nonforcing 2m, and there is at least one free step below 2 in our major we play something similar to XYZ:\\
+XY2Z is played after:\\
+1!c - 1M\\
+2!c - ?\\
+
+1!d - 1!s\\
+2m - ?\\
+
+1!d - 1!s\\
+1NT - 2!c\\
+2!d - ?\\
+
+In all this sequences we use 2M-1 to show either a weak hand with 6+M or any invitational hand. While (almost)all other bids are natural and GF.\\
+1!c-1!h-2!c
+- 2!d :: 6+!h weak or any inv
+- 2!h :: 4+!h generic GF
+- 2!s :: (semi natural) GF
+- 2NT :: balanced GF
+- 3!c :: 4+!c GF
+- 3!d :: 5+!d-4+!h GF
+- 3!h :: solid 6+!h GF
+
+1!c - 1!s - 2!c
+- 2!d :: *ALEEERT* 4+!h inv+
+- 2!h :: 6+!s weak or any inv(no 4!h)
+- 2!s :: 4+!s generic GF
+- 2NT :: balanced GF
+- 3!c :: 4+!c GF
+- 3!d :: 5+!d GF
+- 3!h :: 5-5 GF
+- 3!s :: solid 6+!s GF
+
+1!d - 1!s - 2!c
+- 2!d :: s.o.
+- 2!h :: 6+!s weak or any inv
+- 2!s :: 4+!s generic GF
+- 2NT :: balanced GF
+- 3!c :: 4+!c GF
+- 3!d :: 4+!d GF
+- 3!h :: 5-5 GF
+- 3!s :: solid 6+!s GF
+
+1!d - 1!s - 2!d (5+!d-3!s)
+- 2!h :: weak (4)5!s or any invite
+- 2!s :: GF 5+!s
+- 2NT :: 4!s balanced GF
+- 3!c :: 4!s 4SF GF
+- 3!d :: 4!s 3+!d GF
+
+and similarly after 1!d - 1!s - 1NT - 2!c - 2!d\\
+
+Note that we do not play XY2Z after 1!d-1!h-2!c, yes the is 2!d available, but is used as natural non forcing and we simply use 2!s as 4SF GF.\\
