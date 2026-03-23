@@ -14,19 +14,31 @@
 
 * 1!c Openings
 Responses:
-- 1!d :: 0-7 any distribution
+- 1!d :: 0-7 any distribution or 8-11 unbalanced no 4M
 - 1!h :: 4+!h 8+
   - 1!s :: 4!s 12+ or 5!s 16+ F1
+    - 1NT :: NF
+      - 2!c :: 5+!c -4!s 12-15
+      - 2!d :: 5+!s-4+!d 16+
+      - 2!h :: 5+!s-4+!h 16+
+      - 2!s :: *ALERT* 5+!s-4+!c 16+
+      - 2NT :: 5!c-4!s 16+
+      - 3!c :: 6+!c-4!s 16+
+      - 3!d/!h :: 5+!c-4!s descriptive 16+
+      - 3!s :: 6!c-5!s 15+
+   - 2x :: XYZ
+     - 2!s :: 5!s 16+ GF
   - 1NT :: 12-14 balanced 2-3!h, 2-3!s
   - 2!c :: 12-15 5+!c 0-2!h
   - 2!d :: 3!h GF
-    - 2!h :: 4!h min
-    - 2!s :: 5!h
-    - 2NT :: 4!h max
-    - 3m :: 5m - 4!h max
-    - 3!h :: 5!h max
+    - 2!h :: 4M min
+    - 2!s :: 4M max
+    - 2NT :: 5M min
+    - 3!c :: 5M max
+    - 3!d :: 6M min
+    - 3!h :: 6M max
   - 2!h :: 4!h, balanced or 3(4)!h with clubs
-  - 2!s :: 6+!s GF
+  - 2!s :: 6+!s 16+ GF
   - 2NT :: GF 1-2!h
   - 3!c :: 6+!c GF
   - 3!d :: GF, 4!h no shortness
@@ -34,11 +46,7 @@ Responses:
 - 1!s :: 4+!s 8+
   - 1NT :: 12-14, no 4!s
   - 2!c :: 12-15, 5+!c 0-2!s
-  - 2!d :: 3!s GF
-    - 2!h :: 4!s min
-    - 2!s :: 5!s
-    - 2NT :: 4!s max
-    - 3m :: 5m - 4!s max
+  - 2!d :: 3!s GF --> same as 1!c-1!h-2!d
   - 2!h :: 5!c - 4!h GF 
   - 2!s :: 3/4!s NF
   - 2NT :: GF 1-2!s
@@ -50,32 +58,41 @@ Responses:
  - 2!s :: 5+!s GF
  - 2NT :: NF, invitational from an unbalanced hand with clubs
  - 3!c :: GF
-- 2!c :: 4+!c GF
- - 2!s :: 5+!s
- - 2NT :: 12-14/18-20/24+ balanced
-- 2!d :: 4+!d GF
+- 2!c :: GF 5+!c or (23)44 or 33(34)
+- 2!d :: GF 5+!d
 - 2!h :: 5+!s - 4+!h 8-11
-- 2!s :: 8-11 5-4+ minors
+- 2!s :: 13+ balanced no 4M
 - 2NT :: balanced invite
-- 3!c :: 6+!c 8-11
-- 3!d :: 6+!d 8-11
+- 3!c :: 6+!c 9-11
+- 3!d :: 6+!d 9-11
 
 *** 1!c - 1!d
-- 1!h :: 5+!c - 4!h or 12-14 balanced
-  - 1!s :: ask
-    - 1NT :: 12-14 balanced
-      - 2x :: s.o.
-    - 2!c :: 5+!c-4!h NF
-    - 2!d+ :: 5+!c-4!h game invitational
-  - 1NT :: 4!s NF
-- 1!s :: 12+ 4+!c-4!s or 16+ 5+!s
+- 1!h :: 5+!c - 4!h 12-21 or 12-14 balanced( no 4!s ), NF
+ - 1NT :: 5-7 NF
+- 1!s :: 4!s 12-14 balanced, 12-21 4+!c-4!s or 16-21 5+!s, NF
+  - 1NT :: 5-7 NF
+    - 2!c :: 5+!c-4!s 12-17
+    - 2!d :: 5+!s-4!d 18-20
+    - 2!h :: 5+!s-4!h 18-20
+    - 2!s :: 5+!s 16-17
+    - 2NT :: 5+!c-4!s 18-20
+    - 3!c :: 5+!s-4!c 18-20
+  - 2!c :: 5-11 5+!c
+  - 2!d :: 5-11 (5)6+!d
+  - 2!h :: 5-7 (5)6+!h s.o.
+  - 2!s :: 4-7 4!s s.o.
+  - 2NT :: 10-11 5-4 minors
 - 1NT :: 18-20 balanced --> system on
 - 2!c :: 5+!c NF
-- 2!d :: art GF
+- 2!d :: natural 18+-20 or GF 5+!s
   - 2!h :: waiting
-- 2!h :: 5+!c-4!h 18+
+    - 2!s :: 6+!s GF
+    - 2NT :: 5+!c-4!d NF
+    - 3!c :: 5!s-4+!c GF
+    - 3!d :: 5+!s-4!d  GF
+- 2!h :: 5+!c GF --> 2!s waiting, 2NT+ 6+suit transfer
 - 2!s :: 6+!s 18-20
-- 2NT :: 21-23 balanced --> system on
+- 2NT :: 24+ balanced --> system on
 - 3!c :: 6+!c 18-20
 
 *** Competition after 1!c:
