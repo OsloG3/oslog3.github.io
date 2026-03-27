@@ -1,0 +1,320 @@
+#+INCLUDE: bridgehtml.org
+
+#+TITLE: 2/1 Bridge system
+
+* Openings:
+- 1!c :: 2+!c 12-22
+- 1!d :: 4+!d 12-22
+- 1!h :: 5+!h 12-22
+- 1!s :: 5+!s 12-22
+- 1NT :: balanced 15-17 includes 5M332
+- 2!c :: strong: 22-23 balanced or any GF
+- 2!d :: 6!d 5-10
+- 2!h :: 6!h 5-10
+- 2!s :: 6!s 5-10
+- 2NT :: 20-21 balanced 
+
+* Minor suit raise
+*** Inverted minors
+1!c-2!c and 1!d-2!d show an invitational or better raise without a 4 card or longer major. \\
+Inverted minors continuations:
+- New suits without jumps show stoppers, and are bid up the line. 
+- Jumps to new suits show shortness. 
+- Bidding NTs indicates that we think we have all suits stopped. 
+Bidding 2NT or 3 of the opened minors are always not forcing. By responder it shows he only had an invitational raise, and by opener it shows he would not accept an invite. \\
+\\
+1m - 3m show a less than invitational raise and deny a side 4 card major. The hand should be strong enough to want to be in game opposite 18-19 balanced. 
+
+* Major suit raises
+*** Simples raise
+1M-2M shows at least 3 card support and 5-10 points. \\
+Opener can bid a new suit to show values in the bid suit and interest in game opposite a maximum (8-10 points) 
+
+*** Mixed raise
+1M-3M shows 4 card support, 6-9 points and not a flat hand (4333 or a 4432 with a two honors in the doubleton) 
+
+*** Maas Raise
+1M-2NT shows invitational or minimum GF(10-14 points) values 3 or more cards support. \\
+Opener can bid 3M with a minimum to reject the invite or 4M if accepts the invite with no hope of slam. \\
+
+
+*** 2/1 delayed raise
+When partner opens a major and we have 14/15+ points and a fit we start by bidding a new suit. \\
+\\
+* Other responses to 1 level openings
+- New suits at the 1 level show 4 or more cards and are forcing 1 round. 
+- New suits at the 2 level without jumps show a GF hand two over one. 
+- Single jumps to a new suit show 6+ cards in the bid suit and are invitational. They deny side 4 card majors and support for partner's suit
+- Double jumps to new suits are splinters. 
+- 1m - 1NT shows 5-10 points and no suit biddable at the 1 level 
+- 1m - 2NT is invitation balanced without 4 card majors
+- 1M-1NT shows 5-11 points without support for the opened majors, 1!h-1NT also denies 4 or more spades. 
+
+* 1NT opening
+- 2!c :: stayman
+- 2!d :: 5+!h transfer
+- 2!h :: 5+!s transfer
+- 2!s :: 6+!c transfer
+- 2NT :: 6+!d transfer
+
+
+*** Stayman:
+1NT - 2!c
+- 2!d :: no 4 card majora
+ - 2NT :: invitational
+ - 3!h :: 4!h-5!s GF Smolen 
+ - 3!s :: 4!s-5!h GF Smolen	
+- 2!h :: 4!h could have 4!s
+ - 2!s :: Invite with 4 spades
+ - 2NT :: Invite without 4 spades
+ - 3NT :: 4!s GF
+- 2!s :: 4!s no 4!h
+
+*** Transfers:
+1NT - 2!h
+- 2!s :: 2-3!s
+ - 2NT :: 5!s invitational
+ - 3!c :: 5!s - 4!c GF
+ - 3ld :: 5!s - 4!d GF
+ - 3!h :: 5!s - 5!h GF
+ - 3!s :: 6!s invitational 
+ - 3NT :: 5!s GF
+- 2NT :: 4!s and a maximum 
+- 3!s :: 4!s and a minimum
+
+1NT - 2!s
+- 2NT :: at least Hx in !c
+ - 3!c :: to play
+ - 3!d/M :: shortness
+- 3!c :: no honor in !c
+ - pass :: to play
+ - 3!d/M :: shortness
+
+* 2NT opening
+- 3!c :: stayman
+ - 3!d :: no major
+  - 3!h 4!h-5!s Smolen
+  - 3!s 4!s-5!h smolen
+ - 3!h :: 4!h could have 4!s
+  - 3NT 4!s GF
+ - 3!s :: 4!s no 4!h
+- 3!d :: 5+!h
+- 3!h :: 5+!s
+  
+* 2!c Opening
+- 2!d :: waiting
+ - 2!h :: Kokish: 5+!h GF or 24+ balanced, forces 2!s
+  - 2!s :: forced
+   - 2NT 24+ balanced → system on
+   - 3!c 5!h-4!c
+   - 3!d 5!h-4!d
+   - 3!h 6+!h
+   - 3!s 5!h-4!s
+ - 2!s :: 5+!s GF
+  - 2NT :: Asking
+    - 3!c 5!s-4!c
+    - 3!d 5!s-4!d
+    - 3!h 5!s-4!h
+    - 3!s 6+!s
+ - 2NT :: 22-23 balanced → system on
+ - 3!c :: 5+!c GF
+  - 3!d :: Asking
+   - 3!h 5!c - 4!h
+   - 3!s 5!c - 4!s
+   - 3NT no 4 card majors
+ - 3!d :: 5+!d, no 4M GF
+ - 3!h :: 5!d 4!h
+ - 3!s :: 5!d 4!s
+- 2M :: 5+M 8+ points
+- 3m :: 6+m 8+ points
+
+Bidding something different of the 2!d waiting bid over the 2 club opener usually takes a lot of bidding space and makes it very difficult to fully describe the hand by the opener. Therefore we must be careful if we skip the relay and make it only with hands with good suits. If our suit is not good enough we should just bid the relay. 
+
+* Weak 2 openings continuations
+- 3 level raise: preemptive raise with 3 card support
+- 4 level raise: To play, preemptive or with values
+- 2 level new suit: natural forcing 1 round
+- 3 level new suit: natural GF
+- Jump to new suits(below game): splinter with slam interest
+- 2NT: feature ask
+
+2x - 2NT feature ask
+- 3x               minimum
+- 3 new suit:  maximum with values in the bid suit
+- 3NT:            maximum with no values in the side suits
+- New suit 4rth level: Shortness on the bid suit
+
+* Constructive bidding conventions
+*** 2/1 auctions
+1!h-2!d and 1!s-2!d are natural and GF promising 5 or more diamonds.\\
+1!s-2!h similarly promises 5 or hearts and is GF\\
+1!d-2!c, 1!h-2!c and 1!s-2!c are GF and could be natural or they could be from a balanced hand with no better bid.\\
+\\
+After a 2/1 response opener describes his hand naturally, but he can not bid above 2 of the opening suit unless he has 15+ points.\\
+\\
+Examples:\\
+1!d - 2!c
+- 2!d :: 6+!d or 4+!d 12-14 with no other bid
+- 2!h :: 5+!d - 4!h 15+ (above 2 of the opening suit shows extras)
+- 2!s :: 5+!d - 4!s 15+
+- 2NT :: balanced 18-19 (could have 4 card majors)
+- 3!c :: 5+!d-4+!c 15+
+- 3!d :: solid diamond suit 15+
+
+1!s - 2!d
+- 2!h :: 5+!s - 4+!h 12-22
+- 2!s :: 6+!s or 5!s 12-14 with no 4!h
+ - 2NT :: waiting, usually balanced 15+
+ - 3!c :: 5+!d - 4+!c slam interest or worried about a heart stop
+ - 3!d :: 6+!d slam interest or very unbalanced
+ - 3!h :: 5+!d - 4!h slam interest or worried about a club stop
+ - 3!s :: 3+!s 14+, slam try
+ - 3NT :: to play, could be from an unbalanced hand
+- 2NT :: 18-19 balanced
+- 3!c :: 5+!s-4+!c 15+
+- 3!d :: 5+!s-3+!d 15+
+- 3!s :: solid spade suit 15+
+
+Because we play Maas raise over the 1M opening delayed support trough 2/1 shows a GF hand with at least 15 points, therefore partner should follow the slam try unless superminimum.\\
+
+*** XYZ
+After any 1x-1y-1x auctions like:\\
+1!c - 1!h\\
+1!s\\
+\\
+1!d-1!h\\
+1NT\\
+…\\
+We play:\\
+- 2!c :: forces 2!d\\
+
+  a) A weak hand that wants to play 2!d or\\
+  b) Any invitational hand
+
+- 2!d :: ANY GF hands, asks partner to describe his hand
+- 3!c :: to play
+
+Exemple:\\
+1!c - 1!s\\
+1NT\\
+- 2!c :: weak !d or any inv
+ - 2!d :: forced
+  - Pass :: weak with 5+!d
+  - 2!h :: 5!s - 4!h inv
+  - 2!s :: 5!s inv
+  - 2NT :: 4!s inv
+- 2!d :: any GF
+  - 2!h :: 4!h could have 3!s
+  - 2!s :: 3!s, no 4!h
+  - 2NT :: no 3!s and no 4!h
+- 3!c :: 5+!c - 4!s to play
+
+*** Fourth suit GF
+When opener bids a second suit at the 2 or higher level then bidding the remaining unbid suit by the responder is game forcing and asks for more information about the opener’s hand.\\
+\\
+1!h - 1!s\\
+2!c -? \\
+\\
+1!d - 1!s\\
+2!h -? \\
+… \\
+\\
+Bidding the fourth suit (the last remaining unbid suit) is artificial and game forcing. It asks if opener has 3 card support for responder’s suit or a stopper in the fourth suit. \\
+With no 3 card support nor a stopper in the fourth suit and no other descriptive bid to make opener can rebid his opening suit: waiting and showing no better bid. \\
+
+*** Third suit game forcing
+After a 1 level opening and a ONE of a SUIT response and opener rebidding his opening suit at the 2 level:\\
+1!c - 1!h\\
+2!c\\
+\\
+1!h - 1!s\\
+2!h\\
+…\\
+\\
+Bidding without jumping one of the two remaining suits is game forcing. \\
+The bids are natural in principle, but could be done on just a 2 or 3 card suit if worried about a stopper in the remaining unbid suit. The cheaper of the two bids could also be done without a real suit in order to set up a game forcing auction.\\
+Exemple:\\
+1!c - 1!s\\
+2!c - ?
+- 2!d :: 3 suit GF, it doesn’t promise diamonds
+ - 2!h :: 5+!c - 4!h, no 3!s
+ - 2!s :: 3!s
+ - 2NT :: !h stopper, no 3!s
+ - 3!c :: 6+!c, no 3!s, no good !h stop
+ - 3!d :: 5+!c - 4!d
+- 2!h :: 3 suit GF, usually 4+!h, could be just 3 looking for a !d stop
+ - 2!s :: 3!s
+ - 2NT :: !d stopper
+ - 3!c :: 6+!c no !d stopper, no 3!s
+*** Checkback
+
+After 1m-1M-2NT :: 3!c is checkback and asks for 3 card support in the major or 4 cards in the other major:\\
+1m - 1M\\
+2NT - ?
+- 3!c :: checkback
+ - 3!d :: 3M AND 4oM
+ - 3M :: 3M no 4oM
+ - 3oM :: 4oM no 3M
+ - 3NT :: no 3M nor 4oM
+- 3M :: 6+M game forcing
+
+*** Slam bidding
+- 1430 RKCB
+- Non serious 3NT
+- Italian style cuebids
+
+* Competitive bidding
+*** We open and they overcall
+If they double our 1 of a suit opening bid:
+| ReDBL              | 11+ any distribution |
+| 1 of a suit        | natural F1           |
+| 1NT                | natural 8-10         |
+| 2 of a suit        | natural NF (7-10)    |
+| Jump support       | preemptive.          |
+| Jump into new suit | preemptive.          |
+
+
+If they overcall with 1NT\\
+| DBL | 9+ points |
+| 2 of a suit | natural to play |
+
+If they overcall with a new suit\\
+| DBL |  8+ points, TO and no other bid   |
+| 1 of a suit | 8+ 4+suit F1  |
+| 1NT | 8-10 with a stopper. No support or unbid 4 card major   |
+| 2 of a suit(no jump) | 11+ 5+suit, forcing up to suit rebid   |
+| 2 of opening suit | simple raise 5-10   |
+| 3 of a suit(no jump) | GF 5+suit   | 
+| Cuebid | support 11+   |
+| Jump cuebid | GF support with shortness in opponents suit   |
+| Jump support |  preemptive  |
+
+*** Two suited overcalls
+Unusual two no trumps:\\
+(1x) - 2NT shows at least 5/5 in the lowest ranking unbid suits. \\
+Micheal cuebid:\\
+(1m) - 2m shows at least a 5/5 in the majors\\
+
+(1M) - 2M shows at least 5 cards in the unbid major and 5 cards in one of the two minors. Partner can use 2NT(or 4NT) to ask which is the minor\\
+
+*** After we overcall at the 1 or 2 level without jump
+- New suits at the 1 level are forcing for 1 round
+- New suits at the 2 level are not forcing but show a constructive or invitational hand
+- New suits at the 3 level are GF both with and without a jump
+- 1NT/2NT are both natural showing a stopper in the opponents’ suit. 1NT shows 8-11 points, 2NT after a 1 level overcall shows 12-14 points and 2NT after a 2 level overcall show 9-11 points. 
+- Cuebidding opponents' suit without jump shows either an invitational or better support or a balanced hand with enough strength to play game but no stopper in opponents suit. 
+- Jump cuebidding shows a mixed raise (4card support 6-9hcp and some distribution)
+
+(1!c) - 1!h - (pass) - ? 
+- 1!s :: 4+!s F1
+- 1NT :: 8-11 with a !c stopper
+- 2!c :: invitational or better support or 15+ points balanced with no !c stopper
+- 2!d :: 5+!d 9-14 MF
+- 2!h :: 3+!h 7-10
+- 2NT :: 12-14 with a !c stopper
+- 3!c :: mixed raise
+- 3!d :: 5+!d GF
+
+
+* UBH
+The name is self explanatory

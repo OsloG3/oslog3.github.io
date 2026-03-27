@@ -96,7 +96,7 @@ Responses:
 - 3!c :: 6+!c 18-20
 
 *** Competition after 1!c:
-If they overcall 1 level suits are natural 8+\\
+If they overcall: 1 level suits are natural 8+\\
 2 level suits are 8-11 NF (3!c and the raise the only NF bids)\\
 2NT+ are GF transfers\\
 \\
@@ -104,7 +104,7 @@ If oponents compete in a red suit and responder passes:\\
 club bids are natural.\\
 double is balanced, or clubs with the unbid majors\\
 bidding the remaining red suit shows a two suiter with the suit and 5+!s\\
-bidding spades shows a spades (could be just 5 cards)\\
+bidding spades shows spades (could be just 5 cards)\\
 cuebidding opponents suit shows 5+!s-4+!c\\
 
 * 1!d Openings
@@ -132,17 +132,22 @@ cuebidding opponents suit shows 5+!s-4+!c\\
 - 1!s :: 0-4!s F1, includes balanced GF (rebids 2!s to set up the GF)
  - 1NT :: 16+ any distribution or 12-15 5+!h-4!s
     - 2!c :: any 8+
-    - 2!d :: 4!s 0-7
-    - 2!h :: 0-3!s 0-7
-    - 2!s :: 31(54) 0-7
-    - 2NT :: 5+/5+ minors 0-7
-    - 3m :: 6+m 0-7
+    - 2!d :: 4!s 3-7
+    - 2!h :: 0-3!s 3-7
+    - 2!s :: 31(54) 3-7
+    - 2NT :: 5+/5+ minors 3-7
+    - 3m :: 6+m 3-7
  - 2!c :: 3+!c 12-15
  - 2!d :: 3+!d 12-15
  - 2!h :: 6+!h 12-14
  - 2!s :: 6!h-5!s 12+
 - 1NT :: 5+!s F1
  - 2!c :: 4+!c 12-15 or any 16+
+   - 2!d :: any 8+
+   - 2!h :: (1)2!h 3-7
+   - 2!s :: (5)6!s 3-7
+   - 2NT :: 5!s-5m 3-7
+   - 3m :: 5!s-6m 3-7
  - 2!d :: 4+!d 12-15 or 2=5=3=3
  - 2!h :: 6+!h 12-14
  - 2!s :: 3+!s
@@ -168,10 +173,10 @@ cuebidding opponents suit shows 5+!s-4+!c\\
 *Description* In third seat the opening are wide ranging (both in shape and range)\\
 First and second seat vulnerable the opening are fairlly standard weak two, agressive but tend to always have a 6 card suit\\
 First and second seat not vulnerable the openings show 7 to 10 points and a five card or longer suit. We tend to almost never upgrade 5/6 counts into this opening.\\
-With a 6 card suit with no side suit honors we prefer to open at the 3 level, so that that a not vulnerable 2 level opening is either from a 5 card suit or has at least a side suit Q\\
+With a 6 card suit with no side suit honors we prefer to open at the 3 level. So that that a non vulnerable 2 level opening is either from a 5 card suit or has at least a side suit Q\\
 This is important as the style is for partner to agressively look to penalize oppenents (so do not be tempeted to open xx KQJxxx xxx xx at the two level)\\
 They tend to deny 4 card majors (unless in a 6/4 with a good primary suit and bad major).\\
-Not vulnerable there is no further requirment on the opening, the suit could be Jxxxx, and it could be from a 5332 distribution\\
+Not vulnerable there is no further requirment on the opening. The suit could be Jxxxx and it could be from a 5332 distribution\\
 \\
 2NT Ogust:
 - 3!c :: 5x min
@@ -204,6 +209,12 @@ If they double: new suits are NF and XX is at least invitational and looking for
 - 4!h :: 6+!c ISL
 - 4!s :: 6+!d ISL
 
+* Slam bidding
+- RKCB: 1430
+- DEPO/REPO
+- exclusion: 1430
+- non serious 3NT
+- last train
 
 * Part 2: Extra conventions
 *** XYZ
@@ -249,4 +260,4 @@ In all this sequences we use 2M-1 to show either a weak hand with 6+M or any inv
 - 3!c :: 4!s 4SF GF
 - 3!d :: 4!s 3+!d GF
 
-Note that we do not play XY2Z after 1!d-1!h-2!c or 1!d-1!s-1NT-2!c-2!d \\
+Note that we do not play XY2Z after 1!d-1!h-2!c (2!d is a s.o. obviously) or 1!d-1!s-1NT-2!c-2!d(2!h is natural F1) \\
