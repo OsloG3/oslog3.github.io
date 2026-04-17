@@ -43,7 +43,7 @@ When partner opens a major and we have 14/15+ points and a fit we start by biddi
 \\
 * Other responses to 1 level openings
 - New suits at the 1 level show 4 or more cards and are forcing 1 round. 
-- New suits at the 2 level without jumps show a GF hand two over one. 
+- New suits at the 2 level without jumps show a GF hand *two over one* 
 - Single jumps to a new suit show 6+ cards in the bid suit and are invitational. They deny side 4 card majors and support for partner's suit
 - Double jumps to new suits are splinters. 
 - 1m - 1NT shows 5-10 points and no suit biddable at the 1 level 
@@ -55,7 +55,8 @@ When partner opens a major and we have 14/15+ points and a fit we start by biddi
 - 2!d :: 5+!h transfer
 - 2!h :: 5+!s transfer
 - 2!s :: 6+!c transfer
-- 2NT :: 6+!d transfer
+- 2NT :: invitational, no 4+M
+- 3!c :: 6+!d transfer
 
 
 *** Stayman:
@@ -65,8 +66,7 @@ When partner opens a major and we have 14/15+ points and a fit we start by biddi
  - 3!h :: 4!h-5!s GF Smolen 
  - 3!s :: 4!s-5!h GF Smolen	
 - 2!h :: 4!h could have 4!s
- - 2!s :: Invite with 4 spades
- - 2NT :: Invite without 4 spades
+ - 2NT :: Invite with 4 spades
  - 3NT :: 4!s GF
 - 2!s :: 4!s no 4!h
 
@@ -103,32 +103,13 @@ When partner opens a major and we have 14/15+ points and a fit we start by biddi
   
 * 2!c Opening
 - 2!d :: waiting
- - 2!h :: Kokish: 5+!h GF or 24+ balanced, forces 2!s
-  - 2!s :: forced
-   - 2NT 24+ balanced → system on
-   - 3!c 5!h-4!c
-   - 3!d 5!h-4!d
-   - 3!h 6+!h
-   - 3!s 5!h-4!s
+ - 2!h :: 5+!h GF
  - 2!s :: 5+!s GF
-  - 2NT :: Asking
-    - 3!c 5!s-4!c
-    - 3!d 5!s-4!d
-    - 3!h 5!s-4!h
-    - 3!s 6+!s
- - 2NT :: 22-23 balanced → system on
+ - 2NT :: 22-24 balanced → system on
  - 3!c :: 5+!c GF
-  - 3!d :: Asking
-   - 3!h 5!c - 4!h
-   - 3!s 5!c - 4!s
-   - 3NT no 4 card majors
- - 3!d :: 5+!d, no 4M GF
- - 3!h :: 5!d 4!h
- - 3!s :: 5!d 4!s
+ - 3!d :: 5+!d
 - 2M :: 5+M 8+ points
 - 3m :: 6+m 8+ points
-
-Bidding something different of the 2!d waiting bid over the 2 club opener usually takes a lot of bidding space and makes it very difficult to fully describe the hand by the opener. Therefore we must be careful if we skip the relay and make it only with hands with good suits. If our suit is not good enough we should just bid the relay. 
 
 * Weak 2 openings continuations
 - 3 level raise: preemptive raise with 3 card support
@@ -136,14 +117,30 @@ Bidding something different of the 2!d waiting bid over the 2 club opener usuall
 - 2 level new suit: natural forcing 1 round
 - 3 level new suit: natural GF
 - Jump to new suits(below game): splinter with slam interest
-- 2NT: feature ask
+- 2NT: shortness ask
 
-2x - 2NT feature ask
-- 3x               minimum
-- 3 new suit:  maximum with values in the bid suit
-- 3NT:            maximum with no values in the side suits
-- New suit 4rth level: Shortness on the bid suit
+2!h - 2NT shortness ask
+- 3!c :: !c singleton or void any range
+- 3!d :: minimum, no !c shortness
+- 3!h :: !h singleton or void, maximum
+- 3!s :: !s shortness, maximum
+- 3NT :: maximum, no shortness
 
+2!h - 2NT shortness ask
+- 3!c :: !c singleton or void any range
+- 3!d :: !d singleton or void any range
+- 3!h :: minimum, no !c or !d shortness
+- 3!s :: !s shortness, maximum
+- 3NT :: maximum, no shortness
+
+ 2!s - 2NT shortness ask
+- 3!c :: !c singleton or void any range
+- 3!d :: !d singleton or void any range
+- 3!h :: !h singleton or void any range
+- 3!s :: minimum no shortness
+- 3NT :: maximum, no shortness
+
+  
 * Constructive bidding conventions
 *** 2/1 auctions
 1!h-2!d and 1!s-2!d are natural and GF promising 5 or more diamonds.\\

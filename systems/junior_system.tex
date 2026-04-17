@@ -1,0 +1,443 @@
+% Created 2026-03-27 Fri 07:54
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage{minted}
+\date{\today}
+\title{2/1 Bidding system}
+\hypersetup{
+ pdfauthor={},
+ pdftitle={2/1 Bidding system},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 30.2 (Org mode 9.7.11)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\section*{Openings:}
+\label{sec:org6a14610}
+\begin{description}
+\item[{1}] 2+ 12-22
+\item[{1}] 4+ 12-22
+\item[{1}] 5+ 12-22
+\item[{1}] 5+ 12-22
+\item[{1}] balanced 15-17 includes 5M332
+\item[{2}] strong: 22-23 balanced or any
+\item[{2}] (5)6 5-10
+\item[{2}] (5)6 5-10
+\item[{2}] (5)6 5-10
+\item[{2}] 20-21 balanced
+\end{description}
+\section*{Minor suit raise}
+\label{sec:org8d72aab}
+\subsubsection*{Inverted minors}
+\label{sec:org9c2e0dd}
+1-2 and 1-2 show an invitational or better raise without a 4 card or longer major. \\
+Inverted minors continuations:
+\begin{itemize}
+\item New suits without jumps show stoppers, and are bid up the line.
+\item Jumps to new suits show shortness.
+\item Bidding NTs indicates that we think we have all suits stopped.
+\end{itemize}
+Bidding 2 or 3 of the opened minors are always not forcing. By responder it shows he only had an invitational raise, and by opener it shows he would not accept an invite. \\
+
+1m - 3m show a less than invitational raise and deny a side 4 card major. The hand should be strong enough to want to be in game opposite 18-19 balanced. 
+\section*{Major suit raises}
+\label{sec:org0bcd976}
+\subsubsection*{Simples raise}
+\label{sec:org98289f4}
+1M-2M shows at least 3 card support and 5-10 points. \\
+Opener can bid a new suit to show values in the bid suit and interest in game opposite a maximum (8-10 points) 
+\subsubsection*{Mixed raise}
+\label{sec:orgcb5c9c0}
+1M-3M shows 4 card support, 6-9 points and not a flat hand (4333 or a 4432 with a two honors in the doubleton) 
+\subsubsection*{Maas Raise}
+\label{sec:orgd4f034f}
+1M-2 shows invitational or minimum (10-14 points) values 3 or more cards support. \\
+Opener can bid 3M with a minimum to reject the invite or 4M if accepts the invite with no hope of slam. \\
+\subsubsection*{2/1 delayed raise}
+\label{sec:orgff4807d}
+When partner opens a major and we have 14/15+ points and a fit we start by bidding a new suit. \\
+\section*{Other responses to 1 level openings}
+\label{sec:orgc81ad36}
+\begin{itemize}
+\item New suits at the 1 level show 4 or more cards and are forcing 1 round.
+\item New suits at the 2 level without jumps show a hand two over one.
+\item Single jumps to a new suit show 6+ cards in the bid suit and are invitational. They deny side 4 card majors and support for partner's suit
+\item Double jumps to new suits are splinters.
+\item 1m - 1 shows 5-10 points and no suit biddable at the 1 level
+\item 1m - 2 is invitation balanced without 4 card majors
+\item 1M-1 shows 5-11 points without support for the opened majors, 1-1 also denies 4 or more spades.
+\end{itemize}
+\section*{1 opening}
+\label{sec:orgacde731}
+\begin{description}
+\item[{2}] stayman
+\item[{2}] 5+ transfer
+\item[{2}] 5+ transfer
+\item[{2}] 6+ transfer
+\item[{2}] 6+ transfer
+\end{description}
+\subsubsection*{Stayman:}
+\label{sec:org2aa2e10}
+1 - 2
+\begin{description}
+\item[{2}] no 4 card majora
+\begin{description}
+\item[{2}] invitational
+\item[{3}] 4-5 Smolen
+\item[{3}] 4-5 Smolen
+\end{description}
+\item[{2}] 4 could have 4
+\begin{description}
+\item[{2}] Invite with 4 spades
+\item[{2}] Invite without 4 spades
+\item[{3}] 4
+\end{description}
+\item[{2}] 4 no 4
+\end{description}
+\subsubsection*{Transfers:}
+\label{sec:orgf280fdd}
+1 - 2
+\begin{description}
+\item[{2}] 2-3
+\begin{description}
+\item[{2}] 5 invitational
+\item[{3}] 5 - 4
+\item[{3ld}] 5 - 4
+\item[{3}] 5 - 5
+\item[{3}] 6 invitational
+\item[{3}] 5
+\end{description}
+\item[{2}] 4 and a maximum
+\item[{3}] 4 and a minimum
+\end{description}
+
+1 - 2
+\begin{description}
+\item[{2}] at least Hx in 
+\begin{description}
+\item[{3}] to play
+\item[{3/M}] shortness
+\end{description}
+\item[{3}] no honor in 
+\begin{description}
+\item[{pass}] to play
+\item[{3/M}] shortness
+\end{description}
+\end{description}
+\section*{2 opening}
+\label{sec:org504a6c2}
+\begin{description}
+\item[{3}] stayman
+\begin{description}
+\item[{3}] no major
+\begin{itemize}
+\item 3 4-5 Smolen
+\item 3 4-5 smolen
+\end{itemize}
+\item[{3}] 4 could have 4
+\begin{itemize}
+\item 3 4
+\end{itemize}
+\item[{3}] 4 no 4
+\end{description}
+\item[{3}] 5+
+\item[{3}] 5+
+\end{description}
+\section*{2 Opening}
+\label{sec:orga7630f9}
+\begin{description}
+\item[{2}] waiting
+\begin{description}
+\item[{2}] Kokish: 5+ or 24+ balanced, forces 2
+\begin{description}
+\item[{2}] forced
+\begin{itemize}
+\item 2 24+ balanced → system on
+\item 3 5-4
+\item 3 5-4
+\item 3 6+
+\item 3 5-4
+\end{itemize}
+\end{description}
+\item[{2}] 5+ 
+\begin{description}
+\item[{2}] Asking
+\begin{itemize}
+\item 3 5-4
+\item 3 5-4
+\item 3 5-4
+\item 3 6+
+\end{itemize}
+\end{description}
+\item[{2}] 22-23 balanced → system on
+\item[{3}] 5+ 
+\begin{description}
+\item[{3}] Asking
+\begin{itemize}
+\item 3 5 - 4
+\item 3 5 - 4
+\item 3 no 4 card majors
+\end{itemize}
+\end{description}
+\item[{3}] 5+, no 4M
+\item[{3}] 5 4
+\item[{3}] 5 4
+\end{description}
+\item[{2M}] 5+M 8+ points
+\item[{3m}] 6+m 8+ points
+\end{description}
+
+Bidding something different of the 2 waiting bid over the 2 club opener usually takes a lot of bidding space and makes it very difficult to fully describe the hand by the opener. Therefore we must be careful if we skip the relay and make it only with hands with good suits. If our suit is not good enough we should just bid the relay. 
+\section*{Weak 2 openings continuations}
+\label{sec:org0b2f611}
+\begin{itemize}
+\item 3 level raise: preemptive raise with 3 card support
+\item 4 level raise: To play, preemptive or with values
+\item 2 level new suit: natural forcing 1 round
+\item 3 level new suit: natural
+\item Jump to new suits(below game): splinter with slam interest
+\item 2: feature ask
+\end{itemize}
+
+2x - 2 feature ask
+\begin{itemize}
+\item 3x               minimum
+\item 3 new suit:  maximum with values in the bid suit
+\item 3:            maximum with no values in the side suits
+\item New suit 4rth level: Shortness on the bid suit
+\end{itemize}
+\section*{Constructive bidding conventions}
+\label{sec:org8be17a5}
+\subsubsection*{2/1 auctions}
+\label{sec:org97edb32}
+1-2 and 1-2 are natural and promising 5 or more diamonds.\\
+1-2 similarly promises 5 or hearts and is \\
+1-2, 1-2 and 1-2 are and could be natural or they could be from a balanced hand with no better bid.\\
+
+After a 2/1 response opener describes his hand naturally, but he can not bid above 2 of the opening suit unless he has 15+ points.\\
+
+Examples:\\
+1 - 2
+\begin{description}
+\item[{2}] 6+ or 4+ 12-14 with no other bid
+\item[{2}] 5+ - 4 15+ (above 2 of the opening suit shows extras)
+\item[{2}] 5+ - 4 15+
+\item[{2}] balanced 18-19 (could have 4 card majors)
+\item[{3}] 5+-4+ 15+
+\item[{3}] solid diamond suit 15+
+\end{description}
+
+1 - 2
+\begin{description}
+\item[{2}] 5+ - 4+ 12-22
+\item[{2}] 6+ or 5 12-14 with no 4
+\begin{description}
+\item[{2}] waiting, usually balanced 15+
+\item[{3}] 5+ - 4+ slam interest or worried about a heart stop
+\item[{3}] 6+ slam interest or very unbalanced
+\item[{3}] 5+ - 4 slam interest or worried about a club stop
+\item[{3}] 3+ 14+, slam try
+\item[{3}] to play, could be from an unbalanced hand
+\end{description}
+\item[{2}] 18-19 balanced
+\item[{3}] 5+-4+ 15+
+\item[{3}] 5+-3+ 15+
+\item[{3}] solid spade suit 15+
+\end{description}
+
+Because we play Maas raise over the 1M opening delayed support trough 2/1 shows a hand with at least 15 points, therefore partner should follow the slam try unless superminimum.\\
+\subsubsection*{XYZ}
+\label{sec:org8a7dd74}
+After any 1x-1y-1x auctions like:\\
+1 - 1\\
+1\\
+
+1-1\\
+1\\
+…\\
+We play:\\
+\begin{description}
+\item[{2}] forces 2\\
+
+a) A weak hand that wants to play 2 or\\
+b) Any invitational hand
+
+\item[{2}] ANY hands, asks partner to describe his hand
+\item[{3}] to play
+\end{description}
+
+Exemple:\\
+1 - 1\\
+1\\
+\begin{description}
+\item[{2}] weak or any inv
+\begin{description}
+\item[{2}] forced
+\begin{description}
+\item[{Pass}] weak with 5+
+\item[{2}] 5 - 4 inv
+\item[{2}] 5 inv
+\item[{2}] 4 inv
+\end{description}
+\end{description}
+\item[{2}] any 
+\begin{description}
+\item[{2}] 4 could have 3
+\item[{2}] 3, no 4
+\item[{2}] no 3 and no 4
+\end{description}
+\item[{3}] 5+ - 4 to play
+\end{description}
+\subsubsection*{Fourth suit }
+\label{sec:org3e8d840}
+When opener bids a second suit at the 2 or higher level then bidding the remaining unbid suit by the responder is game forcing and asks for more information about the opener’s hand.\\
+
+1 - 1\\
+2 -? \\
+
+1 - 1\\
+2 -? \\
+… \\
+
+Bidding the fourth suit (the last remaining unbid suit) is artificial and game forcing. It asks if opener has 3 card support for responder’s suit or a stopper in the fourth suit. \\
+With no 3 card support nor a stopper in the fourth suit and no other descriptive bid to make opener can rebid his opening suit: waiting and showing no better bid. \\
+\subsubsection*{Third suit game forcing}
+\label{sec:org390cb94}
+After a 1 level opening and a ONE of a SUIT response and opener rebidding his opening suit at the 2 level:\\
+1 - 1\\
+2\\
+
+1 - 1\\
+2\\
+…\\
+
+Bidding without jumping one of the two remaining suits is game forcing. \\
+The bids are natural in principle, but could be done on just a 2 or 3 card suit if worried about a stopper in the remaining unbid suit. The cheaper of the two bids could also be done without a real suit in order to set up a game forcing auction.\\
+Exemple:\\
+1 - 1\\
+2 - ?
+\begin{description}
+\item[{2}] 3 suit , it doesn’t promise diamonds
+\begin{description}
+\item[{2}] 5+ - 4, no 3
+\item[{2}] 3
+\item[{2}] stopper, no 3
+\item[{3}] 6+, no 3, no good stop
+\item[{3}] 5+ - 4
+\end{description}
+\item[{2}] 3 suit , usually 4+, could be just 3 looking for a stop
+\begin{description}
+\item[{2}] 3
+\item[{2}] stopper
+\item[{3}] 6+ no stopper, no 3
+\end{description}
+\end{description}
+\subsubsection*{Checkback}
+\label{sec:org0101f18}
+
+After 1m-1M-2 :: 3 is checkback and asks for 3 card support in the major or 4 cards in the other major:\\
+1m - 1M\\
+2 - ?
+\begin{description}
+\item[{3}] checkback
+\begin{description}
+\item[{3}] 3M AND 4oM
+\item[{3M}] 3M no 4oM
+\item[{3oM}] 4oM no 3M
+\item[{3}] no 3M nor 4oM
+\end{description}
+\item[{3M}] 6+M game forcing
+\end{description}
+\subsubsection*{Slam bidding}
+\label{sec:orgdd2c15b}
+\begin{itemize}
+\item 1430 RKCB
+\item Non serious 3
+\item Italian style cuebids
+\end{itemize}
+\section*{Competitive bidding}
+\label{sec:org2c1bda6}
+\subsubsection*{We open and they overcall}
+\label{sec:orgf6cbeff}
+If they double our 1 of a suit opening bid:
+\begin{center}
+\begin{tabular}{ll}
+ReDBL & 11+ any distribution\\
+1 of a suit & natural F1\\
+1 & natural 8-10\\
+2 of a suit & natural (7-10)\\
+Jump support & preemptive.\\
+Jump into new suit & preemptive.\\
+\end{tabular}
+\end{center}
+
+
+If they overcall with 1\\
+\begin{center}
+\begin{tabular}{ll}
+DBL & 9+ points\\
+2 of a suit & natural to play\\
+\end{tabular}
+\end{center}
+
+If they overcall with a new suit\\
+\begin{center}
+\begin{tabular}{ll}
+DBL & 8+ points, TO and no other bid\\
+1 of a suit & 8+ 4+suit F1\\
+1 & 8-10 with a stopper. No support or unbid 4 card major\\
+2 of a suit(no jump) & 11+ 5+suit, forcing up to suit rebid\\
+2 of opening suit & simple raise 5-10\\
+3 of a suit(no jump) & 5+suit\\
+Cuebid & support 11+\\
+Jump cuebid & support with shortness in opponents suit\\
+Jump support & preemptive\\
+\end{tabular}
+\end{center}
+\subsubsection*{Two suited overcalls}
+\label{sec:org783bd26}
+Unusual two no trumps:\\
+(1x) - 2 shows at least 5/5 in the lowest ranking unbid suits. \\
+Micheal cuebid:\\
+(1m) - 2m shows at least a 5/5 in the majors\\
+
+(1M) - 2M shows at least 5 cards in the unbid major and 5 cards in one of the two minors. Partner can use 2(or 4) to ask which is the minor\\
+\subsubsection*{After we overcall at the 1 or 2 level without jump}
+\label{sec:orge9e54bc}
+\begin{itemize}
+\item New suits at the 1 level are forcing for 1 round
+\item New suits at the 2 level are not forcing but show a constructive or invitational hand
+\item New suits at the 3 level are both with and without a jump
+\item 1/2 are both natural showing a stopper in the opponents’ suit. 1 shows 8-11 points, 2 after a 1 level overcall shows 12-14 points and 2 after a 2 level overcall show 9-11 points.
+\item Cuebidding opponents' suit without jump shows either an invitational or better support or a balanced hand with enough strength to play game but no stopper in opponents suit.
+\item Jump cuebidding shows a mixed raise (4card support 6-9hcp and some distribution)
+\end{itemize}
+
+(1) - 1 - (pass) - ? 
+\begin{description}
+\item[{1}] 4+ F1
+\item[{1}] 8-11 with a stopper
+\item[{2}] invitational or better support or 15+ points balanced with no stopper
+\item[{2}] 5+ 9-14 MF
+\item[{2}] 3+ 7-10
+\item[{2}] 12-14 with a stopper
+\item[{3}] mixed raise
+\item[{3}] 5+
+\end{description}
+\section*{UBH}
+\label{sec:orga7d8cbe}
+The name is self explanatory
+\end{document}
