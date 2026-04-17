@@ -18,10 +18,13 @@
 *** Inverted minors
 1!c-2!c and 1!d-2!d show an invitational or better raise without a 4 card or longer major. \\
 Inverted minors continuations:
-- New suits without jumps show stoppers, and are bid up the line. 
-- Jumps to new suits show shortness. 
-- Bidding NTs indicates that we think we have all suits stopped. 
-Bidding 2NT or 3 of the opened minors are always not forcing. By responder it shows he only had an invitational raise, and by opener it shows he would not accept an invite. \\
+- bidding a new suit are natural from an unbalanced hand
+- Jumps to a new suit show shortness. 
+- 2NT shows a balanced hand 12-14
+- 3NT shows a balanced hand 18-19
+- 3 in the minor shows a minimum unbalanced hand, and is not forcing.
+Bidding 3 of the opened minors is always not forcing by either player. By responder it shows he only had an invitational raise, and by opener it shows he would not accepted an invite.\\
+3 of the minor is the only contract below game that we can play, any other bid below game is therefore forcing.\\
 \\
 1m - 3m show a less than invitational raise and deny a side 4 card major. The hand should be strong enough to want to be in game opposite 18-19 balanced. 
 
@@ -119,7 +122,10 @@ When partner opens a major and we have 14/15+ points and a fit we start by biddi
 - Jump to new suits(below game): splinter with slam interest
 - 2NT: shortness ask
 
-2!h - 2NT shortness ask
+*** 2NT shortness ask
+Responses:
+
+2!d - 2NT shortness ask
 - 3!c :: !c singleton or void any range
 - 3!d :: minimum, no !c shortness
 - 3!h :: !h singleton or void, maximum
@@ -286,6 +292,31 @@ If they overcall with a new suit\\
 | Jump cuebid | GF support with shortness in opponents suit   |
 | Jump support |  preemptive  |
 
+Example:\\
+Parenthesis denote bids made by the opponents\\
+1!h - (DBL) - ?
+- pass :: 0-10 no other bid
+- ReDBL :: 11+ any distribution
+- 1!s :: 4+!s F1
+- 1NT :: 8-10 natural
+- 2!c :: natural, good suit, NF
+- 2!d :: natural, good suit, NF
+- 2!h :: simple raise
+- 3!h :: preemptive raise
+
+After 1x - (DBL) - ReDBL we are in a forcing situation, either we defend a doubled contract or we play a contract ourself  \\
+Example 2:\\
+1!d - (1!s) - ?
+- pass :: no other bid
+- DBL :: 8+, usually 4!h (could 3 or 5+!h with no better bid)
+- 1NT :: 8-10 with a spade stopper. no 4+!h
+- 2!c :: 5+!c 10+ F1
+- 2!d :: simple raise
+- 2!h :: 5+!h 10+ F1
+- 2!s :: cuebid, 11+ with diamond support
+- 3!d :: preemptive, 0-6 5+!d
+- 3!s :: jump cuebid. GF with 0-1!s and diamond support
+  
 *** Two suited overcalls
 Unusual two no trumps:\\
 (1x) - 2NT shows at least 5/5 in the lowest ranking unbid suits. \\
