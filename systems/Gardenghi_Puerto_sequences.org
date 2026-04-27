@@ -784,7 +784,7 @@ If the 6+suit minimum step is 3!d then there is no relay, but if the suit shown 
 
 - 3!d :: 5422 or 5431 low short
   - 3!h :: ask =L short/22=
-  - 3!s :: 5 cards in the higher ranking of the other two suits\\
+  - 3!s :: <mark>5 cards in the higher ranking of the other two suits</mark>\\
      (i.e. the suit you could have 3)
 - 3!h :: 5431 high short
 - 3!s :: 6/4 (6/4 max when 5/5 is impossible)
@@ -798,11 +798,11 @@ If the 6+suit minimum step is 3!d then there is no relay, but if the suit shown 
     - 3!h :: 5431 high short ( we could still have 3 suits in play )
     - 3!s :: 5431 low short
     - 3NT :: 5422
-  - 3!h :: 5 cards in the higher ranking of the other two suits\\
+  - 3!h :: <mark>5 cards in the higher ranking of the other two suits</mark>\\
     (if this is possible)
 - 3!d :: 5422 or 5431 low short max
   - 3!h :: ask =L/22=
-  - 3!s :: 5 cards in the higher ranking of the other two suits\\
+  - 3!s :: <mark>5 cards in the higher ranking of the other two suits</mark>\\
     (if this is possible)
 - 3!h :: 5431 high short
 - 3!s :: 6/4 (6/4 min when 5/5 is impossible)
@@ -815,10 +815,10 @@ If the 6+suit minimum step is 3!d then there is no relay, but if the suit shown 
   3!c ask and smae as below w/o the 3!c step
 - 3!c :: 5/4 bottom 3rd of range
   - 3!d :: ask H/L/22
-  - 3!h :: 5 cards on the higher ranking of the other two suits.
+  - 3!h :: <mark>5 cards on the higher ranking of the other two suits.</mark>
 - 3!d :: 5422 or 5431 low short middle range;
   - 3!h :: ask =L short/22=
-  - 3!s :: 5 cards in the higher ranking of the other two suits.
+  - 3!s :: <mark>5 cards in the higher ranking of the other two suits.</mark>
 - 3!h :: 5431 high short middle 3rd of range
 - 3!s :: 6/4 bottom half
 - 3NT :: 5/5 bottom half (if no 5/5: then 6/4 upper bottom half)
